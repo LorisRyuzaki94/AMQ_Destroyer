@@ -4,15 +4,6 @@ import pytesseract as loki
 import json
 import keyboard
 
-'''
-
-cambiare i path di AMQ_Destroyer
-
-modificare coordinate di
-    pag.screenshot
-    pag.click
-'''
-
 loki.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
 with open("C:/Users/user6_12_1/Desktop/AMQ_Bot/AMQ_Destroyer/db.json", "r") as db:
@@ -75,8 +66,5 @@ while True:
 '''
 '''
 da fare:
-    selezione del primo guess invece dell'invio per confermare
-    aggiunta di canzoni non conosciute quando "non presente"
-    traduzione dal giapponese del testo riconosciuto
-    errore nel riconoscere parole corte? (Redo, Zero!!)
+
 '''

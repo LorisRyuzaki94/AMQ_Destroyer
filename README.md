@@ -19,3 +19,21 @@ installare keyboard scrivendo nel cmd il comando:
 installare l'eseguibile di tesseract:
 
 - https://github.com/UB-Mannheim/tesseract/wiki
+
+### To-Do list
+
+- cambiare i path di AMQ_Destroyer
+
+- modificare coordinate di:
+
+pag.screenshot
+
+pag.click
+
+- selezione del primo guess invece dell'invio per confermare
+
+- aggiunta di canzoni non conosciute quando "non presente"
+
+- traduzione dal giapponese del testo riconosciuto
+
+- errore nel riconoscere parole corte? (Redo, Zero!!)
