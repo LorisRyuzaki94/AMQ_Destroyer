@@ -71,7 +71,7 @@ while not keyboard.is_pressed("q"):
             pag.screenshot(MARK, region=(580, 110, 330, 60))
 
     while not searching:
-        pag.screenshot(MARK, region=(690, 180, 60, 70))
+        pag.screenshot(MARK, region=(580, 110, 330, 60))
         if (loki.image_to_string(MARK) != ""):
             searching = True
             clicked = False
