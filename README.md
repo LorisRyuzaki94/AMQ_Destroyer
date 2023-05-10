@@ -26,9 +26,9 @@ installare l'eseguibile di tesseract:
 
 - modificare coordinate di:
 
-pag.screenshot
+- - pag.screenshot
 
-pag.click
+- - pag.click
 
 - selezione del primo guess invece dell'invio per confermare
 
