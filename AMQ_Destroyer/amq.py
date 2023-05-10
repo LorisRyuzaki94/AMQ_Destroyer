@@ -25,7 +25,7 @@ if not os.path.exists(TesseractPath):
                 print(os.path.abspath(os.path.join(root, name)))
 else:
     print("esiste il file")
-'''
+
 loki.pytesseract.tesseract_cmd = "";
 
 with open(DATABASE, "r") as db:
@@ -45,7 +45,7 @@ while not keyboard.is_pressed("q"):
                 pag.click(1690, 65)
                 clicked = True
                 time.sleep(3)
-                pag.screenshot(ANNULLA, region=(1612, 93, 80, 40))
+                pag.screenshot(ANNULLA, region=(1615, 93, 80, 40))
 
             if (pag.locateCenterOnScreen(ANNULLA) == None):
                 if (pag.locateCenterOnScreen(PATH_AMQ_DESTROYER + 'images/error.png') == None):
@@ -80,3 +80,18 @@ while not keyboard.is_pressed("q"):
             searching = True
             clicked = False
         time.sleep(1)
+'''
+
+def appendToJson(keyword, keyword2, value, jsonFile):
+    with open(PATH_AMQ_DESTROYER + jsonFile, "r") as file:
+        data = json.loads(file.read())
+
+    if keyword not in data:
+        data[keyword] = {keyword2 : value}
+    else: 
+        data[keyword].update({keyword2 : value})
+
+    with open(PATH_AMQ_DESTROYER + jsonFile, 'w') as file:
+        file.write(json.dumps(data, sort_keys=True, indent=4, separators=(',', ': ')))
+
+#appendToJson("lisa", "adamas", "Sword Art Online: Alicization", "/db.json")
