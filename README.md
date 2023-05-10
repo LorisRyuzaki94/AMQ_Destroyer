@@ -2,7 +2,8 @@
 
 ## Bot di AMQ
 
-### istruzioni per python
+### Istruzioni per Python
+
 
 installare pyautogui scrivendo nel cmd il comando:
 
