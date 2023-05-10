@@ -5,6 +5,7 @@ import json
 import keyboard
 
 PATH_AMQ_DESTROYER = "C:/Users/user6_12_1/Desktop/AMQ_Bot/AMQ_Destroyer/"
+DATABASE = PATH_AMQ_DESTROYER + "db.json"
 MARK = PATH_AMQ_DESTROYER + "images/mark.png"
 ANNULLA = PATH_AMQ_DESTROYER + "images/annulla.png"
 BAND = PATH_AMQ_DESTROYER + "images/band.png"
@@ -12,7 +13,7 @@ SONG = PATH_AMQ_DESTROYER + "images/song.png"
 
 loki.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
-with open(PATH_AMQ_DESTROYER + "db.json", "r") as db:
+with open(DATABASE, "r") as db:
     data = json.load(db)
 
 searching = True
@@ -44,6 +45,9 @@ while not keyboard.is_pressed("q"):
                         print("trovato\n\t"+band+"\t"+song+"\t"+anime)
                     except:
                         print("non presente nel database:\n\t- "+band+"\t"+song)
+                        database = open(DATABASE, "a")
+                        database.write("\t\t\t\""+band+"\": {\n\t\t\t\t\""+song+"\": \""+anime+"\"")
+                        database.close()
                     pag.write(anime)
                     pag.press('enter')
                 
