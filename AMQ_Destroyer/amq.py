@@ -4,9 +4,6 @@ import pytesseract as loki
 import json
 import keyboard
 
-'''
-palle
-'''
 PATH_AMQ_DESTROYER = "C:/Users/user6_12_1/Desktop/AMQ_Bot/AMQ_Destroyer/"
 DATABASE = PATH_AMQ_DESTROYER + "db.json"
 MARK = PATH_AMQ_DESTROYER + "images/mark.png"
