@@ -3,15 +3,30 @@ import time
 import pytesseract as loki
 import json
 import keyboard
+import os
 
-PATH_AMQ_DESTROYER = "C:/Users/user6_12_1/Desktop/AMQ_Bot/AMQ_Destroyer/"
-DATABASE = PATH_AMQ_DESTROYER + "db.json"
-MARK = PATH_AMQ_DESTROYER + "images/mark.png"
-ANNULLA = PATH_AMQ_DESTROYER + "images/annulla.png"
-BAND = PATH_AMQ_DESTROYER + "images/band.png"
-SONG = PATH_AMQ_DESTROYER + "images/song.png"
+PATH_AMQ_DESTROYER = os.path.dirname(__file__)
+DATABASE = PATH_AMQ_DESTROYER + "/db.json"
+MARK = PATH_AMQ_DESTROYER + "/images/mark.png"
+ANNULLA = PATH_AMQ_DESTROYER + "/images/annulla.png"
+BAND = PATH_AMQ_DESTROYER + "/images/band.png"
+SONG = PATH_AMQ_DESTROYER + "/images/song.png"
 
-loki.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
+'''
+TesseractPath = r'C:/Program Files/Tesseract-OCS/tesseract.exe'
+
+if not os.path.exists(TesseractPath):
+    for root, dirs, files in os.walk(r'C:/'):
+        for name in files:
+       
+          # As we need to get the provided python file,
+        # comparing here like this
+            if name == "tesseract.exe": 
+                print(os.path.abspath(os.path.join(root, name)))
+else:
+    print("esiste il file")
+'''
+loki.pytesseract.tesseract_cmd = "";
 
 with open(DATABASE, "r") as db:
     data = json.load(db)
@@ -65,12 +80,3 @@ while not keyboard.is_pressed("q"):
             searching = True
             clicked = False
         time.sleep(1)
-
-'''
-# Stampa le coordinate del cursore quando premi Q
-while True:
-    if keyboard.is_pressed('q'):
-        x, y = pag.position()
-        print(str(x)+", "+str(y))
-        time.sleep(1)
-'''
