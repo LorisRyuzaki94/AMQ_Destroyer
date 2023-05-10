@@ -36,10 +36,8 @@ installare l'eseguibile di tesseract:
 
 - - pag.click
 
-- selezione del primo guess invece dell'invio per confermare
-
 - aggiunta di canzoni non conosciute quando "non presente"
 
 - traduzione dal giapponese del testo riconosciuto
 
-- errore nel riconoscere parole corte? (Redo, Zero!!)
+- errore nel riconoscere parole corte? (Redo, ALI)
