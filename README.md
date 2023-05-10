@@ -22,7 +22,10 @@ installare l'eseguibile di tesseract:
 
 ### To-Do list
 
-- cambiare i path di AMQ_Destroyer
+- rendere automatici i path di AMQ_Destroyer
+- - Cerca l'indirizzo di "tesseract.exe"
+- - Basare i path sulla work directory
+- Creare un file "settings.json" in cui memorizzare i vari path e coordinate
 
 - modificare coordinate di:
 
