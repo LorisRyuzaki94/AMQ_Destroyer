@@ -12,7 +12,6 @@ ANNULLA = PATH_AMQ_DESTROYER + "/images/annulla.png"
 BAND = PATH_AMQ_DESTROYER + "/images/band.png"
 SONG = PATH_AMQ_DESTROYER + "/images/song.png"
 
-'''
 TesseractPath = r'C:/Program Files/Tesseract-OCS/tesseract.exe'
 
 if not os.path.exists(TesseractPath):
@@ -80,7 +79,7 @@ while not keyboard.is_pressed("q"):
             searching = True
             clicked = False
         time.sleep(1)
-'''
+
 
 def appendToJson(keyword, keyword2, value, jsonFile):
     with open(PATH_AMQ_DESTROYER + jsonFile, "r") as file:
