@@ -5,10 +5,15 @@ import json
 import keyboard
 
 PATH_AMQ_DESTROYER = "C:/Users/user6_12_1/Desktop/AMQ_Bot/AMQ_Destroyer/"
+DATABASE = PATH_AMQ_DESTROYER + "db.json"
+MARK = PATH_AMQ_DESTROYER + "images/mark.png"
+ANNULLA = PATH_AMQ_DESTROYER + "images/annulla.png"
+BAND = PATH_AMQ_DESTROYER + "images/band.png"
+SONG = PATH_AMQ_DESTROYER + "images/song.png"
 
 loki.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
-with open(PATH_AMQ_DESTROYER + "db.json", "r") as db:
+with open(DATABASE, "r") as db:
     data = json.load(db)
 
 searching = True
@@ -16,23 +21,23 @@ anime = ""
 clicked = False
 
 while not keyboard.is_pressed("q"):
-    pag.screenshot(PATH_AMQ_DESTROYER + 'images/mark.png', region=(690, 180, 60, 70))
+    pag.screenshot(MARK, region=(690, 180, 60, 70))
 
     while searching:
 
-        if (loki.image_to_string(PATH_AMQ_DESTROYER + 'images/mark.png') == ""):
+        if (loki.image_to_string(MARK) == ""):
             if not clicked:
                 pag.click(1690, 65)
                 clicked = True
                 time.sleep(3)
-                pag.screenshot(PATH_AMQ_DESTROYER + 'images/annulla.png', region=(1612, 93, 80, 40))
+                pag.screenshot(ANNULLA, region=(1612, 93, 80, 40))
 
-            if (pag.locateCenterOnScreen(PATH_AMQ_DESTROYER + 'images/annulla.png') == None):
+            if (pag.locateCenterOnScreen(ANNULLA) == None):
                 if (pag.locateCenterOnScreen(PATH_AMQ_DESTROYER + 'images/error.png') == None):
-                    pag.screenshot(PATH_AMQ_DESTROYER + 'images/band.png', region=(1300, 210, 400, 50))
-                    pag.screenshot(PATH_AMQ_DESTROYER + 'images/song.png', region=(1300, 160, 400, 50))
-                    band = (loki.image_to_string(PATH_AMQ_DESTROYER + 'images/band.png')).replace('\n', '')
-                    song = (loki.image_to_string(PATH_AMQ_DESTROYER + 'images/song.png')).replace('\n', '')
+                    pag.screenshot(BAND, region=(1300, 210, 400, 50))
+                    pag.screenshot(SONG, region=(1300, 160, 400, 50))
+                    band = (loki.image_to_string(BAND)).replace('\n', '')
+                    song = (loki.image_to_string(SONG)).replace('\n', '')
 
                     pag.click(640, 695)
                     try:
@@ -40,6 +45,9 @@ while not keyboard.is_pressed("q"):
                         print("trovato\n\t"+band+"\t"+song+"\t"+anime)
                     except:
                         print("non presente nel database:\n\t- "+band+"\t"+song)
+                        database = open(DATABASE, "a")
+                        database.write("\t\t\t\""+band+"\": {\n\t\t\t\t\""+song+"\": \""+anime+"\"")
+                        database.close()
                     pag.write(anime)
                     pag.press('enter')
                 
@@ -49,11 +57,11 @@ while not keyboard.is_pressed("q"):
 
                 searching = False
         else:
-            pag.screenshot(PATH_AMQ_DESTROYER + 'images/mark.png', region=(690, 180, 60, 70))
+            pag.screenshot(MARK, region=(690, 180, 60, 70))
 
     while not searching:
-        pag.screenshot(PATH_AMQ_DESTROYER + 'images/mark.png', region=(690, 180, 60, 70))
-        if (loki.image_to_string(PATH_AMQ_DESTROYER + 'images/mark.png') != ""):
+        pag.screenshot(MARK, region=(690, 180, 60, 70))
+        if (loki.image_to_string(MARK) != ""):
             searching = True
             clicked = False
         time.sleep(1)
