@@ -77,7 +77,7 @@ while not keyboard.is_pressed("q"):
             clicked = False
         time.sleep(1)
 
-'''
+
 def appendToJson(keyword, keyword2, value, jsonFile):
     with open(PATH_AMQ_DESTROYER + jsonFile, "r") as file:
         data = json.loads(file.read())
@@ -91,4 +91,3 @@ def appendToJson(keyword, keyword2, value, jsonFile):
         file.write(json.dumps(data, sort_keys=True, indent=4, separators=(',', ': ')))
 
 #appendToJson("lisa", "adamas", "Sword Art Online: Alicization", "/db.json")
-'''
