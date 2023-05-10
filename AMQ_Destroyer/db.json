@@ -1,5 +1,8 @@
 {
     "latin": {
+        "501st joint fighter wing": {
+            "bookmark a head (type-11)": "Strike Witches"
+        },
         "aki misato": {
             "sayonara kimino koe": "Mashiro-iro Symphony: The color of lovers"
         },
@@ -12,14 +15,20 @@
         "angela": {
             "zenryoku summer!": "Aho-Girl"
         },
-        "Anna Tsuchiya":{
-            "My Fate": "The Wings of Rean"
+        "anna tsuchiya":{
+            "my fate": "The Wings of Rean"
         },
-        "Aoi Yuki":{
-            "Gudafuwa Everyday": "slime300"
+        "aoi yuki":{
+            "gudafuwa everyday": "slime300"
         },
         "ascii media works": {
             "black ballet": "Black Bullet"
+        },
+        "band-maid": {
+            "Sense": "Platinum End"
+        },
+        "black stars": {
+            "touhon seisou kousinkyoku": "Kaiju Girls Black"
         },
         "blend-a": {
             "bon appetit s (tv size version)": "Blend-S"
@@ -41,25 +50,31 @@
         },
         "claris": {
             "click - tv mix": "Nisekoi",
-            "irony": "Oreimo",
-            "hitorigoto": "Eromanga Sensei"
+            "hitorigoto": "Eromanga Sensei",
+            "irony": "Oreimo"
         },
         "coda": {
-            "fighting gold (from jojo's bizarre adventure —golden wind)": "JoJo's Bizarre Adventure: Golden Wind",
-            "bloody stream": "JoJo's Bizarre Adventure"
+            "bloody stream": "JoJo's Bizarre Adventure",
+            "fighting gold (from jojo's bizarre adventure —golden wind)": "JoJo's Bizarre Adventure: Golden Wind"
         },
-        "Cosmos People & Mariko Goto":{
-            "Aku no Hana - Sawa Nakamura": "Flowers of evil"
+        "cosmos people & mariko goto":{
+            "aku no hana - sawa nakamura": "Flowers of evil"
         },
         "creepy nuts": {
             "daten": "Call of the Night"
+        },
+        "customi-z": {
+            "coolest": "Sakamoto desu ga?"
+        },
+        "does": {
+            "a cloudy sky": "Gintama"
         },
         "dwb": {
             "one reason (feat. fade)": "Deadman Wonderland"
         },
         "egoist": {
             "the everlasting guilty crown": "Guilty Crown",
-            "kabaneri of the iron f.ortress": "Koutetsujou no Kabaneri"
+            "kabaneri of the iron fortress": "Koutetsujou no Kabaneri"
         },
         "eir aoi": {
             "sirius": "Kill la Kill",
@@ -101,20 +116,23 @@
         "haruna oshima": {
             "high-spec days": "Wagamama High Spec"
         },
-        "Hector Luis Delgado":{
-            "Que No Se Tiren": "MFKZ"
+        "hector luis delgado":{
+            "que no se tiren": "MFKZ"
         },
         "hello sleepwalkers": {
             "goyanomachiawase": "Noragami"
         },
-        "Hiroyuki Oshima":{
-            "why, or Why Not": "When They Cry"
+        "hiroyuki oshima":{
+            "why, or why not": "When They Cry"
         },
         "ichiko": {
             "first kiss": "Zero no Tsukaima"
         },
         "idolish7": {
             "monster generation": "IDOLiSH7"
+        },
+        "iori nomizu": {
+            "makasete tonight": "Is This a Zombie?"
         },
         "ito kanako": {
             "hacking to the gate": "Steins;Gate"
@@ -161,6 +179,9 @@
             "redo": "Re:Zero: Starting Life in Another World",
             "this game": "No Game No Life"
         },
+        "kotoko": {
+            "light my fire": "Shakugan no Shana Final"
+        },
         "ksuke": {
             "contradiction (feat. tyler carter)": "The God of High School"
         },
@@ -175,10 +196,14 @@
             "my soul, your beats!": "Angel Beats!"
         },
         "lisa": {
-            "my soul, your beats! (gldemo ver.)": "Angel Beats!",
-            "crossing field": "Sword Art Online",
             "adamas": "Sword Art Online: Alicization",
-            "gurenge": "Demon Slayer: Kimetsu no Yaiba"
+            "crossing field": "Sword Art Online",
+            "gurenge": "Demon Slayer: Kimetsu no Yaiba",
+            "my soul, your beats! (gldemo ver.)": "Angel Beats!",
+            "unlasting": "Sword Art Online: Alicization - War of Underworld"
+        },
+        "livetune, fukase & sekai no owari": {
+            "take your way": "Devil Survivor 2 The Animation"
         },
         "machico": {
             "fantastic dreamer": "KONOSUBA: God's Blessing on This Wonderful World!",
@@ -189,8 +214,8 @@
             "rise": "The Rising of the Shield Hero"
         },
         "man with a mission": {
-            "my hero": "Inuyashiki Last Hero",
-            "database (feat. takuma)": "Log Horizon"
+            "database (feat. takuma)": "Log Horizon",
+            "my hero": "Inuyashiki Last Hero"
         },
         "masayuki suzuki": {
             "giri giri (feat. suu)": "Kaguya-sama: Love is War - Ultra Romantic"
@@ -204,8 +229,8 @@
         "mayu maeshima": {
             "long shot": "Re:Zero: Starting Life in Another World"
         },
-        "Megumi Hayashibara":{
-            "Sakura Saku": "Love Hina Christmas Movie"
+        "megumi hayashibara":{
+            "sakura saku": "Love Hina"
         },
         "mika nakashima": {
             "kiss of death": "Darling in the FranXX"
@@ -225,16 +250,16 @@
         "miyavi & KenKen": {
             "flashback": "Kokkoku"
         },
-        "MONOGATARI Series":{
-            "Sugar Sweet Nightmare": "Bakemonogatari"
+        "monogatari series":{
+            "sugar sweet nightmare": "Bakemonogatari"
         },
         "mugiwara-san": {
             "super powers": "One Piece"
         },
         "myth & roid": {
-            "voracity(instrumental)": "Overlord III",
             "jingo jungle": "Saga of Tanya the Evil",
-            "paradisus-paradoxum": "Re:Zero: Starting Life in Another World"
+            "paradisus-paradoxum": "Re:Zero: Starting Life in Another World",
+            "voracity(instrumental)": "Overlord III"
         },
         "nakanoke no itsutsugo": {
             "gotoubun no kimochi": "The Quintessential Quintuplets"
@@ -243,6 +268,7 @@
             "metanoia": "Senki Zesshou Symphogear XV"
         },
         "nano": {
+            "silver sky": "Arpeggio of Blue Steel",
             "star light, star bright": "Conception"
         },
         "official hige dandism": {
@@ -312,15 +338,18 @@
             "kibounouta": "Shokugeki no Souma"
         },
         "uverworld": {
-            "touch off": "The Promised Neverland",
             "core pride": "Blue Exorcist",
-            "odd future": "My Hero Academia"
+            "odd future": "My Hero Academia",
+            "touch off": "The Promised Neverland"
         },
         "yasuharu takanashi": {
             "death metal shock": "Zombie Land Saga"
         },
         "yasuyuki okamura": {
             "viva namida": "Space Dandy"
+        },
+        "yu serizawa": {
+            "devikyu": "Mairimashita! Iruma-kun"
         },
         "yoko takahashi": {
             "zankoku na tenshi no thesis": "Neon Genesis Evangelion"
