@@ -4,8 +4,6 @@
 
 ### Istruzioni per Python
 
-
-
 installare pyautogui scrivendo nel cmd il comando:
 
 - py -m pip install pyautogui
