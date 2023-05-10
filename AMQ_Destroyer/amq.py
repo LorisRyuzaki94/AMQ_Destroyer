@@ -52,7 +52,7 @@ while not keyboard.is_pressed("q"):
                         info.remove('')
 
                     try:
-                        band = info[1]
+                        band = info[len(info) - 1]
                         song = info[0]
                     except:
                         print("errore\n\tproblema nel riconoscimento del testo")
