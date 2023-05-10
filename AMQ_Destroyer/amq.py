@@ -9,8 +9,7 @@ PATH_AMQ_DESTROYER = os.path.dirname(__file__)
 DATABASE = PATH_AMQ_DESTROYER + "/db.json"
 MARK = PATH_AMQ_DESTROYER + "/images/mark.png"
 ANNULLA = PATH_AMQ_DESTROYER + "/images/annulla.png"
-BAND = PATH_AMQ_DESTROYER + "/images/band.png"
-SONG = PATH_AMQ_DESTROYER + "/images/song.png"
+INFO = PATH_AMQ_DESTROYER + "/images/info.png"
 
 TesseractPath = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
@@ -39,17 +38,24 @@ while not keyboard.is_pressed("q"):
 
         if (loki.image_to_string(MARK) == ""):
             if not clicked:
-                pag.click(1705, 50)
+                pag.click(1715, 50)
                 clicked = True
-                time.sleep(3)
+                time.sleep(4)
                 pag.screenshot(ANNULLA, region=(1680, 85, 85, 40))
 
             if (pag.locateCenterOnScreen(ANNULLA) == None):
                 if (pag.locateCenterOnScreen(PATH_AMQ_DESTROYER + '/images/error.png') == None):
-                    pag.screenshot(BAND, region=(1350, 180, 410, 50))
-                    pag.screenshot(SONG, region=(1350, 130, 410, 50))
-                    band = (loki.image_to_string(BAND)).replace('\n', '')
-                    song = (loki.image_to_string(SONG)).replace('\n', '')
+                    
+                    pag.screenshot(INFO, region=(1345, 100, 420, 150))
+                    info = loki.image_to_string(INFO).split('\n')
+                    while '' in info:
+                        info.remove('')
+
+                    try:
+                        band = info[1]
+                        song = info[0]
+                    except:
+                        print("errore\n\tproblema nel riconoscimento del testo")
 
                     pag.click(750, 600)
 
@@ -75,7 +81,8 @@ while not keyboard.is_pressed("q"):
         if (loki.image_to_string(MARK) != ""):
             searching = True
             clicked = False
-        time.sleep(1)
+        else:
+            time.sleep(1)
 
 
 def appendToJson(keyword, keyword2, value, jsonFile):
