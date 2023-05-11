@@ -24,12 +24,16 @@ if not os.path.exists(TesseractPath):
 
 loki.pytesseract.tesseract_cmd = TesseractPath
 
+with open(PATH_AMQ_DESTROYER + "/settings.json", "r") as set:
+    settings = json.load(set)
+
 with open(DATABASE, "r") as db:
     data = json.load(db)
 
 searching = True
 anime = ""
 clicked = False
+annullaRegion = [settings['shazam-position'][0] - 90, settings['shazam-position'][1] + 25, 85, 40]
 
 while not keyboard.is_pressed("q"):
     pag.screenshot(MARK, region=(580, 110, 330, 60))
@@ -38,10 +42,10 @@ while not keyboard.is_pressed("q"):
 
         if (loki.image_to_string(MARK) == ""):
             if not clicked:
-                pag.click(1715, 50)
+                pag.click(settings['shazam-position'])
                 clicked = True
                 time.sleep(4)
-                pag.screenshot(ANNULLA, region=(1680, 85, 85, 40))
+                pag.screenshot(ANNULLA, region=(annullaRegion))
 
             if (pag.locateCenterOnScreen(ANNULLA) == None):
                 if (pag.locateCenterOnScreen(PATH_AMQ_DESTROYER + '/images/error.png') == None):
@@ -84,7 +88,6 @@ while not keyboard.is_pressed("q"):
         else:
             time.sleep(1)
 
-
 def appendToJson(keyword, keyword2, value, jsonFile):
     with open(PATH_AMQ_DESTROYER + jsonFile, "r") as file:
         data = json.loads(file.read())
@@ -98,3 +101,10 @@ def appendToJson(keyword, keyword2, value, jsonFile):
         file.write(json.dumps(data, sort_keys=True, indent=4, separators=(',', ': ')))
 
 #appendToJson("lisa", "adamas", "Sword Art Online: Alicization", "/db.json")
+
+
+
+
+print(settings['shazam-position'])
+
+
