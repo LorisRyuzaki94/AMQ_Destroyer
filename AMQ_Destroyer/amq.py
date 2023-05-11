@@ -24,8 +24,8 @@ if not os.path.exists(TesseractPath):
 
 loki.pytesseract.tesseract_cmd = TesseractPath
 
-with open(PATH_AMQ_DESTROYER + "/settings.json", "r") as set:
-    settings = json.load(set)
+with open(PATH_AMQ_DESTROYER + "/settings.json", "r") as config:
+    settings = json.load(config)
 
 with open(DATABASE, "r") as db:
     data = json.load(db)
@@ -40,15 +40,15 @@ while not keyboard.is_pressed("q"):
 
     while searching:
 
-        if (loki.image_to_string(MARK) == ""):
+        if loki.image_to_string(MARK) == "":
             if not clicked:
                 pag.click(settings['shazam-position'])
                 clicked = True
                 time.sleep(4)
                 pag.screenshot(ANNULLA, region=(annullaRegion))
 
-            if (pag.locateCenterOnScreen(ANNULLA) == None):
-                if (pag.locateCenterOnScreen(PATH_AMQ_DESTROYER + '/images/error.png') == None):
+            if pag.locateCenterOnScreen(ANNULLA) == None:
+                if pag.locateCenterOnScreen(PATH_AMQ_DESTROYER + '/images/error.png') == None:
                     
                     pag.screenshot(INFO, region=(1345, 100, 420, 150))
                     info = loki.image_to_string(INFO).split('\n')
@@ -82,7 +82,7 @@ while not keyboard.is_pressed("q"):
 
     while not searching:
         pag.screenshot(MARK, region=(580, 110, 330, 60))
-        if (loki.image_to_string(MARK) != ""):
+        if loki.image_to_string(MARK) != "":
             searching = True
             clicked = False
         else:
