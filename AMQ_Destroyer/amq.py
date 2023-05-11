@@ -5,6 +5,7 @@ import json
 import keyboard
 import os
 
+
 PATH_AMQ_DESTROYER = os.path.dirname(__file__)
 DATABASE = PATH_AMQ_DESTROYER + "/db.json"
 MARK = PATH_AMQ_DESTROYER + "/images/mark.png"
@@ -37,6 +38,16 @@ annullaRegion = [settings['shazam-position'][0] - 75, settings['shazam-position'
 markRegion = [settings['mark-position'][0] - 165, settings['mark-position'][1] - 30, 330, 60]
 screenshotRegion = [settings['shazam-position'][0] - 410, settings['shazam-position'][1] + 30, 420, 180]
 
+
+def normalize(reading):
+    replacements = [(".", ""), ("‘", "")]
+    for char, replacement in replacements:
+        if char in reading:
+            reading = reading.replace(char, replacement)
+
+    return reading
+
+
 while not keyboard.is_pressed("q"):
     pag.screenshot(MARK, region=markRegion)
 
@@ -66,7 +77,7 @@ while not keyboard.is_pressed("q"):
                     pag.click(settings['input-position'])
 
                     try:
-                        anime = (data[band.lower()][song.lower()])
+                        anime = (data[normalize(band.lower())][normalize(song.lower())])
                         print("trovato\n\t" + band + "\t" + song + "\t" + anime)
                     except:
                         print("non presente nel database:\n\t- " + band + "\t" + song)
@@ -88,7 +99,7 @@ while not keyboard.is_pressed("q"):
             searching = True
             clicked = False
         else:
-            time.sleep(1)
+            time.sleep(0.1)
 
 
 def appendToJson(keyword, keyword2, value, jsonFile):
