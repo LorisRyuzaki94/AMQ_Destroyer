@@ -2,11 +2,27 @@
     "501st joint fighter wing": {
         "bookmark a head (type-11)": "Strike Witches"
     },
+    "7 (vaal)": {
+        "| restart \u201cthe world\u201d (duet version)": "Trinity Seven"
+    },
+    "=\u2014f, papi, &y kl, a\u2014, mello & ff af": {
+        "ebrie fall in love": "Monster Musume: Everyday Lifewith Monster Girls"
+    },
+    "JAM Project": {
+        "THE HERO #! \u201cBN SSI KEDIS~": "One Punch Man"
+    },
+    "access": {
+        "hitomino tsubasa (tv size version)": "Code Geass: Lelouch of the Rebellion "
+    },
     "aki misato": {
         "sayonara kimino koe": "Mashiro-iro Symphony: The color of lovers"
     },
     "ali": {
         "wild-side": "Beastars"
+    },
+    "ali project": {
+        "waga routashi aku no hana": "Code Geass: Lelouch of theRehellion R?",
+        "yb (instrumental)": "Another"
     },
     "altima": {
         "burst the gravity": "Accel World"
@@ -17,17 +33,46 @@
     "angela": {
         "zenryoku summer!": "Aho-Girl"
     },
-    "anna tsuchiya":{
+    "anna tsuchiya": {
         "my fate": "The Wings of Rean"
     },
-    "aoi yuki":{
-        "gudafuwa everyday": "slime300"
+    "annabel": {
+        "annabel": "Another"
+    },
+    "aoi tada": {
+        "yakeochinai tsubasa (tv size)": "Charlotte"
+    },
+    "aoi yuki": {
+        "eien labyrinth": "My Girlfriend is Shobitch",
+        "gudafuwa everyday": "slime300",
+        "unbreakable": "Infinite Dendrogram"
     },
     "ascii media works": {
         "black ballet": "Black Bullet"
     },
+    "au": {
+        "wild side": "Beastars"
+    },
+    "aya": {
+        "fly me to the moon (aya bossa techno": "Neon Genesis Evangelion"
+    },
+    "b24 (cvaier) & bibl 74 (cve)": {
+        "shavadava in amazing (duet)": "\u2014 Qi"
+    },
     "band-maid": {
         "Sense": "Platinum End"
+    },
+    "bare a(cvsibeh)": {
+        "bare a(cvsibeh)": "TRENDING"
+    },
+    "batta": {
+        "chase": "JoJo's Bizarre Adventure:Diamond Is Unbreakable"
+    },
+    "bi": {
+        "3 a(cvsheho": "Teasing Master Takagi-san"
+    },
+    "black raison d\u2019\u00e9tre": {
+        "inside identity": "Love, Chunibyo & OtherDelusions!"
     },
     "black stars": {
         "touhon seisou kousinkyoku": "Kaiju Girls Black"
@@ -44,46 +89,78 @@
     "burnout syndromes": {
         "good morning world!": "Dr. Stone"
     },
-    "carole & tuesday (vo nai br.xx & celeina ann)": {
+    "bz": {
+        "bz": "Detective Conan"
+    },
+    "carole & tuesday (vo nai brxx & celeina ann)": {
         "give you the world c&t ver": "Carole & Tuesday"
     },
     "chemistry": {
         "period": "Fullmetal Alchemist: Brotherhood"
     },
+    "cinema staff": {
+        "name of love": "Attack on Titan Season 3"
+    },
+    "claire": {
+        "fly me to the moon": "Neon Genesis Evangelion"
+    },
     "claris": {
         "click - tv mix": "Nisekoi",
         "hitorigoto": "Eromanga Sensei",
-        "irony": "Oreimo"
+        "irony": "Oreimo",
+        "reunion": "Oreimo Season 2"
     },
     "coda": {
-        "bloody stream": "JoJo's Bizarre Adventure",
-        "fighting gold (from jojo's bizarre adventure —golden wind)": "JoJo's Bizarre Adventure: Golden Wind"
+        "_ fighting gold (from jojo's bizarre adventure \u2014": "JoJo's Bizarre Adventure:Golden Wind",
+        "bloody stream": "JoJo's Bizarre Adventure"
     },
-    "cosmos people & mariko goto":{
+    "coldrain": {
+        "feed the fire": "King's Game The Animation"
+    },
+    "cosmos people & mariko goto": {
         "aku no hana - sawa nakamura": "Flowers of evil"
     },
     "creepy nuts": {
-        "daten": "Call of the Night"
+        "daten": "Call of the Night",
+        "yofukashino uta": "Call of the Night"
     },
     "customi-z": {
         "coolest": "Sakamoto desu ga?"
+    },
+    "das feenreich": {
+        "era": "The Future Diary Redial",
+        "sexy oxs": "The Future Diary"
+    },
+    "dish//": {
+        "no1": "My Hero Academia"
+    },
+    "dn, 2 \u2014=+ (vier b)": {
+        "ni": "lsekai Quartet"
     },
     "does": {
         "a cloudy sky": "Gintama"
     },
     "dwb": {
-        "one reason (feat fade)": "Deadman Wonderland"
+        "one reason (feat fade)": "Deadman Wonderland",
+        "shiny shiny (feat nirgilis)": "Deadman Wonderland"
+    },
+    "eb cva)": {
+        "boe favor": "High School DxD BorN"
     },
     "egoist": {
-        "the everlasting guilty crown": "Guilty Crown",
-        "kabaneri of the iron fortress": "Koutetsujou no Kabaneri"
+        "kabaneri of the iron fortress": "Koutetsujou no Kabaneri",
+        "the everlasting guilty crown": "Guilty Crown"
     },
     "eir aoi": {
-        "sirius": "Kill la Kill",
+        "ignite (instrumental)": "Sword Art Online II",
         "innocence": "Sword Art Online",
-        "ignite (instrumental)": "Sword Art Online II"
+        "sirius": "Kill la Kill"
+    },
+    "evan call": {
+        "take me far away": "Josee, the Tiger and the Fish"
     },
     "eve": {
+        "ao no waltz": "Josee, the Tiger and the Fish",
         "bokurano": "My Hero Academia"
     },
     "faylan": {
@@ -93,21 +170,25 @@
         "let me hear": "Parasyte: The Maxim"
     },
     "fhana": {
-        "rhapsody of blue sky": "Miss Kobayashi's Dragon Maid"
-    },
-    "flumpool": {
-        "yoru wa nemurerukai?": "Ajin"
+        "rhapsody of blue sky": "Miss Kobayashi's Dragon Maid",
+        "somewhen, some worlds with you": "The Kawai Complex Guide toManors and Hoste! Behavior"
     },
     "flow": {
         "flow anime op ed size special collection": "Code Geass: Lelouch of the Rebellion"
+    },
+    "flumpool": {
+        "yoru wa nemurerukai?": "Ajin"
     },
     "fripside": {
         "level5-judgelight-": "Toaru Kagaku no Railgun",
         "only my railgun": "Toaru Kagaku no Railgun",
         "sister's noise": "Toaru Kagaku no Railgun S"
     },
-    "fujifabric":{
+    "fujifabric": {
         "tsuredure monochrome": "Tsuritama"
+    },
+    "garnet crow": {
+        "bikes": "Detective Conan"
     },
     "granrodeo": {
         "trash candy": "Bungo Stray Dogs"
@@ -118,20 +199,33 @@
     "haruna oshima": {
         "high-spec days": "Wagamama High Spec"
     },
-    "hector luis delgado":{
+    "hector luis delgado": {
         "que no se tiren": "MFKZ"
     },
     "hello sleepwalkers": {
         "goyanomachiawase": "Noragami"
     },
-    "hiroyuki oshima":{
+    "hiroko moriguchi": {
+        "blyrkrou this": "One Punch Man"
+    },
+    "hiroyuki oshima": {
         "why, or why not": "When They Cry"
     },
+    "hitomi harada": {
+        "anicca": "Unbreakable Machine-Doll"
+    },
+    "hs \u00a5 3(cvs oh)": {
+        "ws lampe s38 ~tf 9! -tv size ver-": "Himouto! Umaru-chan"
+    },
     "ichiko": {
-        "first kiss": "Zero no Tsukaima"
+        "first kiss": "Zero no Tsukaima",
+        "i'll be there for you": "The Familiar of Zero F"
     },
     "idolish7": {
         "monster generation": "IDOLiSH7"
+    },
+    "iku": {
+        "bue~ 22 kb 3 -b~": "A Certain Magical Index"
     },
     "iori nomizu": {
         "makasete tonight": "Is This a Zombie?"
@@ -140,13 +234,14 @@
         "hacking to the gate": "Steins;Gate"
     },
     "jam project": {
+        "the hero #! \u201cbn ssi kedis~": "One Punch Man",
         "uncrowned greatest hero": "One Punch Man"
     },
     "jin hashimoto": {
         "stand proud": "JoJo's Bizarre Adventure: Stardust Crusaders"
     },
-    "jo☆stars ～tommy,coda,jin～": {
-        "jojo sonochino kioku-end of the world- (kraoke)": "JoJo's Bizarre Adventure: Stardust Crusaders"
+    "jo%#stars ~tommy,coda,jin ~": {
+        "jojo sonochino kioku-end of the world- (kraoke)": "JoJo's Bizarre Adventure:Stardust Crusaders"
     },
     "kabumoto hideaki, horikoshi sena, dj kammy & beat party": {
         "ka ka ka kamizmode (anime version)": "Saikyou Kamizmode!"
@@ -154,12 +249,22 @@
     "kalafina": {
         "sprinter": "Kara no Kyoukai"
     },
-    "kana-boon": {
-        "brand-new": "Sarazanmai" ,
-        "_comment_sarazanmai_brand-new_is_massara": ""
+    "kaminomizosiritai": {
+        "next stage ii": "The World God Only KnowsSeacon Two"
     },
     "kana hanazawa": {
         "pokerface": "Soredemo Ayumu wa Yosetekuru"
+    },
+    "kana-boon": {
+        "_comment_sarazanmai_brand-new_is_massara": "",
+        "brand-new": "Sarazanmai",
+        "starmarker (album mix)": "My Hero Academia"
+    },
+    "kanaria": {
+        "rendezvous": "Chainsaw Man"
+    },
+    "kanon wakeshima": {
+        "right light rise": "Is It Wrong to Try to Pick UpGirls in a Dungeon?"
     },
     "karen aoki & daisuke hasegawa": {
         "great days": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
@@ -168,13 +273,19 @@
         "ichiban no takaramono": "Angel Beats!"
     },
     "kenshi yonezu": {
+        "e-a\u00a54 vv edit)": "My Hero Academia",
         "kick back": "Chainsaw Man"
     },
     "kessoku band": {
+        "karakara": "Bocchi the Rock!",
         "seisyun complex": "Bocchi the Rock!"
     },
     "kishida kyodan & the akeboshi rockets": {
-        "highschool of the dead (tv size)": "High School of the Dead"
+        "highschool of the dead (tv size)": "High School of the Dead",
+        "nameless story": "A Certain Scientific Railgun T"
+    },
+    "kiyono yasuno": {
+        "ikiru": "Are You Lost?"
     },
     "konomi suzuki": {
         "realize": "Re:Zero: Starting Life in Another World",
@@ -182,10 +293,11 @@
         "this game": "No Game No Life"
     },
     "kotoko": {
+        ">unfinished\u2014": "Accel World",
         "light my fire": "Shakugan no Shana Final"
     },
     "ksuke": {
-        "contradiction (feat. tyler carter)": "The God of High School"
+        "contradiction (feat tyler carter)": "The God of High School"
     },
     "larval stage planning": {
         "trip -innocent of d-": "High School DxD"
@@ -197,33 +309,67 @@
         "bravely you": "Charlotte",
         "my soul, your beats!": "Angel Beats!"
     },
+    "linked horizon": {
+        "akatsuki no requiem (tv size)": "Attack on Titan Season 3",
+        "guren no yumiya": "Attack on Titan"
+    },
     "lisa": {
         "adamas": "Sword Art Online: Alicization",
+        "catch the moment": "Sword Art Online the Movie:Ordinal Scale",
         "crossing field": "Sword Art Online",
         "gurenge": "Demon Slayer: Kimetsu no Yaiba",
         "my soul, your beats! (gldemo ver)": "Angel Beats!",
+        "rising hope": "The Irregular at Magic HighSchool",
         "unlasting": "Sword Art Online: Alicization - War of Underworld"
     },
     "livetune, fukase & sekai no owari": {
         "take your way": "Devil Survivor 2 The Animation"
     },
+    "lori nomizu": {
+        "*** passionato": "Is This a Zombie? of the Dead",
+        "makasete tonight": "Is This a Zombie?",
+        "strawberry rain": "Date A Live"
+    },
+    "luna haruna": {
+        "momoiro typhoon": "Yuuna and the Haunted HotSnrinas",
+        "startear": "Sword Art Online II"
+    },
     "machico": {
         "fantastic dreamer": "KONOSUBA: God's Blessing on This Wonderful World!",
-        "tomorrow": "KONOSUBA: God's Blessing on This Wonderful World! 2"
+        "tomorrow": "KONOSUBA: God's Blessing on This Wonderful World! 2",
+        "w?=% [lors lure 4-7": "KONOSUBA: God's Blessing onThis Wonderful World!"
     },
     "madkid": {
         "faith": "The Rising of the Shield Hero",
+        "madkid": "The Rising of the Shield Hero",
         "rise": "The Rising of the Shield Hero"
+    },
+    "mai kuraki": {
+        "revive": "Detective Conan"
+    },
+    "mami kawada": {
+        "psi-missing(tv4-4 z)": "A Certain Magical Index"
     },
     "man with a mission": {
         "database (feat takuma)": "Log Horizon",
+        "merry-go-round": "My Hero Academia",
         "my hero": "Inuyashiki Last Hero"
+    },
+    "mao, hiyori kono, 322\u00a5at#j3 & azumi waki": {
+        "aanfa": "Are You Lost?"
+    },
+    "maon kurosaki": {
+        "gravitation": "A Certain Magical Index III"
+    },
+    "masaki suda": {
+        "long hope phi": "My Hero Academia The Movie:Two Heroes"
     },
     "masayuki suzuki": {
         "giri giri (feat suu)": "Kaguya-sama: Love is War - Ultra Romantic"
     },
     "maximum the hormone": {
-        "what's up, people?!": "Death Note"
+        "what's up, people?!": "Death Note",
+        "what's up, people\u2019": "Death Note"
     },
     "mayu kudo": {
         "tomorrow song - ashita no uta": "Heartcatch Precure!"
@@ -231,8 +377,11 @@
     "mayu maeshima": {
         "long shot": "Re:Zero: Starting Life in Another World"
     },
-    "megumi hayashibara":{
+    "megumi hayashibara": {
         "sakura saku": "Love Hina"
+    },
+    "metamorphose": {
+        "over the testament ver 3 (feat aki misato)": "The Testament of Sister NewDevil Burst"
     },
     "mika nakashima": {
         "kiss of death": "Darling in the FranXX"
@@ -240,19 +389,28 @@
     "mikio sakai": {
         "identity": "Chivalry of a Failed Knight"
     },
+    "miku izayoi (cv: minori chihara)": {
+        "my treasure": "Date A Live II"
+    },
     "mili": {
         "rightfully (tv animation goblin slayer opening)": "Goblin Slayer"
+    },
+    "millennium parade & belle": {
+        "uu": "Belle"
     },
     "minami": {
         "kawakiwoameku": "Domestic Girlfriend"
     },
     "minami kuribayashi": {
         "zero!": "The Devil is a Part-Timer!"
-    }, 
+    },
+    "minori chihara": {
+        "baurialneas": "Rail Wars!"
+    },
     "miyavi & KenKen": {
         "flashback": "Kokkoku"
     },
-    "monogatari series":{
+    "monogatari series": {
         "sugar sweet nightmare": "Bakemonogatari"
     },
     "mugiwara-san": {
@@ -261,6 +419,7 @@
     "myth & roid": {
         "jingo jungle": "Saga of Tanya the Evil",
         "paradisus-paradoxum": "Re:Zero: Starting Life in Another World",
+        "straight bet": "Re:Zero: Starting Life in AnotherWorld",
         "voracity (instrumental)": "Overlord III"
     },
     "nakanoke no itsutsugo": {
@@ -273,12 +432,27 @@
         "silver sky": "Arpeggio of Blue Steel",
         "star light, star bright": "Conception"
     },
+    "nightmare": {
+        "the world": "Death Note"
+    },
+    "non aggiomare o chiudere la schedz": {
+        "annulla": "The Pet Girl of Sakurasou"
+    },
+    "nonoc": {
+        "white white snow": "Re:Zero: Starting Life in AnotherWorld - Memory Snow"
+    },
+    "ntsuiro": {
+        "boric cagiblts": "Detective Conan"
+    },
     "official hige dandism": {
         "cry baby": "Tokyo Revengers",
-        "mixed nuts": "Spy × Family"
+        "mixed nuts": "Spy \u00c3\u2014 Family"
     },
     "ohanami shu tsubaki gumi": {
         "kurenai hana wo sakasete": "Tenka Hyakken: Meiji-kan e Youkoso!"
+    },
+    "opaces": {
+        "shingeki no kyojin all openings (snk)": "Attack on Titan Season 3"
     },
     "oratorio the world god only knows": {
         "god only knows": "The World God Only Knows"
@@ -290,11 +464,37 @@
     "pelican fanclub": {
         "primary colors": "Dr. Stone"
     },
+    "people 1": {
+        "dogland": "Chainsaw Man"
+    },
+    "pepe tha": {
+        "9bnob": "Attack on Titan Season 2"
+    },
+    "poppin\u2019party": {
+        "moonlight walk": "The Fruit of Evolution: Before |Knew It Mv | ife Had It Made"
+    },
     "porno graffiti": {
         "the day": "My Hero Academia"
     },
-    "queen bee":{
+    "queen bee": {
         "fire": "Dororo"
+    },
+    "rei": {
+        "fly me to the moon <rei(#5)tv size remix": "Neon Genesis Evangelion"
+    },
+    "reona": {
+        "anima": "Sword Art Online: Alicization -War of Underworld",
+        "niji no kanatani": "Sword Art Online: Alicization"
+    },
+    "rie yamaguchi": {
+        "kizuite zombie-sama, watashi wa classmate": "Is This a Zombie?"
+    },
+    "ruizu kugimiyarie": {
+        "axyr": "The Familiar of Zero: Rondo ofPrincesses",
+        "suki kirai suki": "The Familiar of Zero: Knight ofthe Twin Moons"
+    },
+    "ryan greaves": {
+        "cold illusions": "The Rising of the Shield Hero"
     },
     "sangatsu no phantasia": {
         "pink lemonade": "As Miss Beelzebub likes."
@@ -305,8 +505,33 @@
     "see-saw": {
         "obsession": ".hack//Liminality"
     },
+    "shxne": {
+        "fukashigi no carte \"bunny girl senpai\u201d": "Rascal Does Not Dream ofBunny Girl Sennai"
+    },
+    "sim": {
+        "under the tree": "Attack on Titan Final Season:The Final Chanters"
+    },
+    "song difficulty: easy > easy, medium": {
+        "so": "Love, Chunibyo & OtherDelusions!"
+    },
+    "sora amamiya, rie takahashi & ai kayano": {
+        "my home town": "KONOSUBA: God's Blessing on ThisWonderful World! - Legend of Crimson"
+    },
+    "soraru": {
+        "gin no kisei": "Goblin Slayer"
+    },
+    "sox": {
+        "bee rerrsox": "SHIMONETA: A Boring World Where theConcept of Dirty Jokes Doesn't Exist"
+    },
+    "stylips": {
+        "studyxstudy": "High School DxD",
+        "\u00a57e\u2014+- y\u2014-fly bk (vsize)": "High School DxD BorN"
+    },
     "sumika": {
         "fiction": "Wotakoi: Love is Hard for Otaku"
+    },
+    "summoners 2+": {
+        "decide": "How Not to Summon a DemonLord"
     },
     "suneohair": {
         "nakushita hibini sayonara": "Sakamoto desu ga?"
@@ -314,15 +539,26 @@
     "supercell": {
         "my dearest": "Guilty Crown"
     },
+    "suzuko mimori": {
+        "univer page": "Outbreak Company"
+    },
     "sweet arms": {
-        "date a live": "Date A Live"
+        "date a live": "Date A Live",
+        "invisible date": "Date A Live The Movie: MayuriJudgement"
+    },
+    "taketatsu ayana": {
+        "imouto please!": "Oreimo"
     },
     "takuma terashima": {
         "megurumono": "Tensura",
         "nameless story": "Tensura"
     },
     "the du": {
-        "crazy noisy bizarre town": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+        "crazy noisy bizarre town": "JoJo's Bizarre Adventure: Diamond Is Unbreakable",
+        "crazy noisy bizarre town - edm arrange version": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    "the high-lows": {
+        "munega dokidoki": "Detective Conan"
     },
     "the oral cigarettes": {
         "kyouran hey kids!": "Noragami Aragoto"
@@ -334,7 +570,20 @@
         "shadow is the light": "A Certain Scientific Accelerator"
     },
     "tia": {
+        "d-bypzix": "Noragami",
         "deal with the devil": "Kakegurui"
+    },
+    "tominaga tommy hiroaki": {
+        "jojo sono chino sadame": "JoJo's Bizarre Adventure"
+    },
+    "tomodachi tsukuritai": {
+        "zannen rinjinbu *4>% (hoshi futatsu han)": "Haganai"
+    },
+    "true": {
+        "another colony": "That Time | Got Reincarnatedac 9 Slime"
+    },
+    "truelolislayer has unpaused the game": {
+        "truelolistayer has paused the game": "Rascal Does Not Dream of aDreaming Girl"
     },
     "ultra tower": {
         "kibounouta": "Shokugeki no Souma"
@@ -342,7 +591,23 @@
     "uverworld": {
         "core pride": "Blue Exorcist",
         "odd future": "My Hero Academia",
+        "reversi": "Blue Exorcist: The Movie",
         "touch off": "The Promised Neverland"
+    },
+    "void_chords feat io": {
+        "flare (feat lio)": "Arifureta: From Commonplaceto World's Strongest"
+    },
+    "wake up, girls!": {
+        "koi de ai de boukundesu": "Love Tyrant"
+    },
+    "whos (cvi b)": {
+        "barkwkt ee vls\u2014": "No Game No Life"
+    },
+    "xxme": {
+        "de y (iv size ver) ge: 70 y \u2014)": "Darling in the FranXx"
+    },
+    "yanaginagi": {
+        "bazvbe": "Black Bullet"
     },
     "yasuharu takanashi": {
         "death metal shock": "Zombie Land Saga"
@@ -350,11 +615,18 @@
     "yasuyuki okamura": {
         "viva namida": "Space Dandy"
     },
-    "yu serizawa": {
-        "devikyu": "Mairimashita! Iruma-kun"
+    "yoko hikasa": {
+        "\" utsukushiki zankokuna sekai (from \u201cattack on": "Attack on Titan"
     },
     "yoko takahashi": {
         "zankoku na tenshi no thesis": "Neon Genesis Evangelion"
+    },
+    "yoshino nanjo": {
+        "evolution:": "The Fruit of Evolution: Before |Knew It Mv | ife Had It Made"
+    },
+    "yu serizawa": {
+        "devikyu": "Mairimashita! Iruma-kun",
+        "saiaku na hi demo anata ga suki": "How Not to Summon a DemonLord"
     },
     "yugo kanno": {
         "akuyaku kyousoukyoku": "JoJo's Bizarre Adventure: Stardust Crusaders"
@@ -368,15 +640,27 @@
     "yukari tamura": {
         "fantastic future": "HENNEKO: The Hentai Prince and the Stony Cat"
     },
+    "yukio okumura (cvjun fukuyama)": {
+        "dedicate": "Blue Exorcist"
+    },
     "yuko miyamura": {
-        "fly me to the moon (asuka bossa tschno tv size version)": "Evangelion"
+        "fly me to the moon (asuka bossa tschno tv size version)": "Evangelion",
+        "fy me to the moon (asuka bossa tschno tv": "Neon Genesis Evangelion"
+    },
+    "yun*chi": {
+        "wonderful wonder world*": "Log Horizon",
+        "your song*": "Log Horizon"
     },
     "yurika": {
         "kyoumen no nami": "Land of the Lustrous"
     },
     "zaq": {
+        "overdriver": "Rail Wars!",
+        "seven doors": "Trinity Seven",
         "sparkling daydream": "Chu-2 Byou demo Koi ga Shitai!",
         "voice": "Chu-2 Byou demo Koi ga Shitai! Ren"
+    },
+    "| bd)": {
+        "| jurl-e": "Toradora!"
     }
 }
-			
