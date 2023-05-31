@@ -8,9 +8,17 @@ chrome.tabs.query({ active: true }, function (tabs) {
             },
 
             func: () => {
-                var link = document.getElementById("qpMoePlayer-0_html5_api").src;
+                if (document.getElementById("qpMoePlayer-0").classList.contains("vjs-paused")) {
+                    id = "qpMoePlayer-1_html5_api";
+                } else {
+                    id = "qpMoePlayer-0_html5_api";
+                }
+                var link = document.getElementById(id).src;
                 code = link.replace("https://amq.catbox.video/", "").replace(".mp3", "");
-                document.getElementById("qpAnswerInput").value = code;
+
+                chrome.runtime.sendMessage({action: "check-code", code: code}, function(response) {
+                    document.getElementById("qpAnswerInput").value = response.name;
+                });
             }
         }
     );
