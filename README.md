@@ -1,6 +1,6 @@
 # AMQ_Destroyer
 
-## Bot di AMQ
+## Bot di AMQ v1.0
 
 ### Istruzioni per Python
 
@@ -20,24 +20,6 @@ installare l'eseguibile di tesseract:
 
 - https://github.com/UB-Mannheim/tesseract/wiki
 
-### To-Do list
+## Bot di AMQ v2.0
 
-- rendere automatici i path di AMQ_Destroyer
-
-- - Cerca l'indirizzo di "tesseract.exe"
-
-- - Basare i path sulla work directory
-
-- Creare un file "settings.json" in cui memorizzare i vari path e coordinate
-
-- modificare coordinate di:
-
-- - pag.screenshot
-
-- - pag.click
-
-- aggiunta di canzoni non conosciute quando "non presente"
-
-- traduzione dal giapponese del testo riconosciuto
-
-- errore nel riconoscere parole corte? (Redo, ALI)
+### Istruzioni di installazione e utilizzo
