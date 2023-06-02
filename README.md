@@ -1,6 +1,6 @@
 <img style="width: 100%" src="HTML/logo.png">
 
-<h2 style="text-align: center; margin: auto">AMQ Genie v1.0</h2>
+<h2>AMQ Genie v1.0</h2>
 
 installare pyautogui scrivendo nel cmd il comando:
 
