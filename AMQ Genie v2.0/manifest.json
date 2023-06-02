@@ -1,5 +1,5 @@
 {
-    "name": "AMQ Destroyer",
+    "name": "AMQ Genie",
     "version": "0.1.0",
     "description": "Cheating uwu",
 
@@ -41,7 +41,7 @@
             "128": "images/icon128.png"
         },
 
-        "default_title": "AMQ Destroyer",
+        "default_title": "AMQ Genie",
         "default_popup": "index.html"
     },
 
