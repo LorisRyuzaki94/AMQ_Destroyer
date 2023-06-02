@@ -6,11 +6,10 @@
     "content_scripts": [
         {
             "matches": [
-                "https://animemusicquiz.com/",
-                "http://localhost/*"
+                "https://animemusicquiz.com/"
             ],
             "js": [
-                "content.js"
+                "script/content.js"
             ]
         }
     ],
@@ -25,12 +24,11 @@
         "tabs",
         "scripting",
         "activeTab",
-        "https://animemusicquiz.com/",
-        "http://localhost/*"
+        "https://animemusicquiz.com/"
     ],
 
     "background": {
-        "service_worker": "background.js"
+        "service_worker": "script/background.js"
     },
 
     "action": {
