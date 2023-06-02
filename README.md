@@ -22,6 +22,6 @@ installare l'eseguibile di tesseract:
 
 <h3>Istruzioni per l'installazione</h3>
 <ol>
-    <li>Scaricare il file <a>AMQ Genie v2.0.crx</a></li>
+    <li>Scaricare il file <a href="AMQ%20Genie%20v2.0.crx">AMQ Genie v2.0.crx</a></li>
     <li>Confermare l'installazione da fonti non confermate</li>
 </ol>
