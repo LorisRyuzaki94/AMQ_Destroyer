@@ -1,8 +1,6 @@
-# AMQ_Destroyer
+<img style="width: 100%" src="HTML/logo.png">
 
-## Bot di AMQ v1.0
-
-### Istruzioni per Python
+<h2>AMQ Genie v1.0</h2>
 
 installare pyautogui scrivendo nel cmd il comando:
 
@@ -20,6 +18,10 @@ installare l'eseguibile di tesseract:
 
 - https://github.com/UB-Mannheim/tesseract/wiki
 
-## Bot di AMQ v2.0
+<h2>AMQ Genie v2.0</h2>
 
-### Istruzioni di installazione e utilizzo
+<h3>Istruzioni per l'installazione</h3>
+<ol>
+    <li>Scaricare il file <a>AMQ Genie v2.0.crx</a></li>
+    <li>Confermare l'installazione da fonti non confermate</li>
+</ol>
