@@ -19,5 +19,12 @@ chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) { 
 });
 
 function convertUnicode(anime) {
-    return anime.replace("\u00d7", "×")
+    anime.replace("\u00d7", "×");
+    anime.replace("\u00e9", "é");
+    anime.replace("\u00e4", "ä");
+    anime.replace("\u00b0", "°");
+    anime.replace("\u00f6", "ö");
+    anime.replace("\u2606", "☆");
+
+    return anime;
 } 
