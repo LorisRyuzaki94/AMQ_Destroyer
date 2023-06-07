@@ -67,6 +67,8 @@ while not keyboard.is_pressed('q'):
                     tripleClickOn([720, 135])
                     copySelected()
 
+                    time.sleep(1)
+
                     if normalize(clip.paste()) != '?':
                         appendToJson(code, normalize(clip.paste()), database_path)
                         print('added to database')
