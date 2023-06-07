@@ -69,10 +69,10 @@ while not keyboard.is_pressed('q'):
 
                     time.sleep(1)
 
-                    if normalize(clip.paste()) != '?':
+                    if normalize(clip.paste()) != '?' and normalize(clip.paste()) != '':
                         appendToJson(code, normalize(clip.paste()), database_path)
                         print('added to database')
-                        print('\t- ' + normalize(clip.paste()) + ' with code ' + code)
+                        print('\t- ' + normalize(clip.paste()) + ' with code ' + code + "\n")
                         data = loadDatabase(database_path)
                         waitingName = False
                 
