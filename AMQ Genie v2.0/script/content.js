@@ -14,7 +14,7 @@ chrome.tabs.query({ active: true }, function (tabs) {
                     id = "qpMoePlayer-0_html5_api";
                 }
                 var link = document.getElementById(id).src; // Cerca l'elemento contrassegnato dall'id univoco e ottiene il campo src (link del video)
-                code = link.replace("https://amq.catbox.video/", "").replace(".mp3", ""); // estrae il codice dal link
+                code = link.replace("https://amq.catbox.video/", "").replace(".mp3", "").replace(".webm", ""); // estrae il codice dal link
 
                 chrome.runtime.sendMessage({action: "check-code", code: code}, function(response) { // Invia un messaggio di tipo "check-code" con il codice. Il listener è in background.js
                     document.getElementById("qpAnswerInput").value = response.name; // Ottiene la risposta da background.js e la imposta come valore del campo input
