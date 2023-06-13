@@ -9,6 +9,7 @@ import pyperclip as clip
 
 file_path = os.path.dirname(__file__)
 database_path = file_path + "/../../database/database.json"
+settings_path = file_path + "/../settings.json"
 
 def appendToJson(keyword, value, jsonFile):
     with open(jsonFile, "r") as f:
@@ -39,16 +40,20 @@ def loadDatabase(jsonFile):
 def normalize(string):
     return string.replace('\r', '').replace('\n', '')
 
-
+with open(settings_path, "r") as config:
+    settings = json.load(config)
 
 searching = True
+#extensionRegion = [settings['extension-position'][0], settings['extension-position'][1]] # pos estensione (da utilizzare)
+markRegion = [settings['mark-position'][0], settings['mark-position'][1]] # pos punto di domanda
+inputRegion = [settings['input-position'][0], settings['input-position'][1]] # pos campo di input
 
 while not keyboard.is_pressed('q'):
     while searching:
         softLock = True
         waitingName = True
 
-        tripleClickOn([720, 135]) # Triplo click sul punto di domanda
+        tripleClickOn(markRegion) # Triplo click sul punto di domanda
         copySelected()
 
         if normalize(clip.paste()) == "?": # Se è un punto di domanda...
@@ -56,7 +61,7 @@ while not keyboard.is_pressed('q'):
 
             time.sleep(2)
 
-            tripleClickOn([720, 600]) # Triplo click sul codice o il nome dell'anime che scrive l'estensione
+            tripleClickOn(inputRegion) # Triplo click sul codice o il nome dell'anime che scrive l'estensione
             copySelected()
 
             code = normalize(clip.paste()) # Variabile che memorizza codice
@@ -64,7 +69,7 @@ while not keyboard.is_pressed('q'):
 
             if code not in data and len(code) == 6: # Da rivedere il controllo della lunghezza (è stupida come cosa)
                 while waitingName:
-                    tripleClickOn([720, 135])
+                    tripleClickOn(markRegion)
                     copySelected()
 
                     time.sleep(1)
@@ -80,7 +85,7 @@ while not keyboard.is_pressed('q'):
                         time.sleep(1)
 
                 while softLock:
-                    tripleClickOn([720, 135]) # Triplo click sul punto di domanda
+                    tripleClickOn(markRegion) # Triplo click sul punto di domanda
                     copySelected()
 
                     if normalize(clip.paste()) == '?':
@@ -90,10 +95,10 @@ while not keyboard.is_pressed('q'):
                 print('\t- ' + normalize(clip.paste()) + '\n')
                 
                 while softLock:
-                    tripleClickOn([720, 135]) # Triplo click sul punto di domanda
+                    tripleClickOn(markRegion) # Triplo click sul punto di domanda
                     copySelected()
 
                     while normalize(clip.paste()) != code:
-                        tripleClickOn([720, 135]) # Triplo click sul punto di domanda
+                        tripleClickOn(markRegion) # Triplo click sul punto di domanda
                         copySelected()
                         softLock = False
