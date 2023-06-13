@@ -47,7 +47,7 @@ searching = True
 extensionRegion = [settings['extension-position'][0], settings['extension-position'][1]] # pos estensione (da utilizzare)
 markRegion = [settings['mark-position'][0], settings['mark-position'][1]] # pos punto di domanda
 inputRegion = [settings['input-position'][0], settings['input-position'][1]] # pos campo di input
-'''''''''
+
 while not keyboard.is_pressed('q'):
     while searching:
         softLock = True
@@ -109,3 +109,4 @@ while True:
     if keyboard.is_pressed("q"):
         x,y = pag.position()
         print(str(x)+" "+str(y))
+'''''''''
