@@ -30,4 +30,5 @@ function convertUnicode(anime) {
     anime.replace("\u2665", "♥");
 
     return anime;
-} 
+}
+
