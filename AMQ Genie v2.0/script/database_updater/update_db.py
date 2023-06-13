@@ -44,10 +44,10 @@ with open(settings_path, "r") as config:
     settings = json.load(config)
 
 searching = True
-#extensionRegion = [settings['extension-position'][0], settings['extension-position'][1]] # pos estensione (da utilizzare)
+extensionRegion = [settings['extension-position'][0], settings['extension-position'][1]] # pos estensione (da utilizzare)
 markRegion = [settings['mark-position'][0], settings['mark-position'][1]] # pos punto di domanda
 inputRegion = [settings['input-position'][0], settings['input-position'][1]] # pos campo di input
-
+'''''''''
 while not keyboard.is_pressed('q'):
     while searching:
         softLock = True
@@ -57,9 +57,9 @@ while not keyboard.is_pressed('q'):
         copySelected()
 
         if normalize(clip.paste()) == "?": # Se è un punto di domanda...
-            clickOn(locateExtension())
+            clickOn(extensionRegion) # risostituire extensionRegion con locateExtension()
 
-            time.sleep(5)
+            time.sleep(2)
 
             tripleClickOn(inputRegion) # Triplo click sul codice o il nome dell'anime che scrive l'estensione
             copySelected()
@@ -102,3 +102,10 @@ while not keyboard.is_pressed('q'):
                         tripleClickOn(markRegion) # Triplo click sul punto di domanda
                         copySelected()
                         softLock = False
+
+
+'''''''''
+while True:
+    if keyboard.is_pressed("q"):
+        x,y = pag.position()
+        print(str(x)+" "+str(y))
