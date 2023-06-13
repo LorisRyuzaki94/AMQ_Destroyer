@@ -72,7 +72,7 @@ while not keyboard.is_pressed('q'):
                     if normalize(clip.paste()) != '?' and normalize(clip.paste()) != '':
                         appendToJson(code, normalize(clip.paste()), database_path)
                         print('added to database')
-                        print('\t- ' + normalize(clip.paste()) + ' with code ' + code + "\n")
+                        print('\t- ' + normalize(clip.paste()) + ' with code ' + code + '\n')
                         data = loadDatabase(database_path)
                         waitingName = False
                 
@@ -87,7 +87,7 @@ while not keyboard.is_pressed('q'):
                         softLock = False
             else:
                 print('already in database')
-                print('\t- ' + normalize(clip.paste()))
+                print('\t- ' + normalize(clip.paste()) + '\n')
                 
                 while softLock:
                     tripleClickOn([720, 135]) # Triplo click sul punto di domanda
@@ -97,5 +97,3 @@ while not keyboard.is_pressed('q'):
                         tripleClickOn([720, 135]) # Triplo click sul punto di domanda
                         copySelected()
                         softLock = False
-        
-
