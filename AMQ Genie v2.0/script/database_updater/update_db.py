@@ -48,15 +48,15 @@ while not keyboard.is_pressed('q'):
         softLock = True
         waitingName = True
 
-        tripleClickOn([720, 135]) # Triplo click sul punto di domanda
+        tripleClickOn([720, 200]) # Triplo click sul punto di domanda
         copySelected()
 
         if normalize(clip.paste()) == "?": # Se è un punto di domanda...
             clickOn(locateExtension())
 
-            time.sleep(2)
+            time.sleep(5)
 
-            tripleClickOn([720, 600]) # Triplo click sul codice o il nome dell'anime che scrive l'estensione
+            tripleClickOn([720, 700]) # Triplo click sul codice o il nome dell'anime che scrive l'estensione
             copySelected()
 
             code = normalize(clip.paste()) # Variabile che memorizza codice
@@ -64,7 +64,7 @@ while not keyboard.is_pressed('q'):
 
             if code not in data and len(code) == 6: # Da rivedere il controllo della lunghezza (è stupida come cosa)
                 while waitingName:
-                    tripleClickOn([720, 135])
+                    tripleClickOn([720, 200])
                     copySelected()
 
                     time.sleep(1)
@@ -80,7 +80,7 @@ while not keyboard.is_pressed('q'):
                         time.sleep(1)
 
                 while softLock:
-                    tripleClickOn([720, 135]) # Triplo click sul punto di domanda
+                    tripleClickOn([720, 200]) # Triplo click sul punto di domanda
                     copySelected()
 
                     if normalize(clip.paste()) == '?':
@@ -90,12 +90,11 @@ while not keyboard.is_pressed('q'):
                 print('\t- ' + normalize(clip.paste()))
                 
                 while softLock:
-                    tripleClickOn([720, 135]) # Triplo click sul punto di domanda
+                    tripleClickOn([720, 200]) # Triplo click sul punto di domanda
                     copySelected()
 
                     while normalize(clip.paste()) != code:
-                        tripleClickOn([720, 135]) # Triplo click sul punto di domanda
+                        tripleClickOn([720, 200]) # Triplo click sul punto di domanda
                         copySelected()
                         softLock = False
         
-
