@@ -28,6 +28,7 @@ function convertUnicode(anime) {
     anime.replace("\u2606", "☆");
     anime.replace("\u03a9", "Ω");
     anime.replace("\u2665", "♥");
+    anime.replace("\u03b8", "θ");
 
     return anime;
 }
