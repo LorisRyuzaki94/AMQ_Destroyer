@@ -37,6 +37,10 @@ def copy():
     with pag.hold('ctrl'):
         pag.press('c')
 
+def cut():
+    with pag.hold('ctrl'):
+        pag.press('x')
+
 def paste():
     return clip.paste()
 
@@ -76,6 +80,8 @@ while True:
                 code = paste()
 
                 if len(normalize(code)) == 6 and normalize(code).islower():
+                    clickOn(inputPosition, action="triple")
+                    cut()
                     clickOn(outputPosition, action="triple")
                     copy()
                     
