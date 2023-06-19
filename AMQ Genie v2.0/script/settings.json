@@ -1,5 +1,10 @@
 {
-    "extension-position": [1740, 50],
-    "mark-position": [600, 120],
-    "input-position": [600, 470]
+    "extension-position": [1415, 50],
+    "mark-position": [600, 140],
+    "input-position": [600, 540],
+    "startPosition" : [745, 95],
+    "progressPosition" : [745, 90],
+    "inputPosition" : [745, 600],
+    "outputPosition" : [745, 135],
+    "extensionPosition" : [1735, 50]
 }
