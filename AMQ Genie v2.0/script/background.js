@@ -29,7 +29,9 @@ function convertUnicode(anime) {
     anime.replace("\u03a9", "Ω");
     anime.replace("\u2665", "♥");
     anime.replace("\u0398", "θ");
-    anime.replace("\u0113", "ē")
+    anime.replace("\u0113", "ē");
+    anime.replace("\u266a", "♪");
+    anime.replace("\u2020", "†");
 
     return anime;
 }
