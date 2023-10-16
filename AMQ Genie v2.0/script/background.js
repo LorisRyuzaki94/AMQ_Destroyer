@@ -1,7 +1,7 @@
 chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) { // Listener che ascolta il messaggio inviato da content.js
 
     if (message.action === "check-code") { // Se il messaggio è di tipo "check-code"
-        fetch(new Request("database/database.json")) // Legge il file database.json
+        fetch(new Request("https://raw.githubusercontent.com/LorisRyuzaki94/AMQ_Destroyer/main/AMQ%20Genie%20v2.0/database/database.json")) // Legge il database da github
             .then((response) => response.json())
             .then((database) => {
                 anime = database[message.code]; // Cerca nel database una corrispondenza per il codice ricevuto

@@ -7,9 +7,9 @@ import os
 
 startPosition = [745, 95]
 progressPosition = [745, 90]
-inputPosition = [745, 600]
+inputPosition = [745, 620]
 outputPosition = [745, 135]
-extensionPosition = [1735, 50]
+extensionPosition = [1850, 50]
 file_path = os.path.dirname(__file__)
 database_path = file_path + "/../../database/database.json"
 
