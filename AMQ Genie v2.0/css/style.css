@@ -1,0 +1,23 @@
+#container {
+	height: 90px;
+	width: 180px;
+	background: grey;
+	border-radius: 5%;
+}
+.button {
+	height: 30px;
+	width: 60px;
+	line-height: 30px;
+	text-align: center;
+	border-radius: 10%;
+	position: relative;
+}
+#guess {
+	top: 30px;
+	left: 20px;
+	background: red;
+}
+#auto {
+	left: 100px;
+	background: blue;
+}
