@@ -2,7 +2,9 @@
 	height: 90px;
 	width: 180px;
 	background-color: white;
-	background-image: url(images\chibi-anime-girls-und-panzer-re72enxk96to6120.jpg);
+	background-image: url("background.jpg");
+	background-position: center;
+	background-size: cover;
 	border-radius: 5%;
 }
 .button {

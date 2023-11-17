@@ -1,22 +1,24 @@
-chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) { // Listener che ascolta il messaggio inviato da content.js
+function guessAnime() {
+    chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) { // Listener che ascolta il messaggio inviato da content.js
 
-    if (message.action === "check-code") { // Se il messaggio è di tipo "check-code"
-        fetch(new Request("https://raw.githubusercontent.com/LorisRyuzaki94/AMQ_Destroyer/main/AMQ%20Genie%20v2.0/database/database.json")) // Legge il database da github
-            .then((response) => response.json())
-            .then((database) => {
-                anime = database[message.code]; // Cerca nel database una corrispondenza per il codice ricevuto
-                if (anime === undefined) { // Se non lo trova restituisce il codice
-                    anime = message.code;
+        if (message.action === "check-code") { // Se il messaggio è di tipo "check-code"
+            fetch(new Request("https://raw.githubusercontent.com/LorisRyuzaki94/AMQ_Destroyer/main/AMQ%20Genie%20v2.0/database/database.json")) // Legge il database da github
+                .then((response) => response.json())
+                .then((database) => {
+                    anime = database[message.code]; // Cerca nel database una corrispondenza per il codice ricevuto
+                    if (anime === undefined) { // Se non lo trova restituisce il codice
+                        anime = message.code;
+                    }
+
+                    anime = convertUnicode(anime);
+                    
+                    sendResponse({name: anime}); // Invia la risposta al file content.js
                 }
-
-                anime = convertUnicode(anime);
-                
-                sendResponse({name: anime}); // Invia la risposta al file content.js
-            }
-        );
-    }
-    return true; // Questo serve altrimenti non funziona bene
-});
+            );
+        }
+        return true; // Questo serve altrimenti non funziona bene
+    });
+}
 
 function convertUnicode(anime) {
     anime.replace("\u00d7", "×");
