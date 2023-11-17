@@ -1,4 +1,3 @@
-
 chrome.tabs.query({active: true}, function (tabs) {
     var tab = tabs[0];
     chrome.scripting.executeScript(
