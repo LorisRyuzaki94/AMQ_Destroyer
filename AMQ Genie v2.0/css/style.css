@@ -1,7 +1,7 @@
 #container {
 	height: 90px;
 	width: 180px;
-	background-color: white;
+	background-color: #4C6472;
 	background-image: url("background.jpg");
 	background-position: center;
 	background-size: cover;
@@ -10,10 +10,11 @@
 .button {
 	height: 30px;
 	width: 60px;
-	line-height: 30px;
-	text-align: center;
 	border-radius: 10%;
 	position: relative;
+	line-height: 30px;
+	text-align: center;
+	font-family: Verdana;
 	box-shadow: 0 5px #999;
 }
 .button:active {
@@ -23,16 +24,16 @@
 #guess {
 	top: 27px;
 	left: 20px;
-	background: red;
+	background: #F95355;
 }
 #guess:hover {
-	background: darkred;
+	background: #f71316;
 }
 #auto {
 	top: -3px;
 	left: 100px;
-	background: blue;
+	background: #57A4B1;
 }
 #auto:hover {
-	background: darkblue;
+	background: #438590;
 }
