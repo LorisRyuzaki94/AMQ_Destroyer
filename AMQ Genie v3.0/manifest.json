@@ -1,0 +1,41 @@
+{
+    "name": "AMQ Genie 3.0",
+    "version": "0.1.0",
+    "description": "Cheating uwu",
+
+    "content_scripts": [
+        {
+            "matches": [
+                "https://animemusicquiz.com/"
+            ],
+            "js": [
+                "script/content.js"
+            ]
+        }
+    ],
+    
+    "permissions": [
+        "tabs",
+        "scripting",
+        "activeTab"
+      ],
+
+    "host_permissions": [
+        "https://animemusicquiz.com/"
+    ],
+
+    "background": {
+        "service_worker": "script/background.js"
+    },
+
+    "action": {
+        "default_icon": {
+
+        },
+
+        "default_title": "AMQ Genie",
+        "default_popup": "index.html"
+    },
+
+    "manifest_version": 3
+}
