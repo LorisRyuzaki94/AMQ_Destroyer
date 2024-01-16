@@ -3,7 +3,7 @@
 <h2><s>AMQ Genie v1.0</s></h2>
     <s>Deprecato</s>
 
-<h2>AMQ Genie v2.0</h2>
+<h2><a href="AMQ Genie v2.0\AMQ Genie v2.0.crx">AMQ Genie v2.0</a></h2>
 
 <ul>
 <li>Trova l'anime in base al codice univoco dell'url durante la partita.</li> 
@@ -12,7 +12,7 @@
 <li>litimo update 2 Novembre 2023</li>
 </ul>
 
-<h2>AMQ Genie v3.0</h2>
+<h2><a href="AMQ Genie v3.0\AMQ Genie v3.0.crx">AMQ Genie v3.0</a></h2>
 
 <ul>
 <li>Trova l'anime, la canzone e l'artista calcolando l'hash del file durante la partita.</li> 
