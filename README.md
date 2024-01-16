@@ -12,7 +12,7 @@
 <li>litimo update 2 Novembre 2023</li>
 </ul>
 
-<h2><a href="AMQ Genie v3.0\AMQ Genie v3.0.crx">AMQ Genie v3.0</a></h2>
+<h2><a href="AMQ%20Genie%20v3.0/AMQ%20Genie%20v3.0.crx">AMQ Genie v3.0</a></h2>
 
 <ul>
 <li>Trova l'anime, la canzone e l'artista calcolando l'hash del file durante la partita.</li> 
