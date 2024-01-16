@@ -1,11 +1,11 @@
 #container {
 	height: 90px;
 	width: 180px;
+	border-radius: 5%;
 	background-color: #4C6472;
 	background-image: url("background.jpg");
 	background-position: center;
 	background-size: cover;
-	border-radius: 5%;
 }
 .button {
 	height: 30px;
