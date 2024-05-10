@@ -2,7 +2,7 @@
 // @name         AMQ Song/Artist with DB
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  A song artist mode with a dabtabase
+// @description  A song artist mode with a database
 // @author       Ryuzaki94
 // @match        https://animemusicquiz.com/*
 // @icon         
