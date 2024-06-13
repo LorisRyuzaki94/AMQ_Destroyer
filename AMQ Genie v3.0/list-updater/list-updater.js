@@ -53,13 +53,13 @@ String.prototype.hashCode = function () {
 
 // Funzione per ottenere l'hash di un URL
 async function getHash(url) {
-    return fetch('https://cors-anywhere.herokuapp.com/${url}', {
+    return fetch(`https://cors-anywhere.herokuapp.com/${url}`, {
         headers: {
             'x-requested-with': 'XMLHttpRequest'  // Sostituisci con il tuo valore di origine
         }
     })
     .then(res => res.blob()) // Ottieni la risposta e restituiscila come blob
-    .then(blob => blobToData(blob))
+    .then(blob => {console.log(blob); return blobToData(blob)})
     .then(data => data.hashCode());
 }
 
