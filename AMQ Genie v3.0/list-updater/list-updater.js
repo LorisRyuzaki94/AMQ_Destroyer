@@ -59,7 +59,7 @@ async function getHash(url) {
         }
     })
     .then(res => res.blob()) // Ottieni la risposta e restituiscila come blob
-    .then(blob => {console.log(blob); return blobToData(blob)})
+    .then(blob => blobToData(blob))
     .then(data => data.hashCode());
 }
 
