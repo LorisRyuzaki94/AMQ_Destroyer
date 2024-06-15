@@ -49,7 +49,11 @@ String.prototype.hashCode = function () {
 }
 
 async function getHash(url) {
-    return fetch('https://cors-anywhere.herokuapp.com/${url}'.replace("${url}", url))
+    return fetch(`https://cors-anywhere.herokuapp.com/${url}`, {
+        headers: {
+            'x-requested-with': 'XMLHttpRequest'  // Sostituisci con il tuo valore di origine
+        }
+    })
     .then(res => res.blob()) // Gets the response and returns it as a blob
     .then(blob => blobToData(blob))
     .then(blob => blob.hashCode());

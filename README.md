@@ -16,7 +16,8 @@
 
 <ul>
 <li>Trova l'anime, la canzone e l'artista calcolando l'hash del file durante la partita.</li> 
-<li>(teoricamente) Funziona in ranked dato che i codici mascherati portano allo stesso file.</li> 
-<li>Al momento ci sono 708 entry tra opening, ending e ost.</li>
-<li>Ultimo update: 16 Gennaio 2024</li>
+<li>Funziona in ranked dato che i codici mascherati portano allo stesso file.</li>
+<li>Grazie al list-updater è possibile aggiungere le canzoni cercandole su anisongdb.com mettendo il json nella cartella list-updater.</li>
+<li>Al momento ci sono 917 entry tra opening, ending e ost.</li>
+<li>Ultimo update: 15 Giugno 2024</li>
 </ul>
