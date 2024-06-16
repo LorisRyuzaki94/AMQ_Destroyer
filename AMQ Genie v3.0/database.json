@@ -2504,6 +2504,11 @@
         "song": "I SAY YES",
         "artist": "ICHIKO"
     },
+    "1338097087": {
+        "anime": "91 Days",
+        "song": "Ah, la paterna mano",
+        "artist": "Enrico Caruso"
+    },
     "1339390506": {
         "anime": "Macross Frontier: Itsuwari no Utahime",
         "song": "Starlight Nattou",
@@ -7758,5 +7763,15 @@
         "anime": "86 Eighty-Six",
         "song": "Two Worlds Apart",
         "artist": "AI INOUE"
+    },
+    "-1918756056": {
+        "anime": "91 Days",
+        "song": "Signal",
+        "artist": "TK from Ling Tosite Sigure"
+    },
+    "-1658738704": {
+        "anime": "91 Days",
+        "song": "Rain or Shine",
+        "artist": "ELISA"
     }
 }
