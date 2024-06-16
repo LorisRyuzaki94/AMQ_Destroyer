@@ -4,6 +4,16 @@
         "song": "Tabibito no Uta ~Kikyou~",
         "artist": "Yuiko Ohara"
     },
+    "4769931": {
+        "anime": "Naruto",
+        "song": "R★O★C★K★S",
+        "artist": "Hound Dog"
+    },
+    "6894160": {
+        "anime": "Naruto",
+        "song": "LIFE GOES ON",
+        "artist": "Junko Takeuchi"
+    },
     "8102025": {
         "anime": "Detective Conan",
         "song": "SWEET MOONLIGHT",
@@ -83,6 +93,11 @@
         "anime": "Teasing Master Takagi-san",
         "song": "Kaze Fukeba Koi",
         "artist": "Rie Takahashi"
+    },
+    "55825990": {
+        "anime": "Naruto",
+        "song": "Speed",
+        "artist": "Analogfish"
     },
     "60991861": {
         "anime": "Detective Conan",
@@ -224,6 +239,11 @@
         "song": "driven to the wall",
         "artist": "Remi"
     },
+    "142649432": {
+        "anime": "Naruto Shippuuden",
+        "song": "Pino to Amélie",
+        "artist": "Huwie Ishizaki"
+    },
     "143118141": {
         "anime": "The Apothecary Diaries",
         "song": "Omoikaze",
@@ -284,6 +304,11 @@
         "song": "Los! Los! Los!",
         "artist": "Aoi Yuuki"
     },
+    "169528802": {
+        "anime": "Naruto Shippuuden",
+        "song": "My ANSWER",
+        "artist": "SEAMO"
+    },
     "169537332": {
         "anime": "Dragon Ball Super",
         "song": "Aku no Tenshi to Seigi no Akuma",
@@ -293,6 +318,11 @@
         "anime": "Dragon Ball GT",
         "song": "Don't you see!",
         "artist": "ZARD"
+    },
+    "172926422": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Kirarirari",
+        "artist": "KANA-BOON"
     },
     "172959620": {
         "anime": "Attack on Titan: Lost Girls",
@@ -364,15 +394,30 @@
         "song": "Hoshiai",
         "artist": "all at once"
     },
+    "210589033": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Central",
+        "artist": "Ami Sakaguchi"
+    },
     "213371351": {
         "anime": "Detective Conan",
         "song": "Yarukkyanai no sa ~Conan no Shouri~",
         "artist": "Iori & Minami Takayama"
     },
+    "217109042": {
+        "anime": "Naruto Shippuuden",
+        "song": "Bacchikoi!!!",
+        "artist": "DEV PARADE"
+    },
     "218327590": {
         "anime": "Dragon Ball Z",
         "song": "Unmei no Hi ~Tamashii vs Tamashii~",
         "artist": "Hironobu Kageyama feat. Chiho Kiyooka"
+    },
+    "219131669": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Bibouroku",
+        "artist": "Lenny code fiction"
     },
     "222279895": {
         "anime": "Detective Conan: Kid in Trap Island",
@@ -403,6 +448,11 @@
         "anime": "A Certain Scientific Railgun T",
         "song": "final phase",
         "artist": "fripSide"
+    },
+    "235506160": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Ladder",
+        "artist": "Anonymouz"
     },
     "245681402": {
         "anime": "Oreimo Season 2",
@@ -624,6 +674,11 @@
         "song": "Utsukushiki Kemono-tachi no Tame no",
         "artist": "ALI PROJECT"
     },
+    "397954021": {
+        "anime": "Naruto",
+        "song": "Mountain A Go Go Too",
+        "artist": "Captain Straydum"
+    },
     "397961709": {
         "anime": "Anohana: The Flower We Saw That Day",
         "song": "Circle Game",
@@ -769,6 +824,11 @@
         "song": "Kono Te de",
         "artist": "Rin Akatsuki"
     },
+    "473455171": {
+        "anime": "Naruto Shippuuden",
+        "song": "Guren",
+        "artist": "DOES"
+    },
     "475921807": {
         "anime": "My First Girlfriend is a Gal",
         "song": "Heart Watcher",
@@ -804,6 +864,11 @@
         "song": "SMILE! SMILE! FINE!",
         "artist": "eufonius"
     },
+    "498593881": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Become the Wind",
+        "artist": "Ray"
+    },
     "499043097": {
         "anime": "Case Closed The Movie: The Time Bombed Skyscraper",
         "song": "Kimi ga Ireba",
@@ -828,6 +893,11 @@
         "anime": "My Hero Academia",
         "song": "HEROES",
         "artist": "Brian the Sun"
+    },
+    "517632563": {
+        "anime": "Naruto Shippuuden",
+        "song": "Hero's Come Back!!",
+        "artist": "nobodyknows+"
     },
     "520746613": {
         "anime": "Koyomimonogatari",
@@ -873,6 +943,11 @@
         "anime": "Code Geass: Lelouch of the Rebellion R2 Special Edition 'Zero Requiem'",
         "song": "Strange Girl",
         "artist": "Hitomi"
+    },
+    "545522468": {
+        "anime": "Naruto Shippuuden",
+        "song": "Silhouette",
+        "artist": "KANA-BOON"
     },
     "547198322": {
         "anime": "Detective Conan",
@@ -964,6 +1039,11 @@
         "song": "Get tough!",
         "artist": "G・P・S"
     },
+    "584911290": {
+        "anime": "Naruto Shippuuden",
+        "song": "CLOSER",
+        "artist": "Joe Inoue"
+    },
     "588988677": {
         "anime": "Angel Beats!",
         "song": "Ichiban no Takaramono",
@@ -1038,6 +1118,11 @@
         "anime": "Detective Conan",
         "song": "Shoudou",
         "artist": "B'z"
+    },
+    "627586288": {
+        "anime": "Naruto",
+        "song": "Ryuusei",
+        "artist": "TiA"
     },
     "635053814": {
         "anime": "Mayo Chiki!",
@@ -1194,6 +1279,11 @@
         "song": "Makafushigi Adventure!",
         "artist": "Hiroki Takahashi"
     },
+    "738872437": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Golden Time",
+        "artist": "Fujifabric"
+    },
     "740063498": {
         "anime": "Detective Conan",
         "song": "Overwrite",
@@ -1204,10 +1294,20 @@
         "song": "Akuma no Ko",
         "artist": "Ai Higuchi"
     },
+    "747977364": {
+        "anime": "Naruto Shippuuden",
+        "song": "Kono Koe Karashite",
+        "artist": "AISHA feat. CHEHON"
+    },
     "750592026": {
         "anime": "Chainsaw Man",
         "song": "In The Back Room",
         "artist": "syudou"
+    },
+    "750639781": {
+        "anime": "Naruto Shippuuden",
+        "song": "Hotaru no Hikari",
+        "artist": "Ikimono-gakari"
     },
     "750900892": {
         "anime": "A Certain Magical Index II",
@@ -1234,6 +1334,11 @@
         "song": "Innocent Days",
         "artist": "Hitomi"
     },
+    "766783746": {
+        "anime": "Naruto Spin-Off: Rock Lee & His Ninja Pals",
+        "song": "Give Lee Give Lee Rock Lee",
+        "artist": "Animetal USA×Hironobu Kageyama"
+    },
     "767022345": {
         "anime": "One Piece",
         "song": "Kokoro no Chizu",
@@ -1248,6 +1353,11 @@
         "anime": "Shounen Hollywood: Holly Stage for 49",
         "song": "Hello Sekai Popcorn ver.",
         "artist": "Shounen Hollywood"
+    },
+    "779798750": {
+        "anime": "Naruto Shippuuden the Movie: Bonds",
+        "song": "NO RAIN NO RAINBOW",
+        "artist": "HOME MADE Kazoku"
     },
     "783461558": {
         "anime": "Detective Conan",
@@ -1283,6 +1393,16 @@
         "anime": "Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion'",
         "song": "Hitomi no Tsubasa",
         "artist": "access"
+    },
+    "800750765": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "It's all in the game",
+        "artist": "Qyoto"
+    },
+    "803361336": {
+        "anime": "Naruto Shippuuden the Movie: The Lost Tower",
+        "song": "if",
+        "artist": "Kana Nishino"
     },
     "803470500": {
         "anime": "Masamune-kun's Revenge",
@@ -1349,6 +1469,11 @@
         "song": "Welcome!! DISCO Kemokemoke",
         "artist": "Daisuke Ono feat. Takahiro Sakurai & Jouji Nakata"
     },
+    "844973126": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Teenage Dream",
+        "artist": "miwa"
+    },
     "851448055": {
         "anime": "Code Geass: Lelouch of the Rebellion R2",
         "song": "Masquerade",
@@ -1358,6 +1483,11 @@
         "anime": "My Hero Academia: Make It! Do-or-Die Survival Training",
         "song": "Shout Baby",
         "artist": "Ryokuoushoku Shakai"
+    },
+    "855276545": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Baton Road",
+        "artist": "KANA-BOON"
     },
     "856210932": {
         "anime": "Attack on Titan: Junior High",
@@ -1394,6 +1524,11 @@
         "song": "Shinjidai",
         "artist": "Ado"
     },
+    "871715093": {
+        "anime": "Naruto",
+        "song": "GO!!!",
+        "artist": "FLOW"
+    },
     "877118381": {
         "anime": "My Hero Academia",
         "song": "Sound of the Holidays",
@@ -1413,6 +1548,11 @@
         "anime": "Dragon Ball",
         "song": "Moeru Heart de Red Ribbon Gun o Yattsukero",
         "artist": "Wonderland Gang"
+    },
+    "894208380": {
+        "anime": "Naruto Shippuuden",
+        "song": "Yokubou o Sakebe!!!!",
+        "artist": "OKAMOTO'S"
     },
     "905845041": {
         "anime": "Code Geass: Lelouch of the Rebellion",
@@ -1474,6 +1614,11 @@
         "song": "LEveL",
         "artist": "SawanoHiroyuki[nZk]:TOMORROW X TOGETHER"
     },
+    "937324967": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Prologue",
+        "artist": "JO1"
+    },
     "938208065": {
         "anime": "Spy × Family",
         "song": "Mixed Nuts",
@@ -1508,6 +1653,11 @@
         "anime": "Detective Conan",
         "song": "Q&A",
         "artist": "B'z"
+    },
+    "942989463": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Denshin Tamashii",
+        "artist": "Game Jikkyousha Wakuwaku Band"
     },
     "944223346": {
         "anime": "To LOVE-Ru",
@@ -1554,6 +1704,21 @@
         "song": "always",
         "artist": "Mai Kuraki"
     },
+    "991176219": {
+        "anime": "Naruto Shippuuden",
+        "song": "Spinning World",
+        "artist": "Diana Garnet"
+    },
+    "991595689": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Boku wa Hashiri Tsuzukeru",
+        "artist": "MELOFLOAT"
+    },
+    "993474655": {
+        "anime": "Naruto Shippuuden the Movie: Blood Prison",
+        "song": "Otakebi",
+        "artist": "Yusuke"
+    },
     "995249768": {
         "anime": "One Punch Man",
         "song": "THE HERO !! ~Ikareru Kobushi ni Hi o Tsukero~",
@@ -1578,6 +1743,11 @@
         "anime": "Naruto Shippuuden",
         "song": "distance",
         "artist": "LONG SHOT PARTY"
+    },
+    "1013014903": {
+        "anime": "Naruto Shippuuden the Movie: The Will of Fire",
+        "song": "Dare ka ga",
+        "artist": "PUFFY"
     },
     "1014351448": {
         "anime": "Dragon Ball Z Kai",
@@ -1604,6 +1774,11 @@
         "song": "Natsu no Maboroshi",
         "artist": "GARNET CROW"
     },
+    "1023256484": {
+        "anime": "Naruto",
+        "song": "Parade",
+        "artist": "CHABA"
+    },
     "1026851767": {
         "anime": "Detective Conan",
         "song": "YESTERDAY LOVE",
@@ -1629,10 +1804,20 @@
         "song": "Mute",
         "artist": "Drowning Pool"
     },
+    "1046629246": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Answers",
+        "artist": "mol-74"
+    },
     "1053272047": {
         "anime": "Masamune-kun's Revenge",
         "song": "Wagamama MIRROR HEART",
         "artist": "Ayaka Ohashi"
+    },
+    "1057238282": {
+        "anime": "Naruto",
+        "song": "Tada Yowai dake ja Nakute Bokura wa...",
+        "artist": "Mass Alert"
     },
     "1057305581": {
         "anime": "One Piece: Django's Dance Carnival",
@@ -1734,6 +1919,16 @@
         "song": "BADEND MUSICAL",
         "artist": "Mami Koyama & Homies"
     },
+    "1106091548": {
+        "anime": "Naruto",
+        "song": "Haruka Kanata",
+        "artist": "ASIAN KUNG-FU GENERATION"
+    },
+    "1109132955": {
+        "anime": "Naruto Shippuuden",
+        "song": "Broken Youth",
+        "artist": "NICO Touches the Walls"
+    },
     "1110237945": {
         "anime": "Naruto Shippuuden",
         "song": "Toumei Datta Sekai",
@@ -1778,6 +1973,11 @@
         "anime": "Dimension W",
         "song": "Genesis",
         "artist": "STEREO DIVE FOUNDATION"
+    },
+    "1136537194": {
+        "anime": "Naruto",
+        "song": "Sayonara Sekai",
+        "artist": "Kishidan"
     },
     "1136812040": {
         "anime": "Zombie Land Saga",
@@ -1889,6 +2089,11 @@
         "song": "Mune ga Dokidoki",
         "artist": "THE HIGH-LOWS"
     },
+    "1200365950": {
+        "anime": "Naruto Shippuuden",
+        "song": "Kimi Monogatari",
+        "artist": "little by little"
+    },
     "1200633365": {
         "anime": "Dragon Ball Z: Lord Slug",
         "song": "First Time",
@@ -1943,6 +2148,11 @@
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON <Rei(#26) Version>",
         "artist": "Megumi Hayashibara"
+    },
+    "1231850253": {
+        "anime": "Naruto Shippuuden",
+        "song": "Kara no Kokoro",
+        "artist": "Anly"
     },
     "1232086451": {
         "anime": "Toradora!",
@@ -2024,6 +2234,11 @@
         "song": "Silent Solitude",
         "artist": "OxT"
     },
+    "1264014390": {
+        "anime": "The Last: Naruto the Movie",
+        "song": "Hoshi no Utsuwa",
+        "artist": "Sukima Switch"
+    },
     "1264388508": {
         "anime": "Kaguya-sama: Love Is War - The First Kiss That Never Ends",
         "song": "Love is Show",
@@ -2089,6 +2304,16 @@
         "song": "Junketsu Paradox",
         "artist": "Nana Mizuki"
     },
+    "1299725721": {
+        "anime": "Naruto Shippuuden",
+        "song": "For You",
+        "artist": "AZU"
+    },
+    "1308122533": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Mata ne",
+        "artist": "Humbreaders"
+    },
     "1314229779": {
         "anime": "Little Witch Academia: The Enchanted Parade",
         "song": "Magic Parade",
@@ -2149,6 +2374,11 @@
         "song": "Fraud",
         "artist": "IGOR"
     },
+    "1366094112": {
+        "anime": "Naruto Shippuuden",
+        "song": "Sunao na Niji",
+        "artist": "surface"
+    },
     "1367152419": {
         "anime": "Detective Conan",
         "song": "Start In My Life",
@@ -2174,10 +2404,20 @@
         "song": "Sekai wa Anata no Iro ni Naru",
         "artist": "B'z"
     },
+    "1381349803": {
+        "anime": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+        "song": "Tsubomi",
+        "artist": "MARIA"
+    },
     "1381474647": {
         "anime": "Nisekoi:",
         "song": "Magical☆Styling",
         "artist": "Kana Hanazawa"
+    },
+    "1386483794": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Kachou Fuugetsu",
+        "artist": "Coalamode."
     },
     "1387300164": {
         "anime": "Photo Kano",
@@ -2289,15 +2529,30 @@
         "song": "Hero too",
         "artist": "Chrissy Costanza"
     },
+    "1435740355": {
+        "anime": "Naruto",
+        "song": "Hajimete Kimi to Shabetta",
+        "artist": "Gagaga SP"
+    },
     "1435935778": {
         "anime": "Dragon Ball Z: Resurrection 'F'",
         "song": "'Z' no Chikai",
         "artist": "Momoiro Clover Z"
     },
+    "1437344541": {
+        "anime": "Naruto the Movie: Legend of the Stone of Gelel",
+        "song": "Ding! Dong! Dang!",
+        "artist": "TUBE"
+    },
     "1438729616": {
         "anime": "One Piece",
         "song": "Kaze no Yukue (Child Ver.)",
         "artist": "Ado"
+    },
+    "1446511179": {
+        "anime": "Naruto Shippuuden",
+        "song": "Mayonaka no Orchestra",
+        "artist": "Aqua Timez"
     },
     "1447710998": {
         "anime": "Detective Conan",
@@ -2374,6 +2629,11 @@
         "song": "Rouge no Dengon",
         "artist": "Yumi Arai"
     },
+    "1485490208": {
+        "anime": "Naruto",
+        "song": "Scenario",
+        "artist": "SABOTEN"
+    },
     "1489603420": {
         "anime": "Detective Conan",
         "song": "Lie, Lie, Lie,",
@@ -2449,6 +2709,11 @@
         "song": "Binks no Sake",
         "artist": "Mugiwara no Ichimi"
     },
+    "1540174276": {
+        "anime": "Naruto Shippuuden",
+        "song": "Michi ~to you all",
+        "artist": "aluto"
+    },
     "1541377560": {
         "anime": "Smile Down the Runway",
         "song": "LION",
@@ -2458,6 +2723,11 @@
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON <Aya Bossa Techno Version>",
         "artist": "Aya"
+    },
+    "1549324809": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Fireworks",
+        "artist": "FlowBack"
     },
     "1550657865": {
         "anime": "One Piece",
@@ -2499,6 +2769,11 @@
         "song": "Seed",
         "artist": "Dust For Life"
     },
+    "1573709471": {
+        "anime": "Naruto: Hidden Leaf Village Grand Sports Festival!",
+        "song": "GYU-RU-RU",
+        "artist": "Junko Takeuchi"
+    },
     "1579687647": {
         "anime": "Dragon Ball Z Kai",
         "song": "Tada Kogoeru Elegy ~The Theme Of FREEZER~",
@@ -2518,6 +2793,11 @@
         "anime": "Berserk",
         "song": "Inferno",
         "artist": "9mm Parabellum Bullet"
+    },
+    "1591300812": {
+        "anime": "Naruto",
+        "song": "Namikaze Satellite",
+        "artist": "Snowkel"
     },
     "1591546335": {
         "anime": "Heaven's Lost Property",
@@ -2564,6 +2844,11 @@
         "song": "W●RK",
         "artist": "millennium parade × Ringo Sheena"
     },
+    "1606451291": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Laika",
+        "artist": "Bird Bear Hare and Fish"
+    },
     "1610264361": {
         "anime": "Dragon Ball Z Kai",
         "song": "Oh Yeah!!!!!!!",
@@ -2609,6 +2894,11 @@
         "song": "More Than Words",
         "artist": "Maaya Sakamoto"
     },
+    "1642271399": {
+        "anime": "Naruto Shippuuden",
+        "song": "newsong",
+        "artist": "tacica"
+    },
     "1643463191": {
         "anime": "Rascal Does Not Dream of Bunny Girl Senpai",
         "song": "Fukashigi no Karte",
@@ -2619,15 +2909,30 @@
         "song": "Kimi no Sei",
         "artist": "the peggies"
     },
+    "1652763571": {
+        "anime": "Naruto",
+        "song": "Natsuhiboshi",
+        "artist": "Daisuke Namikawa"
+    },
     "1654442441": {
         "anime": "Attack on Titan",
         "song": "great escape",
         "artist": "cinema staff"
     },
+    "1655636238": {
+        "anime": "Naruto Shippuuden",
+        "song": "LINE",
+        "artist": "Sukima Switch"
+    },
     "1658285206": {
         "anime": "My Hero Academia",
         "song": "Update",
         "artist": "miwa"
+    },
+    "1661534419": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Sayonara Moon Town",
+        "artist": "Scenarioart"
     },
     "1664168499": {
         "anime": "Darling in the FranXX",
@@ -2684,6 +2989,11 @@
         "song": "Dare mo Kare mo Doko mo Nani mo Shiranai",
         "artist": "ASOBI Doumei"
     },
+    "1693192448": {
+        "anime": "Naruto Shippuuden",
+        "song": "Diver",
+        "artist": "NICO Touches the Walls"
+    },
     "1694431112": {
         "anime": "Bleach",
         "song": "Ranbu no Melody",
@@ -2698,6 +3008,16 @@
         "anime": "Initial D",
         "song": "around the world",
         "artist": "move"
+    },
+    "1696865311": {
+        "anime": "Naruto",
+        "song": "Harmonia",
+        "artist": "RYTHEM"
+    },
+    "1702084183": {
+        "anime": "Naruto",
+        "song": "Seishun Kyousoukyoku",
+        "artist": "Sambomaster"
     },
     "1703285480": {
         "anime": "The Case Study of Vanitas",
@@ -2729,6 +3049,11 @@
         "song": "CLASSIC",
         "artist": "MUCC"
     },
+    "1730923591": {
+        "anime": "Naruto",
+        "song": "wind",
+        "artist": "Akeboshi"
+    },
     "1743971861": {
         "anime": "Angel Beats!",
         "song": "Brave Song",
@@ -2744,6 +3069,11 @@
         "song": "A Whole New World God Only Knows",
         "artist": "Oratorio The World God Only Knows"
     },
+    "1766435791": {
+        "anime": "Naruto Shippuuden",
+        "song": "Cascade",
+        "artist": "UNLIMITS"
+    },
     "1768572722": {
         "anime": "Code Geass: Lelouch of the Rebellion",
         "song": "will-ill",
@@ -2758,6 +3088,16 @@
         "anime": "My Happy Marriage",
         "song": "Anata no Soba ni.",
         "artist": "Riria."
+    },
+    "1774918600": {
+        "anime": "Naruto",
+        "song": "Soba ni Iru kara",
+        "artist": "AMADORI"
+    },
+    "1777432673": {
+        "anime": "Naruto Spin-Off: Rock Lee & His Ninja Pals",
+        "song": "Twinkle Twinkle",
+        "artist": "Secret"
     },
     "1779222546": {
         "anime": "One Piece",
@@ -2793,6 +3133,11 @@
         "anime": "Detective Conan",
         "song": "Your Best Friend",
         "artist": "Mai Kuraki"
+    },
+    "1808401015": {
+        "anime": "Naruto Shippuuden",
+        "song": "FLAME",
+        "artist": "DISH//"
     },
     "1810235918": {
         "anime": "Detective Conan",
@@ -2919,15 +3264,30 @@
         "song": "...and Rescue Me",
         "artist": "Rainy."
     },
+    "1867947141": {
+        "anime": "Naruto",
+        "song": "Ima made Nando mo",
+        "artist": "The Mass Missile"
+    },
     "1870357951": {
         "anime": "The Fruit of Evolution: Before I Knew It, My Life Had It Made",
         "song": "EVOLUTiON:",
         "artist": "Yoshino Nanjo"
     },
+    "1875121669": {
+        "anime": "Naruto Shippuuden",
+        "song": "I Can Hear",
+        "artist": "DISH//"
+    },
     "1885730230": {
         "anime": "Attack on Titan Season 3",
         "song": "Akatsuki no Requiem",
         "artist": "Linked Horizon"
+    },
+    "1888886738": {
+        "anime": "Naruto Shippuuden",
+        "song": "Sonna Kimi, Konna Boku",
+        "artist": "Thinking Dogs"
     },
     "1889341422": {
         "anime": "My Hero Academia",
@@ -3034,6 +3394,11 @@
         "song": "Misa no Uta",
         "artist": "Aya Hirano"
     },
+    "1942352943": {
+        "anime": "Naruto Shippuuden the Movie: The Lost Tower",
+        "song": "Hikari ni wa",
+        "artist": "Saori Hayami"
+    },
     "1942565841": {
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON <Rei(#25) Version>",
@@ -3043,6 +3408,11 @@
         "anime": "The iDOLM@STER SideM",
         "song": "Fun! Fun! Festa!",
         "artist": "Beit"
+    },
+    "1950512784": {
+        "anime": "Road to Ninja: Naruto the Movie",
+        "song": "Sore de wa, Mata Ashita",
+        "artist": "ASIAN KUNG-FU GENERATION"
     },
     "1954227189": {
         "anime": "Code Geass: Lelouch of the Rebellion",
@@ -3078,6 +3448,11 @@
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON <Rei (#6) Remix Version>",
         "artist": "Megumi Hayashibara"
+    },
+    "1969786432": {
+        "anime": "Naruto Shippuuden",
+        "song": "Bijuu Kazoe Uta",
+        "artist": "Junko Takeuchi"
     },
     "1973942958": {
         "anime": "Code Geass: Lelouch of the Rebellion R2",
@@ -3118,6 +3493,11 @@
         "anime": "Inazuma Eleven GO: Chrono Stone",
         "song": "Jounetsu de Mune Atsu!",
         "artist": "T-Pistonz+KMC"
+    },
+    "2000787530": {
+        "anime": "Naruto the Movie: Ninja Clash in the Land of Snow",
+        "song": "Home Sweet Home",
+        "artist": "YUKI"
     },
     "2004343597": {
         "anime": "A Certain Scientific Railgun T",
@@ -3174,6 +3554,11 @@
         "song": "Mosaic Kakera",
         "artist": "SunSet Swish"
     },
+    "2023187665": {
+        "anime": "Naruto Shippuuden",
+        "song": "Trouble Maker",
+        "artist": "KANIKAPILA"
+    },
     "2026342439": {
         "anime": "One Piece: The Movie",
         "song": "We Are!",
@@ -3219,10 +3604,20 @@
         "song": "Each Goal",
         "artist": "Chrissy Costanza"
     },
+    "2046492560": {
+        "anime": "Naruto Shippuuden",
+        "song": "Nagareboshi ~Shooting Star~",
+        "artist": "HOME MADE Kazoku"
+    },
     "2046842509": {
         "anime": "Code Geass: Lelouch of the Rebellion",
         "song": "COLORS",
         "artist": "FLOW"
+    },
+    "2054851538": {
+        "anime": "Naruto Shippuuden",
+        "song": "Yume o Daite ~Hajimari no Crissroad~",
+        "artist": "Rake"
     },
     "2056475727": {
         "anime": "Koyomimonogatari",
@@ -3243,6 +3638,11 @@
         "anime": "Re:Zero: Starting Life in Another World",
         "song": "Memento",
         "artist": "nonoc"
+    },
+    "2076105609": {
+        "anime": "Naruto Shippuuden: Shippuu! \"Konoha Gakuen\" Den",
+        "song": "Michi ~to you all",
+        "artist": "aluto"
     },
     "2076147491": {
         "anime": "Code Geass: Lelouch of the Rebellion R2 Special Edition 'Zero Requiem'",
@@ -3269,6 +3669,11 @@
         "song": "Shining ray",
         "artist": "Janne Da Arc"
     },
+    "2099915185": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Who are you?",
+        "artist": "PELICAN FANCLUB"
+    },
     "2101455888": {
         "anime": "One Piece: Chopper Kingdom of Strange Animal Island",
         "song": "Mabushikute",
@@ -3283,6 +3688,11 @@
         "anime": "My First Girlfriend is a Gal",
         "song": "Hajimete no SEASON",
         "artist": "Junjou no Afilia"
+    },
+    "2116408277": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Gamushara",
+        "artist": "CHiCO with HoneyWorks"
     },
     "2116974531": {
         "anime": "Detective Conan",
@@ -3304,6 +3714,11 @@
         "song": "Innocent Days",
         "artist": "Hitomi"
     },
+    "2126693991": {
+        "anime": "Naruto",
+        "song": "Rise",
+        "artist": "Jeremy Sweet and Ian Nickus"
+    },
     "2128490980": {
         "anime": "Puella Magi Madoka Magica",
         "song": "Credens justitiam",
@@ -3313,6 +3728,11 @@
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON",
         "artist": "CLAIRE"
+    },
+    "2134807175": {
+        "anime": "Naruto Shippuuden: The Burning Chuunin Exam! Naruto vs. Konohamaru!!",
+        "song": "Future Eve",
+        "artist": "OKAMOTO'S"
     },
     "2137124984": {
         "anime": "Detective Conan",
@@ -6623,5 +7043,320 @@
         "anime": "Super Dragon Ball Heroes",
         "song": "Super Dragon Ball Heroes Fight Song",
         "artist": "Dragon Soul"
+    },
+    "-1709302687": {
+        "anime": "Naruto",
+        "song": "No Boy No Cry",
+        "artist": "STANCE PUNKS"
+    },
+    "-538697971": {
+        "anime": "Naruto",
+        "song": "Re:member",
+        "artist": "FLOW"
+    },
+    "-878395394": {
+        "anime": "Naruto",
+        "song": "Yura Yura",
+        "artist": "Hearts Grow"
+    },
+    "-1086291490": {
+        "anime": "Naruto",
+        "song": "Good Bye, Good Luck",
+        "artist": "TOTALFAT"
+    },
+    "-268450019": {
+        "anime": "Naruto",
+        "song": "Viva★Rock ~japanese side~",
+        "artist": "ORANGE RANGE"
+    },
+    "-1451738732": {
+        "anime": "Naruto",
+        "song": "ALIVE",
+        "artist": "RAICO"
+    },
+    "-2060541873": {
+        "anime": "Naruto",
+        "song": "Nakushita Kotoba",
+        "artist": "No Regret Life"
+    },
+    "-278742137": {
+        "anime": "Naruto",
+        "song": "Yellow Moon",
+        "artist": "Akeboshi"
+    },
+    "-1572504982": {
+        "anime": "Naruto",
+        "song": "Pinocchio",
+        "artist": "OreSkaBand"
+    },
+    "-64501382": {
+        "anime": "Naruto",
+        "song": "Natsuhiboshi",
+        "artist": "Rica Fukami"
+    },
+    "-996594849": {
+        "anime": "Naruto Shippuuden",
+        "song": "Blue Bird",
+        "artist": "Ikimono-gakari"
+    },
+    "-366172120": {
+        "anime": "Naruto Shippuuden",
+        "song": "Sign",
+        "artist": "FLOW"
+    },
+    "-1915940623": {
+        "anime": "Naruto Shippuuden",
+        "song": "Lovers",
+        "artist": "7!!"
+    },
+    "-2050729779": {
+        "anime": "Naruto Shippuuden",
+        "song": "Totsugeki Rock",
+        "artist": "The Cro-Magnons"
+    },
+    "-1415220060": {
+        "anime": "Naruto Shippuuden",
+        "song": "Moshimo",
+        "artist": "Daisuke"
+    },
+    "-1111543019": {
+        "anime": "Naruto Shippuuden",
+        "song": "Tsuki no Ookisa",
+        "artist": "Nogizaka46"
+    },
+    "-1950527275": {
+        "anime": "Naruto Shippuuden",
+        "song": "Kaze",
+        "artist": "Yamazaru"
+    },
+    "-1838565157": {
+        "anime": "Naruto Shippuuden",
+        "song": "Blood Circulator",
+        "artist": "ASIAN KUNG-FU GENERATION"
+    },
+    "-1911533183": {
+        "anime": "Naruto Shippuuden",
+        "song": "Mezamero! Yasei",
+        "artist": "MATCHY with QUESTION?"
+    },
+    "-1706576818": {
+        "anime": "Naruto Shippuuden",
+        "song": "Long Kiss Good Bye",
+        "artist": "HALCALI"
+    },
+    "-2128266541": {
+        "anime": "Naruto Shippuuden",
+        "song": "Shinkokyuu",
+        "artist": "SUPER BEAVER"
+    },
+    "-1650745445": {
+        "anime": "Naruto Shippuuden",
+        "song": "Omae Dattanda",
+        "artist": "Kishidan"
+    },
+    "-1545632362": {
+        "anime": "Naruto Shippuuden",
+        "song": "Jitensha",
+        "artist": "OreSkaBand"
+    },
+    "-306962341": {
+        "anime": "Naruto Shippuuden",
+        "song": "Utakata Hanabi",
+        "artist": "supercell"
+    },
+    "-1067942763": {
+        "anime": "Naruto Shippuuden",
+        "song": "U can do it!",
+        "artist": "DOMINO"
+    },
+    "-1207621958": {
+        "anime": "Naruto Shippuuden",
+        "song": "FREEDOM",
+        "artist": "HOME MADE Kazoku"
+    },
+    "-937949992": {
+        "anime": "Naruto Shippuuden",
+        "song": "Place to Try",
+        "artist": "TOTALFAT"
+    },
+    "-703063842": {
+        "anime": "Naruto Shippuuden",
+        "song": "By My Side",
+        "artist": "Hemenway"
+    },
+    "-1450819858": {
+        "anime": "Naruto Shippuuden",
+        "song": "MOTHER",
+        "artist": "MUCC"
+    },
+    "-1347687817": {
+        "anime": "Naruto Shippuuden",
+        "song": "Sayonara Memory",
+        "artist": "7!!"
+    },
+    "-1214952957": {
+        "anime": "Naruto Shippuuden",
+        "song": "Black Night Town",
+        "artist": "Akihisa Kondou"
+    },
+    "-1111665859": {
+        "anime": "Naruto Shippuuden",
+        "song": "Niji",
+        "artist": "Shinku Horou"
+    },
+    "-806858192": {
+        "anime": "Naruto Shippuuden",
+        "song": "Never Change",
+        "artist": "SHUN feat.Lyu:Lyu"
+    },
+    "-1401125145": {
+        "anime": "Naruto Shippuuden",
+        "song": "Dame Dame da",
+        "artist": "Shiori Tomita"
+    },
+    "-592339003": {
+        "anime": "Naruto Shippuuden",
+        "song": "Kotoba no Iranai Yakusoku",
+        "artist": "sana"
+    },
+    "-908334625": {
+        "anime": "Naruto Shippuuden",
+        "song": "Niji no Sora",
+        "artist": "FLOW"
+    },
+    "-1443929954": {
+        "anime": "Naruto Shippuuden",
+        "song": "Ao no Lullaby",
+        "artist": "Kuroneko Chelsea"
+    },
+    "-1267772226": {
+        "anime": "Naruto Shippuuden",
+        "song": "Tabidachi no Uta",
+        "artist": "Ayumikurikamaki"
+    },
+    "-475990981": {
+        "anime": "Naruto Shippuuden",
+        "song": "Zetsu Zetsu",
+        "artist": "Swimy"
+    },
+    "-398066805": {
+        "anime": "Naruto Shippuuden the Movie 1",
+        "song": "Lie-Lie-Lie",
+        "artist": "DJ OZMA"
+    },
+    "-30305643": {
+        "anime": "Naruto Spin-Off: Rock Lee & His Ninja Pals",
+        "song": "Love Song",
+        "artist": "OKAMOTO'S"
+    },
+    "-284906003": {
+        "anime": "Naruto Spin-Off: Rock Lee & His Ninja Pals",
+        "song": "Go!Go!Here We Go! Rock Lee",
+        "artist": "Shiritsu Ebisu Chuugaku"
+    },
+    "-1088079219": {
+        "anime": "Naruto Spin-Off: Rock Lee & His Ninja Pals",
+        "song": "Daijoubu, Bokura",
+        "artist": "RAM WIRE"
+    },
+    "-1998164841": {
+        "anime": "Naruto Spin-Off: Rock Lee & His Ninja Pals",
+        "song": "Icha Icha Chu Chu Kyappi Kyappi Love Love Suri Suri Doki Doki",
+        "artist": "HAPPY BIRTHDAY"
+    },
+    "-1866711134": {
+        "anime": "Naruto: The Cross Roads",
+        "song": "Haruka Kanata",
+        "artist": "ASIAN KUNG-FU GENERATION"
+    },
+    "-1681857625": {
+        "anime": "Boruto: Naruto the Movie",
+        "song": "Diver",
+        "artist": "KANA-BOON"
+    },
+    "-1147757252": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "OVER",
+        "artist": "Little Glee Monster"
+    },
+    "-643243452": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Lonely Go!",
+        "artist": "Brian the Sun"
+    },
+    "-448382010": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Hajimatte Iku Takamatte Iku",
+        "artist": "Sambomaster"
+    },
+    "-985763": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "BAKU",
+        "artist": "Ikimono-gakari"
+    },
+    "-124866629": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "GOLD",
+        "artist": "FLOW"
+    },
+    "-447825297": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Shukuen",
+        "artist": "ASIAN KUNG-FU GENERATION"
+    },
+    "-1385385720": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Dreamy Journey",
+        "artist": "the peggies"
+    },
+    "-117522688": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Polaris",
+        "artist": "hitorie"
+    },
+    "-547700179": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Tsuyogari LOSER",
+        "artist": "ЯeaL"
+    },
+    "-1356344183": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Ride or Die",
+        "artist": "Sky Peace"
+    },
+    "-1745734340": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Mikansei na Hikari-tachi",
+        "artist": "Haruka Fukuhara"
+    },
+    "-1099874647": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Wish on",
+        "artist": "LONGMAN"
+    },
+    "-229034118": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Maybe I",
+        "artist": "Seven Billion Dots"
+    },
+    "-1116910609": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Kimi ga Ita Shirushi",
+        "artist": "halca"
+    },
+    "-2086811248": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "VOLTAGE",
+        "artist": "Anly"
+    },
+    "-1366450824": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Twilight Fuzz",
+        "artist": "THIS IS JAPAN"
+    },
+    "-2140006685": {
+        "anime": "Boruto: Naruto Next Generations",
+        "song": "Kaze ni Nare",
+        "artist": "Ray"
     }
 }
