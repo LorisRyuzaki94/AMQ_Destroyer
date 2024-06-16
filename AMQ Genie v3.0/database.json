@@ -529,6 +529,11 @@
         "song": "Imagination",
         "artist": "SPYAIR"
     },
+    "286316956": {
+        "anime": "[Oshi no Ko]",
+        "song": "Sign wa B -Ai Solo ver.-",
+        "artist": "Rie Takahashi"
+    },
     "287994406": {
         "anime": "Detective Conan: Magician of the Silver Sky",
         "song": "Dream×Dream",
@@ -1359,6 +1364,11 @@
         "song": "Playmaker",
         "artist": "all at once feat. Yudai Ohno (from Da-iCE)"
     },
+    "732451679": {
+        "anime": "86 Eighty-Six",
+        "song": "Hands Up to the Sky",
+        "artist": "SawanoHiroyuki[nZk]:Laco"
+    },
     "738815778": {
         "anime": "Dragon Ball: Sleeping Princess in Devil's Castle",
         "song": "Makafushigi Adventure!",
@@ -1498,6 +1508,11 @@
         "anime": "Masamune-kun's Revenge",
         "song": "Egao de Hadapyua!",
         "artist": "Ayaka Ohashi & Suzuko Mimori"
+    },
+    "804466626": {
+        "anime": "[Oshi no Ko]",
+        "song": "STAR☆T☆RAIN -New Arrange Ver.-",
+        "artist": "B-Komachi"
     },
     "804805769": {
         "anime": "Mr. Villain's Day Off",
@@ -7723,5 +7738,25 @@
         "anime": ".hack//The Movie",
         "song": "Hope",
         "artist": "Tomoyo Mitani (LieN)"
+    },
+    "-72586237": {
+        "anime": "[Oshi no Ko]",
+        "song": "Full moon...!",
+        "artist": "Megumi Han"
+    },
+    "-2050282981": {
+        "anime": "86 Eighty-Six",
+        "song": "3-pun 29-byou",
+        "artist": "hitorie"
+    },
+    "-1055578312": {
+        "anime": "86 Eighty-Six",
+        "song": "Voices of the Chord",
+        "artist": "Gemie"
+    },
+    "-1264898620": {
+        "anime": "86 Eighty-Six",
+        "song": "Two Worlds Apart",
+        "artist": "AI INOUE"
     }
 }
