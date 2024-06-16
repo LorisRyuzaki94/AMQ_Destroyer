@@ -389,6 +389,11 @@
         "song": "Tick×Tack Nostalgia",
         "artist": "Mao・Meisa from STARRY PLANET☆"
     },
+    "269296471": {
+        "anime": "The Apothecary Diaries",
+        "song": "Hototogisu",
+        "artist": "Houko Kuwashima"
+    },
     "279131184": {
         "anime": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
         "song": "rise",
@@ -644,6 +649,11 @@
         "song": "Lime Tree",
         "artist": "nano.RIPE"
     },
+    "435390353": {
+        "anime": "The Apothecary Diaries",
+        "song": "Aikotoba",
+        "artist": "AiNA THE END"
+    },
     "438728393": {
         "anime": "Noragami",
         "song": "Noratan",
@@ -853,6 +863,11 @@
         "anime": "Code Geass: Lelouch of the Rebellion",
         "song": "Mosaic Kakera",
         "artist": "SunSet Swish"
+    },
+    "574182130": {
+        "anime": "The Apothecary Diaries",
+        "song": "Asu o Tazunete",
+        "artist": "XAI"
     },
     "574997241": {
         "anime": "Code Geass: Lelouch of the Rebellion Remake Movies",
@@ -1108,6 +1123,11 @@
         "anime": "Himouto! Umaru-chan",
         "song": "Kakushinteki☆Metamaruphose!",
         "artist": "Aimi Tanaka"
+    },
+    "762769907": {
+        "anime": "The Apothecary Diaries",
+        "song": "Hana ni Natte",
+        "artist": "Ryokuoushoku Shakai"
     },
     "764459095": {
         "anime": "Detective Conan",
@@ -1643,6 +1663,11 @@
         "anime": "Code Geass: Lelouch of the Rebellion R2 Special Edition 'Zero Requiem'",
         "song": "Boku wa, Tori ni Naru.",
         "artist": "Hitomi"
+    },
+    "1139825919": {
+        "anime": "The Apothecary Diaries",
+        "song": "Soukuu no Honoo",
+        "artist": "Daichi Takenaka"
     },
     "1142588920": {
         "anime": "Spy Classroom",
@@ -5933,5 +5958,25 @@
         "anime": "Detective Conan: Private Eye in the Distant Sea",
         "song": "One More Time",
         "artist": "Kazuyoshi Saito"
+    },
+    "-737684783": {
+        "anime": "The Apothecary Diaries",
+        "song": "Ambivalent",
+        "artist": "Uru"
+    },
+    "-73552328": {
+        "anime": "The Apothecary Diaries",
+        "song": "Ai wa Kusuri",
+        "artist": "wacci"
+    },
+    "-1892333760": {
+        "anime": "The Apothecary Diaries",
+        "song": "Secchuuka",
+        "artist": "Kanako Kishi"
+    },
+    "-474131676": {
+        "anime": "The Apothecary Diaries",
+        "song": "Omoi Saku Toki",
+        "artist": "Aoiema."
     }
 }
