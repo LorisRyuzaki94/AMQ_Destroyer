@@ -22,7 +22,7 @@ function readJSONFile(filename) {
 // Funzione per scrivere un file JSON
 function writeJSONFile(filename, data) {
     return new Promise((resolve, reject) => {
-        fs.writeFile(filename, JSON.stringify(data, null, 2), 'utf8', (err) => {
+        fs.writeFile(filename, JSON.stringify(data, null, 4), 'utf8', (err) => {
             if (err) {
                 reject(err);
                 return;
