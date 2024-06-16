@@ -1654,6 +1654,11 @@
         "song": "Kimagure Romantic",
         "artist": "Rie Takahashi"
     },
+    "862083869": {
+        "anime": "Absolute Duo",
+        "song": "Apple Tea no Aji",
+        "artist": "Nozomi Yamamoto×Haruka Yamazaki"
+    },
     "866732192": {
         "anime": "Zom 100: Bucket List of the Dead",
         "song": "Song of the Dead",
@@ -7953,5 +7958,10 @@
         "anime": "A Silent Voice",
         "song": "MY GENERATION",
         "artist": "THE WHO"
+    },
+    "-726941608": {
+        "anime": "Absolute Duo",
+        "song": "2/2",
+        "artist": "Ayaka Imamura×Ayaka Suwa"
     }
 }
