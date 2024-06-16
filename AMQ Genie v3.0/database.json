@@ -4,6 +4,11 @@
         "song": "Tabibito no Uta ~Kikyou~",
         "artist": "Yuiko Ohara"
     },
+    "8102025": {
+        "anime": "Detective Conan",
+        "song": "SWEET MOONLIGHT",
+        "artist": "BREAKERZ"
+    },
     "11493086": {
         "anime": "The Familiar of Zero F",
         "song": "I'LL BE THERE FOR YOU",
@@ -39,6 +44,11 @@
         "song": "Junsui na Fujunbutsu",
         "artist": "StylipS"
     },
+    "41972813": {
+        "anime": "Detective Conan",
+        "song": "Unraveling Love ~Sukoshi no Yuuki~",
+        "artist": "Mai Kuraki"
+    },
     "42466623": {
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON <Aki Jungle Version>",
@@ -59,6 +69,11 @@
         "song": "Goodday Goodnight",
         "artist": "U149"
     },
+    "48718050": {
+        "anime": "Detective Conan",
+        "song": "Sekai wa Mawaru to Iu Keredo",
+        "artist": "GARNET CROW"
+    },
     "50352724": {
         "anime": "Absolute Duo",
         "song": "Believe×Believe",
@@ -68,6 +83,11 @@
         "anime": "Teasing Master Takagi-san",
         "song": "Kaze Fukeba Koi",
         "artist": "Rie Takahashi"
+    },
+    "60991861": {
+        "anime": "Detective Conan",
+        "song": "Don't Wanna Lie",
+        "artist": "B'z"
     },
     "62574481": {
         "anime": "Revue Starlight: Rondo Rondo Rondo",
@@ -129,6 +149,11 @@
         "song": "REVERSI",
         "artist": "UVERworld"
     },
+    "92728328": {
+        "anime": "Detective Conan: The Darkest Nightmare",
+        "song": "Sekai wa Anata no Iro ni Naru",
+        "artist": "B'z"
+    },
     "93391023": {
         "anime": "The Future Diary Redial",
         "song": "Kyouki Chinden",
@@ -143,6 +168,11 @@
         "anime": "Alice or Alice",
         "song": "LONELY ALICE",
         "artist": "Pyxis"
+    },
+    "96652284": {
+        "anime": "Detective Conan",
+        "song": "Togetsukyou ~Kimi Omou~",
+        "artist": "Mai Kuraki"
     },
     "103082996": {
         "anime": "Girls und Panzer der Film",
@@ -163,6 +193,11 @@
         "anime": "Jujutsu Kaisen",
         "song": "Ao no Sumika",
         "artist": "Tatsuya Kitani"
+    },
+    "126781371": {
+        "anime": "Detective Conan",
+        "song": "Unmei no Roulette Mawashite",
+        "artist": "La PomPon"
     },
     "128541962": {
         "anime": "Steins;Gate",
@@ -214,6 +249,11 @@
         "song": "Bitter Sweet Harmony",
         "artist": "Megumi Nakajima"
     },
+    "156062479": {
+        "anime": "Detective Conan",
+        "song": "Thank You For Everything",
+        "artist": "Sayuri Iwata"
+    },
     "159864364": {
         "anime": "KONOSUBA: God's Blessing on This Wonderful World! 3",
         "song": "Growing Up",
@@ -244,15 +284,30 @@
         "song": "Ma・Ka・Se・Te Tonight",
         "artist": "Iori Nomizu"
     },
+    "173793682": {
+        "anime": "Detective Conan",
+        "song": "Koi ni Koishite",
+        "artist": "Mai Kuraki"
+    },
     "174688661": {
         "anime": "Inazuma Eleven",
         "song": "Tsunagariyo",
         "artist": "T-Pistonz+KMC"
     },
+    "175187521": {
+        "anime": "Detective Conan: Conan and Kid and Crystal Mother",
+        "song": "Nemuru Kimi no Yokogao ni Hohoemi o",
+        "artist": "U-ka saegusa IN db"
+    },
     "179140967": {
         "anime": "Naruto Shippuuden",
         "song": "Niwaka Ame ni mo Makezu",
         "artist": "NICO Touches the Walls"
+    },
+    "179384938": {
+        "anime": "Detective Conan",
+        "song": "Muteki na Heart",
+        "artist": "Mai Kuraki"
     },
     "183997118": {
         "anime": "Nekomonogatari (Black)",
@@ -274,6 +329,26 @@
         "song": "Oira Boko Daze!",
         "artist": "Ayumi Fujimura"
     },
+    "206054162": {
+        "anime": "Detective Conan: Full Score of Fear",
+        "song": "Tsubasa o Hirogete",
+        "artist": "ZARD"
+    },
+    "210369274": {
+        "anime": "Detective Conan",
+        "song": "Hoshiai",
+        "artist": "all at once"
+    },
+    "213371351": {
+        "anime": "Detective Conan",
+        "song": "Yarukkyanai no sa ~Conan no Shouri~",
+        "artist": "Iori & Minami Takayama"
+    },
+    "222279895": {
+        "anime": "Detective Conan: Kid in Trap Island",
+        "song": "Hello Mr.my yesterday",
+        "artist": "Hundred Percent Free"
+    },
     "223040711": {
         "anime": "Attack on Titan: Chronicle",
         "song": "The Reluctant Heroes",
@@ -283,6 +358,11 @@
         "anime": "Attack on Titan: Chronicle",
         "song": "Before Lights Out",
         "artist": "Laco"
+    },
+    "230630954": {
+        "anime": "Detective Conan",
+        "song": "Veronica",
+        "artist": "Mai Kuraki"
     },
     "232472644": {
         "anime": "Mushoku Tensei: Jobless Reincarnation",
@@ -299,6 +379,11 @@
         "song": "answer",
         "artist": "Ayana Taketatsu"
     },
+    "267232130": {
+        "anime": "Detective Conan",
+        "song": "Nazo",
+        "artist": "La PomPon"
+    },
     "268841694": {
         "anime": "Gekijouban Aikatsu Planet!",
         "song": "Tick×Tack Nostalgia",
@@ -309,10 +394,25 @@
         "song": "rise",
         "artist": "Origa"
     },
+    "279287710": {
+        "anime": "Detective Conan",
+        "song": "SLEEPLESS",
+        "artist": "B'z"
+    },
     "280365528": {
         "anime": "My Neighbor Totoro",
         "song": "Tonari no Totoro",
         "artist": "Azumi Inoue"
+    },
+    "281386309": {
+        "anime": "Detective Conan",
+        "song": "Kumo ni Notte",
+        "artist": "U-ka saegusa IN db"
+    },
+    "282572801": {
+        "anime": "Detective Conan",
+        "song": "Yume o Tomenaide Ite",
+        "artist": "VELVET GARDEN"
     },
     "285974213": {
         "anime": "Haikyu!!",
@@ -339,6 +439,11 @@
         "song": "irony",
         "artist": "ClariS"
     },
+    "297373264": {
+        "anime": "Detective Conan: A Challenge from Agasa",
+        "song": "Shiroi Yuki",
+        "artist": "Mai Kuraki"
+    },
     "298699870": {
         "anime": "Attack on Titan Season 3",
         "song": "Name of Love",
@@ -348,6 +453,11 @@
         "anime": "One Piece",
         "song": "Wake up!",
         "artist": "AAA"
+    },
+    "309671737": {
+        "anime": "Detective Conan",
+        "song": "Reboot",
+        "artist": "Airi Miyakawa"
     },
     "319331220": {
         "anime": "Choujuu Kishin Dancougar: God Bless Dancougar",
@@ -403,6 +513,11 @@
         "anime": "Sword Art Online: Alicization - War of Underworld",
         "song": "ANIMA",
         "artist": "ReoNa"
+    },
+    "349308548": {
+        "anime": "Detective Conan",
+        "song": "Kimi ga Ireba",
+        "artist": "Iori"
     },
     "349825945": {
         "anime": "In Another World With My Smartphone",
@@ -489,6 +604,16 @@
         "song": "Oppai Dragon no Uta",
         "artist": "Yuki Kaji"
     },
+    "406780850": {
+        "anime": "Detective Conan",
+        "song": "Aozolighter",
+        "artist": "Cellchrome"
+    },
+    "407604588": {
+        "anime": "Detective Conan",
+        "song": "Sukoshi Zutsu Sukoshi Zutsu",
+        "artist": "SARD UNDERGROUND"
+    },
     "416760778": {
         "anime": "Kiratto Pri☆Chan",
         "song": "Diamond Smile",
@@ -523,6 +648,11 @@
         "anime": "Noragami",
         "song": "Noratan",
         "artist": "Yutaka Fukuoka & Lotus Juice"
+    },
+    "442569845": {
+        "anime": "Detective Conan: Strategy Above the Depths",
+        "song": "Natsu o Matsu Sail no You ni",
+        "artist": "ZARD"
     },
     "443028997": {
         "anime": "The Asterisk War",
@@ -564,6 +694,11 @@
         "song": "Heart Watcher",
         "artist": "Yuki Nagaku & Shintarou Asanuma"
     },
+    "488063267": {
+        "anime": "Detective Conan",
+        "song": "WE GO",
+        "artist": "BREAKERZ"
+    },
     "490492016": {
         "anime": "Beyblade: Metal Fusion",
         "song": "Metal Fight Beyblade",
@@ -578,6 +713,11 @@
         "anime": "Josee, the Tiger and the Fish",
         "song": "Ao no Waltz",
         "artist": "Eve"
+    },
+    "494812892": {
+        "anime": "Detective Conan: Jolly Roger in the Deep Azure",
+        "song": "Nanatsu no Umi o Wataru Kaze no You ni",
+        "artist": "Rina Aiuchi & U-ka saegusa"
     },
     "495738281": {
         "anime": "Doushitemo Eto ni Hairitai",
@@ -629,6 +769,11 @@
         "song": "...cchae!",
         "artist": "Haruka Tomatsu & Sayuri Yahagi"
     },
+    "537523963": {
+        "anime": "Case Closed: The Fourteenth Target",
+        "song": "KIZUNA",
+        "artist": "Iori"
+    },
     "540331714": {
         "anime": "Detective Conan",
         "song": "Everything OK!!",
@@ -643,6 +788,11 @@
         "anime": "Code Geass: Lelouch of the Rebellion R2 Special Edition 'Zero Requiem'",
         "song": "Strange Girl",
         "artist": "Hitomi"
+    },
+    "547198322": {
+        "anime": "Detective Conan",
+        "song": "Glorious Mind",
+        "artist": "ZARD"
     },
     "547793930": {
         "anime": "Darling in the FranXX",
@@ -754,6 +904,11 @@
         "song": "Crazy Rainbow",
         "artist": "Tackey & Tsubasa"
     },
+    "616212847": {
+        "anime": "Detective Conan",
+        "song": "Still for your love",
+        "artist": "rumania montevideo"
+    },
     "616378999": {
         "anime": "Soul Eater",
         "song": "schlachtschiff",
@@ -794,10 +949,20 @@
         "song": "Kimi ni Gohoushi",
         "artist": "Yuka Iguchi, Eri Kitamura, Mariya Ise"
     },
+    "636179264": {
+        "anime": "Detective Conan",
+        "song": "Doing all right",
+        "artist": "GARNET CROW"
+    },
     "638004995": {
         "anime": "My Hero Academia",
         "song": "Dakara, Hitori ja Nai",
         "artist": "Little Glee Monster"
+    },
+    "639853206": {
+        "anime": "Detective Conan",
+        "song": "RAIN MAN",
+        "artist": "AKIHIDE"
     },
     "640816744": {
         "anime": "One Piece",
@@ -808,6 +973,11 @@
         "anime": "Noragami",
         "song": "Heart Realize",
         "artist": "Tia"
+    },
+    "642407111": {
+        "anime": "Detective Conan",
+        "song": "Meikyuu no Lovers",
+        "artist": "heath"
     },
     "649279675": {
         "anime": "Mayo Chiki!",
@@ -849,6 +1019,11 @@
         "song": "Angel★Ukkii",
         "artist": "Angel-tai"
     },
+    "672650907": {
+        "anime": "Detective Conan",
+        "song": "RAISE INSIGHT",
+        "artist": "WANDS"
+    },
     "675884446": {
         "anime": "One Piece Film: Gold",
         "song": "Funky Shiro Suit",
@@ -869,6 +1044,11 @@
         "song": "ANSWER",
         "artist": "Only this time"
     },
+    "698927260": {
+        "anime": "Detective Conan",
+        "song": "Hikari",
+        "artist": "BREAKERZ"
+    },
     "710132269": {
         "anime": "Attack on Titan: No Regrets",
         "song": "So ist es immer",
@@ -884,10 +1064,30 @@
         "song": "Tatakae Bokura no XXX",
         "artist": "Takayuki Miyauchi"
     },
+    "717520139": {
+        "anime": "Detective Conan",
+        "song": "Tsukiyo no Itazura no Mahou",
+        "artist": "BREAKERZ"
+    },
     "724389696": {
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON <OFF VOCAL VERSION>",
         "artist": "Toshiyuki Omori"
+    },
+    "725679536": {
+        "anime": "Detective Conan: The Scarlet Bullet",
+        "song": "Eien no Fuzai Shoumei",
+        "artist": "Tokyo Jihen"
+    },
+    "730196824": {
+        "anime": "Detective Conan",
+        "song": "Playmaker",
+        "artist": "all at once feat. Yudai Ohno (from Da-iCE)"
+    },
+    "740063498": {
+        "anime": "Detective Conan",
+        "song": "Overwrite",
+        "artist": "BREAKERZ"
     },
     "745765561": {
         "anime": "Attack on Titan Final Season",
@@ -909,6 +1109,11 @@
         "song": "Kakushinteki☆Metamaruphose!",
         "artist": "Aimi Tanaka"
     },
+    "764459095": {
+        "anime": "Detective Conan",
+        "song": "Futari no Byoushin",
+        "artist": "Takuto"
+    },
     "765405673": {
         "anime": "Code Geass: Lelouch of the Rebellion Remake Movies",
         "song": "Innocent Days",
@@ -928,6 +1133,11 @@
         "anime": "Shounen Hollywood: Holly Stage for 49",
         "song": "Hello Sekai Popcorn ver.",
         "artist": "Shounen Hollywood"
+    },
+    "783461558": {
+        "anime": "Detective Conan",
+        "song": "Aoi Aoi Kono Hoshi ni",
+        "artist": "Azumi Uehara"
     },
     "785095116": {
         "anime": "Neon Genesis Evangelion",
@@ -1074,10 +1284,20 @@
         "song": "EASY LOVE",
         "artist": "Sumire Uesaka"
     },
+    "880752430": {
+        "anime": "Detective Conan",
+        "song": "Mou Kimi dake o Hanashitari wa Shinai",
+        "artist": "Aya Kamiki"
+    },
     "905845041": {
         "anime": "Code Geass: Lelouch of the Rebellion",
         "song": "Yuukyou Seishunka",
         "artist": "ALI PROJECT"
+    },
+    "906889575": {
+        "anime": "Detective Conan",
+        "song": "Growing of my heart",
+        "artist": "Mai Kuraki"
     },
     "918416735": {
         "anime": "Ya Boy Kongming!",
@@ -1149,10 +1369,20 @@
         "song": "memories",
         "artist": "moumoon"
     },
+    "941319310": {
+        "anime": "Detective Conan",
+        "song": "Natsu no Maboroshi",
+        "artist": "GARNET CROW"
+    },
     "941605811": {
         "anime": "Initial D",
         "song": "DANCE AROUND THE WORLD",
         "artist": "DELTA QUEENS"
+    },
+    "942941412": {
+        "anime": "Detective Conan",
+        "song": "Q&A",
+        "artist": "B'z"
     },
     "944223346": {
         "anime": "To LOVE-Ru",
@@ -1164,10 +1394,20 @@
         "song": "Be Crazy For Me",
         "artist": "96neko"
     },
+    "959516312": {
+        "anime": "Detective Conan",
+        "song": "Kimi to Iu Hikari",
+        "artist": "GARNET CROW"
+    },
     "963517931": {
         "anime": "Bocchi the Rock!",
         "song": "Guitar to Kodoku to Aoi Hoshi",
         "artist": "Kessoku Band"
+    },
+    "963662133": {
+        "anime": "Detective Conan",
+        "song": "Kimi ga Inai Natsu",
+        "artist": "DEEN"
     },
     "969525436": {
         "anime": "Tokyo Revengers",
@@ -1183,6 +1423,11 @@
         "anime": "Konohana Kitan",
         "song": "Kokoro ni Tsubomi",
         "artist": "eufonius"
+    },
+    "988831447": {
+        "anime": "Case Closed: Countdown to Heaven",
+        "song": "always",
+        "artist": "Mai Kuraki"
     },
     "995249768": {
         "anime": "One Punch Man",
@@ -1224,6 +1469,26 @@
         "song": "Alive",
         "artist": "Mashiro Ayano"
     },
+    "1020804049": {
+        "anime": "Detective Conan: Conan vs Kid vs Yaiba",
+        "song": "Natsu no Maboroshi",
+        "artist": "GARNET CROW"
+    },
+    "1026851767": {
+        "anime": "Detective Conan",
+        "song": "YESTERDAY LOVE",
+        "artist": "Mai Kuraki"
+    },
+    "1033668401": {
+        "anime": "Detective Conan",
+        "song": "Yukidoke no Ano Kawa no Nagare no You ni",
+        "artist": "U-ka saegusa IN db"
+    },
+    "1038738030": {
+        "anime": "Detective Conan",
+        "song": "Unmei no Roulette Mawashite",
+        "artist": "ZARD"
+    },
     "1043347286": {
         "anime": "The Future Diary",
         "song": "filament",
@@ -1238,6 +1503,11 @@
         "anime": "One Piece: Django's Dance Carnival",
         "song": "Ready!",
         "artist": "Folder5"
+    },
+    "1057714660": {
+        "anime": "Detective Conan",
+        "song": "Ai wa Kurayami no Naka de",
+        "artist": "ZARD"
     },
     "1057887090": {
         "anime": "Code Geass: Lelouch of the Rebellion R2 Special Edition 'Zero Requiem'",
@@ -1263,6 +1533,11 @@
         "anime": "To Your Eternity",
         "song": "PINK BLOOD",
         "artist": "Hikaru Utada"
+    },
+    "1082282413": {
+        "anime": "Detective Conan",
+        "song": "SAWAGE☆LIFE",
+        "artist": "Mai Kuraki"
     },
     "1086086646": {
         "anime": "Demon Slayer: Kimetsu no Yaiba",
@@ -1293,6 +1568,11 @@
         "anime": "Motto To LOVE-Ru",
         "song": "Heeeeekkuchi! ~Run Tokidoki, Ren~",
         "artist": "Fuyuka Oura"
+    },
+    "1098887580": {
+        "anime": "Detective Conan",
+        "song": "Kaze no Lalala",
+        "artist": "Mai Kuraki"
     },
     "1100069887": {
         "anime": "Attack on Titan Season 2",
@@ -1374,6 +1654,11 @@
         "song": "Spice",
         "artist": "Tokyo Karan Koron"
     },
+    "1147940745": {
+        "anime": "Detective Conan",
+        "song": "Step by Step",
+        "artist": "ZIGGY"
+    },
     "1148223033": {
         "anime": "Gushing Over Magical Girls",
         "song": "My dream girls",
@@ -1384,6 +1669,11 @@
         "song": "theDOGS",
         "artist": "mpi"
     },
+    "1149918442": {
+        "anime": "Detective Conan",
+        "song": "Kimi to Koi no Mama de Owarenai Itsumo Yume no Mama ja Irarenai",
+        "artist": "Mai Kuraki"
+    },
     "1158717142": {
         "anime": "Code Geass: Lelouch of the Rebellion R2",
         "song": "Shiawase Neiro",
@@ -1393,6 +1683,11 @@
         "anime": "Attack on Titan Final Season",
         "song": "Boku no Sensou",
         "artist": "Shinsei Kamattechan"
+    },
+    "1166383371": {
+        "anime": "Detective Conan",
+        "song": "Kuufuku",
+        "artist": "Konya, anomachikara starring VALSHE"
     },
     "1167616537": {
         "anime": "Haganai",
@@ -1409,10 +1704,30 @@
         "song": "Catch the Moment",
         "artist": "LiSA"
     },
+    "1180910382": {
+        "anime": "Detective Conan",
+        "song": "Kamikaze Express",
+        "artist": "Takuto×Miyakawa-kun"
+    },
+    "1186072436": {
+        "anime": "Detective Conan",
+        "song": "Bloody Venus",
+        "artist": "Kiyoshi Hayami"
+    },
     "1190669791": {
         "anime": "Oreimo Season 2",
         "song": "Keep",
         "artist": "Ayana Taketatsu"
+    },
+    "1190971629": {
+        "anime": "Detective Conan",
+        "song": "Bokura no Yume sa Kamen Yaiba",
+        "artist": "Wataru Takagi"
+    },
+    "1195281057": {
+        "anime": "Detective Conan",
+        "song": "Mune ga Dokidoki",
+        "artist": "THE HIGH-LOWS"
     },
     "1204160134": {
         "anime": "Tsukiuta. The Animation 2",
@@ -1484,6 +1799,11 @@
         "song": "Guren no Yumiya",
         "artist": "Linked Horizon"
     },
+    "1242161341": {
+        "anime": "Detective Conan",
+        "song": "Sadame",
+        "artist": "First place"
+    },
     "1246244424": {
         "anime": "Attack on Titan: Lost Girls",
         "song": "Call your name <Gv>",
@@ -1514,6 +1834,11 @@
         "song": "Our Steady Boy",
         "artist": "YuiKaori"
     },
+    "1257371866": {
+        "anime": "Case Closed: The Last Magician of the Century",
+        "song": "I'll be there",
+        "artist": "Eri Sugai"
+    },
     "1260463244": {
         "anime": "Elfen Lied",
         "song": "LILIUM",
@@ -1533,6 +1858,11 @@
         "anime": "Kaguya-sama: Love Is War - The First Kiss That Never Ends",
         "song": "Love is Show",
         "artist": "Masayuki Suzuki feat. Reni Takagi"
+    },
+    "1277552667": {
+        "anime": "Detective Conan",
+        "song": "Koori no Ue ni Tatsu You ni",
+        "artist": "Miho Komatsu"
     },
     "1280910722": {
         "anime": "The Familiar of Zero",
@@ -1619,15 +1949,30 @@
         "song": "Mirror",
         "artist": "Rei Yasuda"
     },
+    "1354465161": {
+        "anime": "Detective Conan: Dimensional Sniper",
+        "song": "Love Searchlight",
+        "artist": "Kou Shibasaki"
+    },
     "1357433217": {
         "anime": "The Irregular at Magic High School",
         "song": "Fraud",
         "artist": "IGOR"
     },
+    "1367152419": {
+        "anime": "Detective Conan",
+        "song": "Start In My Life",
+        "artist": "Mai Kuraki"
+    },
     "1371830019": {
         "anime": "One Piece: Heart of Gold",
         "song": "Destiny",
         "artist": "Maki Otsuki"
+    },
+    "1379453060": {
+        "anime": "Detective Conan",
+        "song": "Sekai wa Anata no Iro ni Naru",
+        "artist": "B'z"
     },
     "1381474647": {
         "anime": "Nisekoi:",
@@ -1643,6 +1988,11 @@
         "anime": "Domestic Girlfriend",
         "song": "Hakanai Kiss de Owarasete",
         "artist": "Yoko Hikasa"
+    },
+    "1390541282": {
+        "anime": "Detective Conan",
+        "song": "YURA YURA",
+        "artist": "WANDS"
     },
     "1392372936": {
         "anime": "Chäos;Child Silent Sky",
@@ -1694,6 +2044,11 @@
         "song": "Blue Days",
         "artist": "TRUE"
     },
+    "1417053677": {
+        "anime": "Detective Conan",
+        "song": "Ikusen no Meikyuu de Ikusen no Nazo o Toite",
+        "artist": "BREAKERZ"
+    },
     "1418638205": {
         "anime": "Code Geass: Lelouch of the Rebellion",
         "song": "Strange Girl",
@@ -1719,6 +2074,11 @@
         "song": "Unbreakable",
         "artist": "Aoi Yuuki"
     },
+    "1432178466": {
+        "anime": "Detective Conan: Conan Edogawa & Heiji Hattori versus Kid the Phantom Thief",
+        "song": "Kanashii Hodo Anata ga Suki",
+        "artist": "ZARD"
+    },
     "1434252570": {
         "anime": "My Hero Academia",
         "song": "Hero too",
@@ -1728,6 +2088,16 @@
         "anime": "One Piece",
         "song": "Kaze no Yukue (Child Ver.)",
         "artist": "Ado"
+    },
+    "1447710998": {
+        "anime": "Detective Conan",
+        "song": "Nemuru Kimi no Yokogao ni Hohoemi o",
+        "artist": "U-ka saegusa IN db"
+    },
+    "1449521327": {
+        "anime": "Detective Conan",
+        "song": "Summer Memories",
+        "artist": "Aya Kamiki"
     },
     "1456149637": {
         "anime": "The Devil is a Part-Timer! Season 2",
@@ -1764,6 +2134,11 @@
         "song": "Shinzou o Sasageyo!",
         "artist": "Linked Horizon"
     },
+    "1473998988": {
+        "anime": "Detective Conan",
+        "song": "Kimi to Yakusoku Shita Yasashii Ano Basho made",
+        "artist": "U-ka saegusa IN db"
+    },
     "1476106239": {
         "anime": "One Piece",
         "song": "NON SUGAR LIFE",
@@ -1784,6 +2159,11 @@
         "song": "Rouge no Dengon",
         "artist": "Yumi Arai"
     },
+    "1489603420": {
+        "anime": "Detective Conan",
+        "song": "Lie, Lie, Lie,",
+        "artist": "Maki Ohguro"
+    },
     "1492457400": {
         "anime": "Outbreak Company",
         "song": "Watashi no Housekibako",
@@ -1798,6 +2178,11 @@
         "anime": "Daphne in the Brilliant Blue",
         "song": "Nana-iro no Kotoba",
         "artist": "Mai Nakahara"
+    },
+    "1505799413": {
+        "anime": "Detective Conan",
+        "song": "TRY AGAIN",
+        "artist": "Mai Kuraki"
     },
     "1509117425": {
         "anime": "One Piece Special: Open Upon the Great Sea! A Father's Huge, HUGE Dream!",
@@ -1899,6 +2284,11 @@
         "song": "Bokura no",
         "artist": "Eve"
     },
+    "1595265100": {
+        "anime": "Detective Conan",
+        "song": "LIVING DAYLIGHTS",
+        "artist": "TWO-MIX"
+    },
     "1597414166": {
         "anime": "Code Geass: Lelouch of the Re;surrection",
         "song": "Revive",
@@ -1999,6 +2389,11 @@
         "song": "Sora ni Utaeba",
         "artist": "amazarashi"
     },
+    "1683046832": {
+        "anime": "Detective Conan",
+        "song": "You & I",
+        "artist": "Mai Kuraki"
+    },
     "1687509943": {
         "anime": "Classroom of the Elite Season 2",
         "song": "Dance In The Game",
@@ -2013,6 +2408,11 @@
         "anime": "Love Live! School Idol Project",
         "song": "Aishiteru Banzai! (Piano Mix)",
         "artist": "μ's"
+    },
+    "1689312599": {
+        "anime": "Detective Conan: The Raven Chaser",
+        "song": "PUZZLE",
+        "artist": "Mai Kuraki feat. Young Life"
     },
     "1690910550": {
         "anime": "The World God Only Knows Season Two",
@@ -2099,6 +2499,11 @@
         "song": "Tenshi no Manazashi Prologue",
         "artist": "Rika Nagae, Akari Kitou, Hitomi Owada, Naomi Oozora"
     },
+    "1784965350": {
+        "anime": "Detective Conan",
+        "song": "Wasurezaki",
+        "artist": "GARNET CROW"
+    },
     "1790440144": {
         "anime": "Attack on Titan: Crimson Arrows",
         "song": "Vogel im Käfig",
@@ -2109,10 +2514,35 @@
         "song": "FLARE",
         "artist": "Void_Chords feat. LIO"
     },
+    "1804962126": {
+        "anime": "Detective Conan",
+        "song": "Your Best Friend",
+        "artist": "Mai Kuraki"
+    },
+    "1810235918": {
+        "anime": "Detective Conan",
+        "song": "Yume Mita Ato de",
+        "artist": "GARNET CROW"
+    },
     "1812623429": {
         "anime": "To LOVE-Ru",
         "song": "Skirt no Hajikko",
         "artist": "Sayuri Yahagi"
+    },
+    "1816376498": {
+        "anime": "Detective Conan",
+        "song": "I'll be there",
+        "artist": "Eri Sugai"
+    },
+    "1823176971": {
+        "anime": "Detective Conan: The Private Eyes' Requiem",
+        "song": "Omoide-tachi ~Omoide~ (Suihei Senjou Version)",
+        "artist": "Minami Takayama"
+    },
+    "1830148651": {
+        "anime": "Detective Conan: The Eleventh Striker",
+        "song": "Hikari o Tsukamou",
+        "artist": "Rayli"
     },
     "1831640353": {
         "anime": "My Hero Academia The Movie: Two Heroes",
@@ -2139,6 +2569,11 @@
         "song": "100 Mono Tobira",
         "artist": "Rina Aiuchi & U-ka saegusa feat. Sparkling☆Point"
     },
+    "1844478738": {
+        "anime": "Detective Conan",
+        "song": "Negaigoto Hitotsu dake",
+        "artist": "Miho Komatsu"
+    },
     "1848217741": {
         "anime": "Sword Art Online: Alicization",
         "song": "Niji no Kanata ni",
@@ -2153,6 +2588,11 @@
         "anime": "Toradora!",
         "song": "Holy Night",
         "artist": "Rie Kugimiya & Eri Kitamura"
+    },
+    "1858883702": {
+        "anime": "Detective Conan",
+        "song": "Hane",
+        "artist": "Koshi Inaba"
     },
     "1860238435": {
         "anime": "The Pet Girl of Sakurasou",
@@ -2178,6 +2618,11 @@
         "anime": "Attack on Titan Final Season",
         "song": "K21",
         "artist": "David Whitaker"
+    },
+    "1867435439": {
+        "anime": "Detective Conan",
+        "song": "...and Rescue Me",
+        "artist": "Rainy."
     },
     "1870357951": {
         "anime": "The Fruit of Evolution: Before I Knew It, My Life Had It Made",
@@ -2238,6 +2683,16 @@
         "anime": "Code Geass: Lelouch of the Rebellion Remake Movies",
         "song": "Lullaby of M",
         "artist": "Hitomi"
+    },
+    "1921122141": {
+        "anime": "Case Closed: The Last Magician of the Century",
+        "song": "Kimi ga Ireba",
+        "artist": "Iori"
+    },
+    "1925707722": {
+        "anime": "Detective Conan",
+        "song": "Boku ga Iru (Conan Version)~Conan no Theme",
+        "artist": "Minami Takayama"
     },
     "1930210106": {
         "anime": "My Hero Academia: Heroes: Rising",
@@ -2304,6 +2759,11 @@
         "song": "BLOODY HOLIC",
         "artist": "Yuuka Nanri"
     },
+    "1968667171": {
+        "anime": "Detective Conan: The Fist of Blue Sapphire",
+        "song": "BLUE SAPPHIRE",
+        "artist": "HIROOMI TOSAKA"
+    },
     "1969682208": {
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON <Rei (#6) Remix Version>",
@@ -2354,6 +2814,11 @@
         "song": "Family",
         "artist": "Mugiwara Kaizoku-dan"
     },
+    "2015549949": {
+        "anime": "Detective Conan Episode One: The Great Detective Turned Small",
+        "song": "Mune ga Dokidoki",
+        "artist": "THE HIGH-LOWS"
+    },
     "2016171703": {
         "anime": "Odd Taxi",
         "song": "Namima ni KISS",
@@ -2389,6 +2854,11 @@
         "song": "I'm still alive today acoustic ver.",
         "artist": "96neko"
     },
+    "2027936974": {
+        "anime": "Detective Conan: Black Iron Submarine",
+        "song": "Kimi ga Ireba",
+        "artist": "Karen Aoki"
+    },
     "2028572928": {
         "anime": "Tokyo Ghoul: Root A",
         "song": "Munou",
@@ -2418,6 +2888,11 @@
         "anime": "Koyomimonogatari",
         "song": "marshmallow justice",
         "artist": "Eri Kitamura"
+    },
+    "2058863962": {
+        "anime": "Detective Conan",
+        "song": "Revive",
+        "artist": "Mai Kuraki"
     },
     "2061836192": {
         "anime": "Code Geass: Lelouch of the Rebellion R2",
@@ -2469,6 +2944,11 @@
         "song": "Hajimete no SEASON",
         "artist": "Junjou no Afilia"
     },
+    "2116974531": {
+        "anime": "Detective Conan",
+        "song": "Secret of my heart",
+        "artist": "Mai Kuraki"
+    },
     "2122238287": {
         "anime": "Gurren Lagann",
         "song": "Rap wa Otoko no Tamashii da! Muri o Tooshite Douri o Kettobasu! Ore-tachi Dai Gurren Dan no Theme o Mimi no Ana Kappojitte Yooku Kikiyagare!! (Short Start Edit)",
@@ -2493,6 +2973,11 @@
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON",
         "artist": "CLAIRE"
+    },
+    "2137124984": {
+        "anime": "Detective Conan",
+        "song": "Hitomi no Melody",
+        "artist": "BOYFRIEND"
     },
     "2145205533": {
         "anime": "One Piece",
@@ -4051,7 +4536,7 @@
     },
     "-379862181": {
         "anime": "Detective Conan: Full Score of Fear",
-        "song": "Shu yo, Hito no Nozomi no Yorokobi yo",
+        "song": "\"Shu yo, Hito no Nozomi no Yorokobi yo\" (Bach)",
         "artist": "Satoko Kimura"
     },
     "-2142175999": {
@@ -5038,5 +5523,415 @@
         "anime": "Attack on Titan: The Wings of Freedom",
         "song": "Jiyuu no Daishou",
         "artist": "Linked Horizon"
+    },
+    "-1232595582": {
+        "anime": "Detective Conan",
+        "song": "Namida no Yesterday",
+        "artist": "GARNET CROW"
+    },
+    "-865007049": {
+        "anime": "Detective Conan",
+        "song": "Ashita o Yumemite",
+        "artist": "ZARD"
+    },
+    "-1628551509": {
+        "anime": "Detective Conan",
+        "song": "Hoshi no Kagayaki yo",
+        "artist": "ZARD"
+    },
+    "-647047430": {
+        "anime": "Detective Conan",
+        "song": "Overture",
+        "artist": "Koshi Inaba"
+    },
+    "-1516780662": {
+        "anime": "Detective Conan",
+        "song": "Koi wa Thrill, Shock, Suspense",
+        "artist": "Rina Aiuchi"
+    },
+    "-660891847": {
+        "anime": "Detective Conan",
+        "song": "Mushoku",
+        "artist": "Azumi Uehara"
+    },
+    "-146124428": {
+        "anime": "Detective Conan",
+        "song": "Hikari to Kage no Roman",
+        "artist": "Keiko Utoku"
+    },
+    "-881644110": {
+        "anime": "Detective Conan",
+        "song": "Ichibyou Goto ni Love for you",
+        "artist": "Mai Kuraki"
+    },
+    "-1738318182": {
+        "anime": "Detective Conan",
+        "song": "MAGIC",
+        "artist": "Rina Aiuchi"
+    },
+    "-1786047608": {
+        "anime": "Detective Conan",
+        "song": "Miss Mystery",
+        "artist": "BREAKERZ"
+    },
+    "-1382406363": {
+        "anime": "Detective Conan",
+        "song": "destiny",
+        "artist": "Miki Matsuhashi"
+    },
+    "-458333299": {
+        "anime": "Detective Conan",
+        "song": "Nazo",
+        "artist": "Miho Komatsu"
+    },
+    "-1448871637": {
+        "anime": "Detective Conan",
+        "song": "Winter Bells",
+        "artist": "Mai Kuraki"
+    },
+    "-1861254146": {
+        "anime": "Detective Conan",
+        "song": "DYNAMITE",
+        "artist": "Mai Kuraki"
+    },
+    "-2005211501": {
+        "anime": "Detective Conan",
+        "song": "Mysterious",
+        "artist": "Naifu"
+    },
+    "-372895437": {
+        "anime": "Detective Conan",
+        "song": "As the Dew",
+        "artist": "GARNET CROW"
+    },
+    "-2020477265": {
+        "anime": "Detective Conan",
+        "song": "Mysterious Eyes",
+        "artist": "GARNET CROW"
+    },
+    "-1214693530": {
+        "anime": "Detective Conan",
+        "song": "Free Magic",
+        "artist": "WAG"
+    },
+    "-244905462": {
+        "anime": "Detective Conan",
+        "song": "SUMMER TIME GONE",
+        "artist": "Mai Kuraki"
+    },
+    "-1396614645": {
+        "anime": "Detective Conan",
+        "song": "tear drops",
+        "artist": "Caos Caos Caos"
+    },
+    "-199486840": {
+        "anime": "Detective Conan",
+        "song": "Girigiri chop",
+        "artist": "B'z"
+    },
+    "-494071922": {
+        "anime": "Detective Conan",
+        "song": "TRUTH",
+        "artist": "TWO-MIX"
+    },
+    "-1939298184": {
+        "anime": "Detective Conan",
+        "song": "START",
+        "artist": "Rina Aiuchi"
+    },
+    "-808930135": {
+        "anime": "Detective Conan",
+        "song": "Everlasting Luv",
+        "artist": "BREAKERZ"
+    },
+    "-1565626607": {
+        "anime": "Detective Conan",
+        "song": "SPARKLE",
+        "artist": "Maki Ohguro"
+    },
+    "-330324008": {
+        "anime": "Detective Conan",
+        "song": "I can't stop my love for you♥",
+        "artist": "Rina Aiuchi"
+    },
+    "-1968312456": {
+        "anime": "Detective Conan",
+        "song": "Kimi no Namida ni Konna ni Koishiteru",
+        "artist": "Natsuiro"
+    },
+    "-1635877556": {
+        "anime": "Detective Conan",
+        "song": "ZERO kara Hajimete",
+        "artist": "Mai Kuraki"
+    },
+    "-339477846": {
+        "anime": "Detective Conan",
+        "song": "Bara-iro no Jinsei",
+        "artist": "Mai Kuraki"
+    },
+    "-1464691712": {
+        "anime": "Detective Conan",
+        "song": "I still believe~Tameiki~",
+        "artist": "Yumi Shizukusa"
+    },
+    "-1110627499": {
+        "anime": "Detective Conan",
+        "song": "Tomorrow is the last Time",
+        "artist": "Mai Kuraki"
+    },
+    "-14569592": {
+        "anime": "Detective Conan",
+        "song": "Pilgrim",
+        "artist": "B'z"
+    },
+    "-1441804158": {
+        "anime": "Detective Conan: Full Score of Fear",
+        "song": "Teitan Shougakkou Kouka",
+        "artist": "Shounen Tanteidan"
+    },
+    "-1407528865": {
+        "anime": "Detective Conan",
+        "song": "Hello Mr.my yesterday",
+        "artist": "Hundred Percent Free"
+    },
+    "-1039737324": {
+        "anime": "Case Closed The Movie: The Time Bombed Skyscraper",
+        "song": "Happy Birthday",
+        "artist": "Kyouko"
+    },
+    "-1622904921": {
+        "anime": "Detective Conan",
+        "song": "Soba ni Iru kara",
+        "artist": "THE HIGH-LOWS"
+    },
+    "-615767673": {
+        "anime": "Detective Conan: The Private Eyes' Requiem",
+        "song": "Yuruginai Mono Hitotsu",
+        "artist": "B'z"
+    },
+    "-1570202286": {
+        "anime": "Detective Conan",
+        "song": "Karappo no Kokoro",
+        "artist": "SARD UNDERGROUND"
+    },
+    "-792679213": {
+        "anime": "Case Closed: Captured in Her Eyes",
+        "song": "Bloody Venus",
+        "artist": "Kiyoshi Hayami"
+    },
+    "-364632011": {
+        "anime": "Detective Conan",
+        "song": "Juugoya Crisis ~Kimi ni Aitai~",
+        "artist": "Hundred Percent Free"
+    },
+    "-1040991835": {
+        "anime": "Detective Conan",
+        "song": "Shiroi Yuki",
+        "artist": "Mai Kuraki"
+    },
+    "-380175890": {
+        "anime": "Detective Conan",
+        "song": "Bloody Venus",
+        "artist": "Misumi Kosaka"
+    },
+    "-1310945437": {
+        "anime": "Detective Conan",
+        "song": "Sekai Tomete",
+        "artist": "Shiori Takei"
+    },
+    "-1278354486": {
+        "anime": "Detective Conan",
+        "song": "Ima Aitakute...",
+        "artist": "DAIGO"
+    },
+    "-1174545194": {
+        "anime": "Detective Conan",
+        "song": "Kanashii Hodo Anata ga Suki",
+        "artist": "ZARD"
+    },
+    "-1137393536": {
+        "anime": "Detective Conan: The Target is Kogoro! The Detective Boys' Secret Investigation",
+        "song": "Wasurezaki",
+        "artist": "GARNET CROW"
+    },
+    "-985939404": {
+        "anime": "Detective Conan: Full Score of Fear",
+        "song": "Kokoro wa Anata to Tomo ni (Mein Herz ist noch bei Dir)",
+        "artist": "Satoko Kimura"
+    },
+    "-448698415": {
+        "anime": "Detective Conan",
+        "song": "Sissy Sky",
+        "artist": "Airi Miyakawa"
+    },
+    "-1877543203": {
+        "anime": "Case Closed: Captured in Her Eyes",
+        "song": "Kimi ga Ireba",
+        "artist": "Iori"
+    },
+    "-95410849": {
+        "anime": "Detective Conan",
+        "song": "Kimi e no Uso",
+        "artist": "VALSHE"
+    },
+    "-398705883": {
+        "anime": "Detective Conan",
+        "song": "June Bride ~Anata Shika Mienai~",
+        "artist": "U-ka saegusa IN db"
+    },
+    "-382141191": {
+        "anime": "Detective Conan",
+        "song": "Kanashii Hodo Kyou no Yuuhi Kirei da ne",
+        "artist": "grram"
+    },
+    "-1370440650": {
+        "anime": "Detective Conan: High School Girl Detective Sonoko Suzuki's Case Files",
+        "song": "Yukidoke no Ano Kawa no Nagare no You ni",
+        "artist": "U-ka saegusa IN db"
+    },
+    "-1250704484": {
+        "anime": "Detective Conan",
+        "song": "Ai wa Itsumo",
+        "artist": "Iori"
+    },
+    "-1277733746": {
+        "anime": "Detective Conan: Full Score of Fear",
+        "song": "Messiah yori \"Shu wa Hitsujikai no Gotoku Sono Mure o Yashinai\" (Handel)",
+        "artist": "Satoko Kimura"
+    },
+    "-1327392652": {
+        "anime": "Detective Conan",
+        "song": "Massugu Iku",
+        "artist": "Minami Takayama"
+    },
+    "-189660330": {
+        "anime": "Detective Conan",
+        "song": "HAPPY END",
+        "artist": "ZIGGY"
+    },
+    "-277916922": {
+        "anime": "Detective Conan",
+        "song": "GO YOUR OWN WAY",
+        "artist": "Yumi Shizukusa"
+    },
+    "-1676841684": {
+        "anime": "Detective Conan",
+        "song": "Koigokoro Kagayakinagara",
+        "artist": "Naifu"
+    },
+    "-1323701144": {
+        "anime": "Detective Conan: Conan and Heiji and the Vanished Boy",
+        "song": "Ashita o Yumemite",
+        "artist": "ZARD"
+    },
+    "-2057336607": {
+        "anime": "Detective Conan: 16 Suspects",
+        "song": "Winter Bells",
+        "artist": "Mai Kuraki"
+    },
+    "-1923551799": {
+        "anime": "Detective Conan",
+        "song": "BREAK",
+        "artist": "TWO-MIX"
+    },
+    "-1741857842": {
+        "anime": "Detective Conan: Full Score of Fear",
+        "song": "Reiko no Amazing Grace",
+        "artist": "Yuu Akaike"
+    },
+    "-1227670411": {
+        "anime": "Case Closed: The Fourteenth Target",
+        "song": "Shoujo no Koro ni Modotta Mitai ni",
+        "artist": "ZARD"
+    },
+    "-691900369": {
+        "anime": "Case Closed: The Last Magician of the Century",
+        "song": "ONE",
+        "artist": "B'z"
+    },
+    "-139078891": {
+        "anime": "Detective Conan: The Private Eyes' Requiem",
+        "song": "Kimi ga Ireba",
+        "artist": "Iori"
+    },
+    "-1248711011": {
+        "anime": "Detective Conan: London kara no Maru Hi Shirei",
+        "song": "Tsukiyo no Itazura no Mahou",
+        "artist": "BREAKERZ"
+    },
+    "-1640204757": {
+        "anime": "Detective Conan: Zero's Tea Time",
+        "song": "Shooting Star",
+        "artist": "RAKURA"
+    },
+    "-249141965": {
+        "anime": "Lupin III vs. Detective Conan: The Movie",
+        "song": "wonderland",
+        "artist": "99RadioService"
+    },
+    "-1196654622": {
+        "anime": "Detective Conan: The Bride of Halloween",
+        "song": "Kimi ga Ireba",
+        "artist": "Karen Aoki"
+    },
+    "-1331208828": {
+        "anime": "Detective Conan: Black Iron Submarine",
+        "song": "Utsukushii Hire",
+        "artist": "Spitz"
+    },
+    "-1083504299": {
+        "anime": "Detective Conan vs. Kaito Kid",
+        "song": "Daitan",
+        "artist": "WANDS"
+    },
+    "-1631350624": {
+        "anime": "Detective Conan: The Miracle of Excalibur",
+        "song": "Overwrite",
+        "artist": "BREAKERZ"
+    },
+    "-2010359389": {
+        "anime": "Detective Conan Episode One: The Great Detective Turned Small",
+        "song": "Mune ga Dokidoki",
+        "artist": "THE HIGH-LOWS"
+    },
+    "-1764577164": {
+        "anime": "Detective Conan: Zero's Tea Time",
+        "song": "Find the truth",
+        "artist": "Rainy."
+    },
+    "-1973459675": {
+        "anime": "Detective Conan: The Culprit Hanzawa",
+        "song": "Secret, voice of my heart",
+        "artist": "Mai Kuraki"
+    },
+    "-989002657": {
+        "anime": "Detective Conan Episode One: The Great Detective Turned Small",
+        "song": "Unmei no Roulette Mawashite",
+        "artist": "ZARD"
+    },
+    "-828456476": {
+        "anime": "Detective Conan: Zero the Enforcer",
+        "song": "ZERO",
+        "artist": "Masaharu Fukuyama"
+    },
+    "-1699456183": {
+        "anime": "Detective Conan: The Culprit Hanzawa",
+        "song": "Tsukamaete, Konya.",
+        "artist": "Leon Niihama"
+    },
+    "-845867449": {
+        "anime": "Detective Conan: Sunflowers of Inferno",
+        "song": "Oh! Rival",
+        "artist": "Porno Graffitti"
+    },
+    "-111868712": {
+        "anime": "Detective Conan: The Bride of Halloween",
+        "song": "Chronostasis",
+        "artist": "BUMP OF CHICKEN"
+    },
+    "-1176789235": {
+        "anime": "Detective Conan: Private Eye in the Distant Sea",
+        "song": "One More Time",
+        "artist": "Kazuyoshi Saito"
     }
 }
