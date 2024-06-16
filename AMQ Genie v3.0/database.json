@@ -1424,6 +1424,11 @@
         "song": "Overwrite",
         "artist": "BREAKERZ"
     },
+    "740479453": {
+        "anime": "Actually, I Am...",
+        "song": "Satanic Surfer",
+        "artist": "M・A・O & Emi Nitta"
+    },
     "745765561": {
         "anime": "Attack on Titan Final Season",
         "song": "Akuma no Ko",
@@ -1838,6 +1843,11 @@
         "anime": "Detective Conan",
         "song": "Kimi to Iu Hikari",
         "artist": "GARNET CROW"
+    },
+    "962808637": {
+        "anime": "Actually, I Am...",
+        "song": "Hologram",
+        "artist": "MINMI"
     },
     "963517931": {
         "anime": "Bocchi the Rock!",
@@ -3768,6 +3778,11 @@
         "anime": "Naruto Shippuuden",
         "song": "Bijuu Kazoe Uta",
         "artist": "Junko Takeuchi"
+    },
+    "1972777149": {
+        "anime": "Actually, I Am...",
+        "song": "Zettai Himitsu Shugi!",
+        "artist": "Yuu Serizawa"
     },
     "1973942958": {
         "anime": "Code Geass: Lelouch of the Rebellion R2",
@@ -7978,5 +7993,20 @@
         "anime": "Absolute Duo",
         "song": "2/2",
         "artist": "Ayaka Imamura×Ayaka Suwa"
+    },
+    "-1066406987": {
+        "anime": "Actually, I Am...",
+        "song": "Ienai Ienai",
+        "artist": "Hilcrhyme"
+    },
+    "-1208886789": {
+        "anime": "Am I Actually the Strongest?",
+        "song": "Reset Life?",
+        "artist": "Lezel"
+    },
+    "-1455518791": {
+        "anime": "Am I Actually the Strongest?",
+        "song": "HimiCHU★Puri Love Magic",
+        "artist": "Star★Shiμ'ne!!!"
     }
 }
