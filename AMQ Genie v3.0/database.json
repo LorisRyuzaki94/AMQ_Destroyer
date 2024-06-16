@@ -144,6 +144,11 @@
         "song": "Overfly",
         "artist": "Luna Haruna"
     },
+    "71008286": {
+        "anime": "Girls Band Cry",
+        "song": "Sora no Hako",
+        "artist": "Rina, Yuuri"
+    },
     "72096198": {
         "anime": "Bocchi the Rock!",
         "song": "Watashi dake Yuurei",
@@ -8018,5 +8023,30 @@
         "anime": "After the Rain",
         "song": "Ref:rain",
         "artist": "Aimer"
+    },
+    "-2026108295": {
+        "anime": "Girls Band Cry",
+        "song": "Dare ni mo Narenai Watashi Dakara",
+        "artist": "TOGENASHI TOGEARI"
+    },
+    "-1879031762": {
+        "anime": "Girls Band Cry",
+        "song": "Koe Naki Sakana",
+        "artist": "Shin Kawasaki (Kari)"
+    },
+    "-747537786": {
+        "anime": "Girls Band Cry",
+        "song": "Shikai no Sumi Kuchiru Oto",
+        "artist": "Shin Kawasaki (Kari)"
+    },
+    "-1704197003": {
+        "anime": "Girls Band Cry",
+        "song": "Shikai no Sumi Kuchiru Oto",
+        "artist": "Shin Kawasaki (Kari)×beni-shouga"
+    },
+    "-856099005": {
+        "anime": "Girls Band Cry",
+        "song": "Na mo Naki Nani mo Kamo",
+        "artist": "TOGENASHI TOGEARI"
     }
 }
