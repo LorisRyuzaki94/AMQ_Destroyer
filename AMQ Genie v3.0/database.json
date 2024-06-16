@@ -3904,6 +3904,11 @@
         "song": "liquescimus",
         "artist": "Tomoyo Kurosawa"
     },
+    "2044650882": {
+        "anime": "A Silent Voice",
+        "song": "Koi o Shita no wa",
+        "artist": "aiko"
+    },
     "2045242283": {
         "anime": "My Hero Academia",
         "song": "Each Goal",
@@ -7943,5 +7948,10 @@
         "anime": "A Playthrough of a Certain Dude's VRMMO Life",
         "song": "Kibou no Recipe",
         "artist": "Miho Okasaki"
+    },
+    "-5501086": {
+        "anime": "A Silent Voice",
+        "song": "MY GENERATION",
+        "artist": "THE WHO"
     }
 }
