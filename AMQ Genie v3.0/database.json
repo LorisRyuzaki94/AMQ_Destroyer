@@ -129,6 +129,11 @@
         "song": "Ano Band",
         "artist": "Kessoku Band"
     },
+    "84358714": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "Falling Down",
+        "artist": "Breaking Point"
+    },
     "85593381": {
         "anime": "Outbreak Company",
         "song": "Univer Page",
@@ -209,6 +214,11 @@
         "song": "Vogel im Käfig",
         "artist": "Cyua"
     },
+    "132287707": {
+        "anime": "Dragon Ball Z: The History Of Trunks",
+        "song": "Havoc",
+        "artist": "Recoolie"
+    },
     "138895052": {
         "anime": "Sword Art Online the Movie: Progressive - Aria of a Starless Night",
         "song": "driven to the wall",
@@ -274,6 +284,16 @@
         "song": "Los! Los! Los!",
         "artist": "Aoi Yuuki"
     },
+    "169537332": {
+        "anime": "Dragon Ball Super",
+        "song": "Aku no Tenshi to Seigi no Akuma",
+        "artist": "THE COLLECTORS"
+    },
+    "171012956": {
+        "anime": "Dragon Ball GT",
+        "song": "Don't you see!",
+        "artist": "ZARD"
+    },
     "172959620": {
         "anime": "Attack on Titan: Lost Girls",
         "song": "Utsukushiki Zankoku na Sekai",
@@ -319,6 +339,11 @@
         "song": "compass (Gekijou Version)",
         "artist": "Ai Kawashima"
     },
+    "186419030": {
+        "anime": "Dragon Ball Super",
+        "song": "Yoka Yoka Dance",
+        "artist": "Batten Shoujo-tai"
+    },
     "187637593": {
         "anime": "Attack on Titan: Junior High",
         "song": "Hizamazuke Butadomo ga",
@@ -343,6 +368,11 @@
         "anime": "Detective Conan",
         "song": "Yarukkyanai no sa ~Conan no Shouri~",
         "artist": "Iori & Minami Takayama"
+    },
+    "218327590": {
+        "anime": "Dragon Ball Z",
+        "song": "Unmei no Hi ~Tamashii vs Tamashii~",
+        "artist": "Hironobu Kageyama feat. Chiho Kiyooka"
     },
     "222279895": {
         "anime": "Detective Conan: Kid in Trap Island",
@@ -418,6 +448,11 @@
         "anime": "Detective Conan",
         "song": "Yume o Tomenaide Ite",
         "artist": "VELVET GARDEN"
+    },
+    "285364378": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "Tobikkiri no Saikyou tai Saikyou",
+        "artist": "Hironobu Kageyama & Ammy"
     },
     "285974213": {
         "anime": "Haikyu!!",
@@ -504,6 +539,11 @@
         "song": "sailing day",
         "artist": "BUMP OF CHICKEN"
     },
+    "341605742": {
+        "anime": "Dragon Ball Z: Resurrection 'F'",
+        "song": "F",
+        "artist": "Maximum the Hormone"
+    },
     "347856379": {
         "anime": "The Rising of the Shield Hero",
         "song": "Falling Through Starlight",
@@ -524,6 +564,11 @@
         "song": "Kimi ga Ireba",
         "artist": "Iori"
     },
+    "349322850": {
+        "anime": "Dragon Ball Z: Bardock - The Father of Goku",
+        "song": "Makes No Difference",
+        "artist": "Sum 41"
+    },
     "349825945": {
         "anime": "In Another World With My Smartphone",
         "song": "Junjou Emotional",
@@ -538,6 +583,11 @@
         "anime": "My Hero Academia",
         "song": "Long Hope Philia (TV Limited)",
         "artist": "Masaki Suda"
+    },
+    "360264121": {
+        "anime": "Super Dragon Ball Heroes",
+        "song": "Universe Mission Series Theme Song",
+        "artist": "Dragon Soul"
     },
     "363764957": {
         "anime": "One Piece Film: Red",
@@ -629,10 +679,25 @@
         "song": "WORLD END",
         "artist": "FLOW"
     },
+    "418099251": {
+        "anime": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+        "song": "Burning Fight -Nessen Ressen Chougekisen-",
+        "artist": "Hironobu Kageyama & YUKA"
+    },
+    "419917016": {
+        "anime": "Dragon Ball Z: Super Android 13!",
+        "song": "GIRIGIRI -Sekai Kyokugen-",
+        "artist": "Hironobu Kageyama & YUKA"
+    },
     "422072927": {
         "anime": "Hundred",
         "song": "Hold me Bite me",
         "artist": "Mayu Yoshioka"
+    },
+    "422911518": {
+        "anime": "Super Dragon Ball Heroes",
+        "song": "Ultra God Mission Series Theme Song",
+        "artist": "Dragon Soul"
     },
     "425518065": {
         "anime": "Space☆Dandy",
@@ -658,6 +723,11 @@
         "anime": "Noragami",
         "song": "Noratan",
         "artist": "Yutaka Fukuoka & Lotus Juice"
+    },
+    "438966429": {
+        "anime": "Dragon Ball Z: The World's Strongest",
+        "song": "I・KU・SA",
+        "artist": "Hironobu Kageyama"
     },
     "442569845": {
         "anime": "Detective Conan: Strategy Above the Depths",
@@ -769,6 +839,11 @@
         "song": "Kao",
         "artist": "can/goo"
     },
+    "529044837": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "CHA-LA HEAD-CHA-LA (English Version)",
+        "artist": "FLOW"
+    },
     "529685926": {
         "anime": "16bit Sensation: Another Layer",
         "song": "Connect",
@@ -833,6 +908,11 @@
         "anime": "Black Bullet",
         "song": "Wasurenai Tame ni",
         "artist": "Nagi Yanagi"
+    },
+    "557541283": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "'Ya' na Koto ni wa Genkidama!!",
+        "artist": "Hironobu Kageyama & SHINES"
     },
     "563314547": {
         "anime": "Re:Zero: Starting Life in Another World",
@@ -1019,6 +1099,11 @@
         "song": "GIFT",
         "artist": "You & Explosion Band feat. Lyn Inaizumi"
     },
+    "668018533": {
+        "anime": "Dragon Ball Z: Bio-Broly",
+        "song": "Dragon Power ∞",
+        "artist": "Hironobu Kageyama"
+    },
     "668840909": {
         "anime": "Senki Zesshou Symphogear XV",
         "song": "Sforzando no Zankyou",
@@ -1064,6 +1149,11 @@
         "song": "Hikari",
         "artist": "BREAKERZ"
     },
+    "702549460": {
+        "anime": "Dragon Ball GT",
+        "song": "DAN DAN Kokoro Hikareteku",
+        "artist": "FIELD OF VIEW"
+    },
     "710132269": {
         "anime": "Attack on Titan: No Regrets",
         "song": "So ist es immer",
@@ -1098,6 +1188,11 @@
         "anime": "Detective Conan",
         "song": "Playmaker",
         "artist": "all at once feat. Yudai Ohno (from Da-iCE)"
+    },
+    "738815778": {
+        "anime": "Dragon Ball: Sleeping Princess in Devil's Castle",
+        "song": "Makafushigi Adventure!",
+        "artist": "Hiroki Takahashi"
     },
     "740063498": {
         "anime": "Detective Conan",
@@ -1234,6 +1329,11 @@
         "song": "Over The Testament Ver.3",
         "artist": "Metamorphose featuring Aki Misato"
     },
+    "821591622": {
+        "anime": "Dragon Ball Z: The History Of Trunks",
+        "song": "Ascension",
+        "artist": "Mr. C-E-No-G"
+    },
     "828025647": {
         "anime": "Code Geass: Nunnally in Wonderland",
         "song": "All Hail Britannia!!!",
@@ -1308,6 +1408,11 @@
         "anime": "Detective Conan",
         "song": "Mou Kimi dake o Hanashitari wa Shinai",
         "artist": "Aya Kamiki"
+    },
+    "891638169": {
+        "anime": "Dragon Ball",
+        "song": "Moeru Heart de Red Ribbon Gun o Yattsukero",
+        "artist": "Wonderland Gang"
     },
     "905845041": {
         "anime": "Code Geass: Lelouch of the Rebellion",
@@ -1474,6 +1579,11 @@
         "song": "distance",
         "artist": "LONG SHOT PARTY"
     },
+    "1014351448": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Never Give Up!!",
+        "artist": "Junear"
+    },
     "1015827358": {
         "anime": "Basquash!",
         "song": "moon passport",
@@ -1514,6 +1624,11 @@
         "song": "filament",
         "artist": "Yousei Teikoku"
     },
+    "1043692237": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "Mute",
+        "artist": "Drowning Pool"
+    },
     "1053272047": {
         "anime": "Masamune-kun's Revenge",
         "song": "Wagamama MIRROR HEART",
@@ -1534,10 +1649,20 @@
         "song": "Lullaby of M",
         "artist": "Hitomi"
     },
+    "1060093594": {
+        "anime": "Dragon Ball GT",
+        "song": "Blue Velvet",
+        "artist": "Shizuka Kudo"
+    },
     "1064979569": {
         "anime": "Attack on Titan Final Season",
         "song": "Shougeki",
         "artist": "Yuko Ando"
+    },
+    "1066965813": {
+        "anime": "Dragon Ball Super",
+        "song": "70cm Shihou no Madobe",
+        "artist": "ROTTENGRAFFTY"
     },
     "1077748002": {
         "anime": "Death Note",
@@ -1704,6 +1829,11 @@
         "song": "Shiawase Neiro",
         "artist": "ORANGE RANGE"
     },
+    "1161088768": {
+        "anime": "Dragon Ball Z: Bardock - The Father of Goku",
+        "song": "A Bigger Mood",
+        "artist": "American Hi-Fi"
+    },
     "1161252847": {
         "anime": "Attack on Titan Final Season",
         "song": "Boku no Sensou",
@@ -1729,6 +1859,11 @@
         "song": "Catch the Moment",
         "artist": "LiSA"
     },
+    "1178404303": {
+        "anime": "Dragon Ball Z",
+        "song": "Shura-iro no Senshi",
+        "artist": "Kouji Kaya"
+    },
     "1180910382": {
         "anime": "Detective Conan",
         "song": "Kamikaze Express",
@@ -1753,6 +1888,11 @@
         "anime": "Detective Conan",
         "song": "Mune ga Dokidoki",
         "artist": "THE HIGH-LOWS"
+    },
+    "1200633365": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "First Time",
+        "artist": "Finger Eleven"
     },
     "1204160134": {
         "anime": "Tsukiuta. The Animation 2",
@@ -1829,6 +1969,11 @@
         "song": "Sadame",
         "artist": "First place"
     },
+    "1244298454": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "My 18th Magic",
+        "artist": "cAnON"
+    },
     "1246244424": {
         "anime": "Attack on Titan: Lost Girls",
         "song": "Call your name <Gv>",
@@ -1884,6 +2029,11 @@
         "song": "Love is Show",
         "artist": "Masayuki Suzuki feat. Reni Takagi"
     },
+    "1274800178": {
+        "anime": "Dragon Ball GT: A Hero's Legacy",
+        "song": "DAN DAN Kokoro Hikareteku",
+        "artist": "FIELD OF VIEW"
+    },
     "1277552667": {
         "anime": "Detective Conan",
         "song": "Koori no Ue ni Tatsu You ni",
@@ -1914,10 +2064,20 @@
         "song": "Guren no Zahyou",
         "artist": "Linked Horizon"
     },
+    "1285824851": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Dragon Soul",
+        "artist": "Takayoshi Tanimoto (Dragon Soul)"
+    },
     "1294182376": {
         "anime": "JoJo's Bizarre Adventure",
         "song": "Season",
         "artist": "Rie Yatsuka"
+    },
+    "1297870561": {
+        "anime": "Dragon Ball Super",
+        "song": "Haruka",
+        "artist": "LACCO TOWER"
     },
     "1299075553": {
         "anime": "Trigun",
@@ -1933,6 +2093,11 @@
         "anime": "Little Witch Academia: The Enchanted Parade",
         "song": "Magic Parade",
         "artist": "Yuiko Ohara"
+    },
+    "1318799811": {
+        "anime": "Dragon Ball",
+        "song": "Dragon Ball Densetsu",
+        "artist": "Hiroki Takahashi"
     },
     "1329431817": {
         "anime": "One Piece Film: Z",
@@ -1993,6 +2158,16 @@
         "anime": "One Piece: Heart of Gold",
         "song": "Destiny",
         "artist": "Maki Otsuki"
+    },
+    "1373105897": {
+        "anime": "Dragon Ball Z: Wrath of the Dragon",
+        "song": "Ore ga Yaranakya Dare ga Yaru",
+        "artist": "Hironobu Kageyama"
+    },
+    "1374146792": {
+        "anime": "Super Dragon Ball Heroes",
+        "song": "Big Bang Mission Series Theme Song",
+        "artist": "Dragon Soul"
     },
     "1379453060": {
         "anime": "Detective Conan",
@@ -2099,6 +2274,11 @@
         "song": "Unbreakable",
         "artist": "Aoi Yuuki"
     },
+    "1427174135": {
+        "anime": "Dragon Ball Super",
+        "song": "Chao-han MUSIC",
+        "artist": "Arukara"
+    },
     "1432178466": {
         "anime": "Detective Conan: Conan Edogawa & Heiji Hattori versus Kid the Phantom Thief",
         "song": "Kanashii Hodo Anata ga Suki",
@@ -2108,6 +2288,11 @@
         "anime": "My Hero Academia",
         "song": "Hero too",
         "artist": "Chrissy Costanza"
+    },
+    "1435935778": {
+        "anime": "Dragon Ball Z: Resurrection 'F'",
+        "song": "'Z' no Chikai",
+        "artist": "Momoiro Clover Z"
     },
     "1438729616": {
         "anime": "One Piece",
@@ -2169,6 +2354,11 @@
         "song": "NON SUGAR LIFE",
         "artist": "Haruhiko Jo"
     },
+    "1477636506": {
+        "anime": "Dragon Ball: Curse of the Blood Rubies",
+        "song": "Romantic Ageru yo",
+        "artist": "Ushio Hashimoto"
+    },
     "1481926858": {
         "anime": "Demon Slayer: Kimetsu no Yaiba",
         "song": "from the edge",
@@ -2214,6 +2404,11 @@
         "song": "Hikari e",
         "artist": "The Babystars"
     },
+    "1510180250": {
+        "anime": "Dragon Ball: Goku no Koutsuu Anzen",
+        "song": "Makafushigi Adventure!",
+        "artist": "Masako Nozawa & Mayumi Tanaka"
+    },
     "1515245047": {
         "anime": "Case Closed: Captured in Her Eyes",
         "song": "Anata ga Iru kara",
@@ -2228,6 +2423,16 @@
         "anime": "Charlotte",
         "song": "Heavy Rain",
         "artist": "ZHIEND"
+    },
+    "1525654889": {
+        "anime": "Dragon Ball",
+        "song": "Aoki Tabibito-tachi",
+        "artist": "Hiroki Takahashi"
+    },
+    "1525971737": {
+        "anime": "Dragon Ball Super",
+        "song": "Kyuukyoku no Battle",
+        "artist": "Akira Kushida"
     },
     "1527373483": {
         "anime": "Overlord IV",
@@ -2264,6 +2469,11 @@
         "song": "ətˈæk 0N tάɪtn",
         "artist": "Mika Kobayashi"
     },
+    "1556332727": {
+        "anime": "Dragon Ball Super",
+        "song": "Boogie Back",
+        "artist": "Miyu Inoue"
+    },
     "1556694752": {
         "anime": "Terror in Resonance",
         "song": "Trigger",
@@ -2274,10 +2484,25 @@
         "song": "Rasen no Peace",
         "artist": "Rayflower"
     },
+    "1568502402": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "Fear",
+        "artist": "Disturbed"
+    },
     "1572332273": {
         "anime": "Jujutsu Kaisen",
         "song": "Kaikai Kitan",
         "artist": "Eve"
+    },
+    "1572546435": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "Seed",
+        "artist": "Dust For Life"
+    },
+    "1579687647": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Tada Kogoeru Elegy ~The Theme Of FREEZER~",
+        "artist": "Demon Kakka"
     },
     "1582980709": {
         "anime": "Code Geass: Lelouch of the Rebellion",
@@ -2338,6 +2563,11 @@
         "anime": "Hell's Paradise",
         "song": "W●RK",
         "artist": "millennium parade × Ringo Sheena"
+    },
+    "1610264361": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Oh Yeah!!!!!!!",
+        "artist": "Czecho No Republic"
     },
     "1611853643": {
         "anime": "Kaguya-sama: Love is War - Ultra Romantic",
@@ -2403,6 +2633,11 @@
         "anime": "Darling in the FranXX",
         "song": "Torikago",
         "artist": "XX:me"
+    },
+    "1664478708": {
+        "anime": "Dragon Ball Z: Battle of Gods",
+        "song": "CHA-LA HEAD-CHA-LA",
+        "artist": "FLOW"
     },
     "1675074448": {
         "anime": "Heaven's Lost Property the Movie: The Angeloid of Clockwork",
@@ -2484,6 +2719,11 @@
         "song": "Nani ga Warui",
         "artist": "Kessoku Band"
     },
+    "1722677710": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "Poison",
+        "artist": "Dust For Life"
+    },
     "1725624244": {
         "anime": "The Seven Deadly Sins: Signs of Holy War",
         "song": "CLASSIC",
@@ -2508,6 +2748,11 @@
         "anime": "Code Geass: Lelouch of the Rebellion",
         "song": "will-ill",
         "artist": "TK from Ling Tosite Sigure"
+    },
+    "1769907145": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "CURE ~Boku ga Koko ni Iru yo~",
+        "artist": "Aya Hirano"
     },
     "1771919535": {
         "anime": "My Happy Marriage",
@@ -2539,6 +2784,11 @@
         "song": "FLARE",
         "artist": "Void_Chords feat. LIO"
     },
+    "1802529196": {
+        "anime": "Dragon Ball Z",
+        "song": "Fly high",
+        "artist": "Hironobu Kageyama & BROADWAY"
+    },
     "1804962126": {
         "anime": "Detective Conan",
         "song": "Your Best Friend",
@@ -2559,6 +2809,11 @@
         "song": "I'll be there",
         "artist": "Eri Sugai"
     },
+    "1822920418": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "Phoenix",
+        "artist": "Breaking Point"
+    },
     "1823176971": {
         "anime": "Detective Conan: The Private Eyes' Requiem",
         "song": "Omoide-tachi ~Omoide~ (Suihei Senjou Version)",
@@ -2573,6 +2828,11 @@
         "anime": "My Hero Academia The Movie: Two Heroes",
         "song": "Here",
         "artist": "Yuly"
+    },
+    "1831641245": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "Seven Years",
+        "artist": "American Pearl"
     },
     "1836788792": {
         "anime": "Re:Zero: Starting Life in Another World",
@@ -2604,6 +2864,11 @@
         "song": "Niji no Kanata ni",
         "artist": "ReoNa"
     },
+    "1848495327": {
+        "anime": "Dragon Ball GT",
+        "song": "Sabitsuita Machine Gun de Ima o Uchinukou",
+        "artist": "WANDS"
+    },
     "1849453783": {
         "anime": "Rainbow",
         "song": "We're not alone",
@@ -2618,6 +2883,11 @@
         "anime": "Detective Conan",
         "song": "Hane",
         "artist": "Koshi Inaba"
+    },
+    "1860126789": {
+        "anime": "Dragon Ball",
+        "song": "Son Goku Song",
+        "artist": "Masako Nozawa"
     },
     "1860238435": {
         "anime": "The Pet Girl of Sakurasou",
@@ -2674,6 +2944,11 @@
         "song": "We Are!",
         "artist": "Hiroshi Kitadani"
     },
+    "1896586184": {
+        "anime": "Super Dragon Ball Heroes",
+        "song": "Meteor Mission Series Theme Song",
+        "artist": "Dragon Soul"
+    },
     "1897456372": {
         "anime": "Jack and the Beanstalk",
         "song": "Omae wa Minikui",
@@ -2689,6 +2964,11 @@
         "song": "Bone To Be Wild",
         "artist": "Cho"
     },
+    "1901417071": {
+        "anime": "Dragon Ball: Yo! The Return of Son Goku and Friends!!",
+        "song": "CHA-LA HEAD-CHA-LA",
+        "artist": "Hironobu Kageyama"
+    },
     "1902067807": {
         "anime": "K-On!",
         "song": "Don't say \"lazy\"",
@@ -2703,6 +2983,11 @@
         "anime": "Mushoku Tensei: Jobless Reincarnation Season 2",
         "song": "On the Frontline",
         "artist": "hitorie"
+    },
+    "1907897015": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "The Game",
+        "artist": "Disturbed"
     },
     "1919138377": {
         "anime": "Code Geass: Lelouch of the Rebellion Remake Movies",
@@ -2804,15 +3089,30 @@
         "song": "Yuu & Ai",
         "artist": "Natsumi Murakami"
     },
+    "1987269988": {
+        "anime": "Dragon Ball Super",
+        "song": "Usubeni",
+        "artist": "LACCO TOWER"
+    },
     "1987431043": {
         "anime": "Detective Conan: The Eleventh Striker",
         "song": "Haru Uta",
         "artist": "Ikimono-gakari"
     },
+    "1992559523": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Cell Game no Oshirase",
+        "artist": "Kenji Ohtsuki"
+    },
     "1996003175": {
         "anime": "Sword Art Online",
         "song": "Yume Sekai",
         "artist": "Haruka Tomatsu"
+    },
+    "1996054326": {
+        "anime": "Dragon Ball Z: The History Of Trunks",
+        "song": "Aoi Kaze no HOPE",
+        "artist": "Hironobu Kageyama"
     },
     "1996113997": {
         "anime": "Inazuma Eleven GO: Chrono Stone",
@@ -2828,6 +3128,11 @@
         "anime": "Anne-Happy",
         "song": "PUNCH☆MIND☆HAPPINESS",
         "artist": "Happy Clover"
+    },
+    "2006695665": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Let it Burn",
+        "artist": "Masatoshi Ono"
     },
     "2009899370": {
         "anime": "Princess Mononoke",
@@ -2879,6 +3184,11 @@
         "song": "I'm still alive today acoustic ver.",
         "artist": "96neko"
     },
+    "2026859468": {
+        "anime": "Dragon Ball GT",
+        "song": "Hitori ja Nai",
+        "artist": "DEEN"
+    },
     "2027936974": {
         "anime": "Detective Conan: Black Iron Submarine",
         "song": "Kimi ga Ireba",
@@ -2888,6 +3198,11 @@
         "anime": "Tokyo Ghoul: Root A",
         "song": "Munou",
         "artist": "österreich"
+    },
+    "2030655094": {
+        "anime": "Dragon Ball Z: Broly - Second Coming",
+        "song": "Kiseki no Big Fight",
+        "artist": "Hironobu Kageyama"
     },
     "2031341791": {
         "anime": "One Piece Episode of Luffy: The Hand Island Adventure",
@@ -3003,6 +3318,11 @@
         "anime": "Detective Conan",
         "song": "Hitomi no Melody",
         "artist": "BOYFRIEND"
+    },
+    "2143239765": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "Under",
+        "artist": "Breaking Point"
     },
     "2145205533": {
         "anime": "One Piece",
@@ -5978,5 +6298,330 @@
         "anime": "The Apothecary Diaries",
         "song": "Omoi Saku Toki",
         "artist": "Aoiema."
+    },
+    "-81805685": {
+        "anime": "Dragon Ball Z: Bardock - The Father of Goku",
+        "song": "Hikari no Tabi",
+        "artist": "Hironobu Kageyama & KŪKO"
+    },
+    "-1736919516": {
+        "anime": "Dragon Ball Z: Bardock - The Father of Goku",
+        "song": "Superstar",
+        "artist": "Saliva"
+    },
+    "-413092386": {
+        "anime": "Dragon Ball Z: The History Of Trunks",
+        "song": "Through Her Eyes",
+        "artist": "Dream Theater"
+    },
+    "-1046643701": {
+        "anime": "Dragon Ball Z: Dead Zone",
+        "song": "CHA-LA HEAD-CHA-LA",
+        "artist": "Hironobu Kageyama"
+    },
+    "-109867720": {
+        "anime": "Dragon Ball Z: Dead Zone",
+        "song": "Detekoi Tobikiri ZENKAI Power!",
+        "artist": "MANNA"
+    },
+    "-1307818984": {
+        "anime": "Dragon Ball Z: Dead Zone",
+        "song": "Tenkaichi Gohan",
+        "artist": "Masako Nozawa"
+    },
+    "-550355821": {
+        "anime": "Dragon Ball Z: The World's Strongest",
+        "song": "Piccolo-san Daisuki♡",
+        "artist": "Masako Nozawa"
+    },
+    "-2125521119": {
+        "anime": "Dragon Ball",
+        "song": "Makafushigi Adventure!",
+        "artist": "Hiroki Takahashi"
+    },
+    "-1790408620": {
+        "anime": "Dragon Ball",
+        "song": "Romantic Ageru yo",
+        "artist": "Ushio Hashimoto"
+    },
+    "-241959425": {
+        "anime": "Dragon Ball",
+        "song": "Fushigi Wonderland",
+        "artist": "Wonderland Gang"
+    },
+    "-1862799068": {
+        "anime": "Dragon Ball",
+        "song": "Mezase Tenkaichi",
+        "artist": "Hiroki Takahashi"
+    },
+    "-1560293032": {
+        "anime": "Dragon Ball",
+        "song": "Red Ribbon Army",
+        "artist": "Wonderland Gang"
+    },
+    "-636707189": {
+        "anime": "Dragon Ball",
+        "song": "Wolf Hurricane",
+        "artist": "Toru Furuya"
+    },
+    "-1651884488": {
+        "anime": "Dragon Ball Z",
+        "song": "WE GOTTA POWER",
+        "artist": "Hironobu Kageyama"
+    },
+    "-624558996": {
+        "anime": "Dragon Ball Z",
+        "song": "Detekoi Tobikiri ZENKAI Power!",
+        "artist": "MANNA"
+    },
+    "-184950143": {
+        "anime": "Dragon Ball Z",
+        "song": "Boku-tachi wa Tenshi Datta",
+        "artist": "Hironobu Kageyama"
+    },
+    "-1352083445": {
+        "anime": "Dragon Ball Z",
+        "song": "MIND POWER ...Ki...",
+        "artist": "Hironobu Kageyama & YUKA"
+    },
+    "-151990662": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "Coming of Age",
+        "artist": "Breaking Point"
+    },
+    "-1434954253": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "Step into the Light",
+        "artist": "Dust For Life"
+    },
+    "-1160915477": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "Free Your Mind",
+        "artist": "American Pearl"
+    },
+    "-90104340": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "Elite",
+        "artist": "Deftones"
+    },
+    "-444396867": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "I'm a Cloud",
+        "artist": "Boy Hits Car"
+    },
+    "-183878198": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "Drag You Down",
+        "artist": "Finger Eleven"
+    },
+    "-1654341991": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "Automatic",
+        "artist": "American Pearl"
+    },
+    "-700066899": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "The Rebirth",
+        "artist": "Boy Hits Car"
+    },
+    "-965392399": {
+        "anime": "Dragon Ball Z: Lord Slug",
+        "song": "Stupify",
+        "artist": "Disturbed"
+    },
+    "-2016106811": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "Reminded",
+        "artist": "Drowning Pool"
+    },
+    "-1387311406": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "Stay and Drown",
+        "artist": "Finger Eleven"
+    },
+    "-1309702137": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "Relevation",
+        "artist": "American Pearl"
+    },
+    "-452017279": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "Change",
+        "artist": "Deftones"
+    },
+    "-1068159066": {
+        "anime": "Dragon Ball Z: Cooler's Revenge",
+        "song": "Told You So",
+        "artist": "Drowning Pool"
+    },
+    "-1460254734": {
+        "anime": "Dragon Ball GT",
+        "song": "Step Into the Grand Tour",
+        "artist": "Shorty the Man"
+    },
+    "-1401972669": {
+        "anime": "Dragon Ball Z: Bojack Unbound",
+        "song": "Ginga o Koete Rising High",
+        "artist": "Hironobu Kageyama"
+    },
+    "-1519328712": {
+        "anime": "Dragon Ball Z: Fusion Reborn",
+        "song": "Saikyou no Fusion",
+        "artist": "Hironobu Kageyama"
+    },
+    "-1848875121": {
+        "anime": "Dragon Ball Z: The Tree of Might",
+        "song": "Marugoto",
+        "artist": "Hironobu Kageyama & Ammy"
+    },
+    "-1095441943": {
+        "anime": "Dragon Ball Z: The Return of Cooler",
+        "song": "HERO (Kimi ga Hero)",
+        "artist": "Hironobu Kageyama & YUKA"
+    },
+    "-222643669": {
+        "anime": "Dragon Ball: Curse of the Blood Rubies",
+        "song": "Makafushigi Adventure!",
+        "artist": "Hiroki Takahashi"
+    },
+    "-1257519232": {
+        "anime": "Dragon Ball: Mystical Adventure",
+        "song": "Dragon Ball Densetsu",
+        "artist": "Hiroki Takahashi"
+    },
+    "-1162466579": {
+        "anime": "Dragon Ball: Yo! The Return of Son Goku and Friends!!",
+        "song": "Orange Hero",
+        "artist": "jealkb"
+    },
+    "-386958776": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Yeah! Break! Care! Break!",
+        "artist": "Takayoshi Tanimoto (Dragon Soul)"
+    },
+    "-1810318651": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Kokoro no Hane",
+        "artist": "Team Dragon from AKB48"
+    },
+    "-373258633": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Chou☆Super Dragon Soul",
+        "artist": "Takayoshi Tanimoto"
+    },
+    "-1053241912": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Over the Star",
+        "artist": "Saki Oshitani"
+    },
+    "-614951159": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Saiyan Blood",
+        "artist": "Ryo Horikawa"
+    },
+    "-761665199": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Tatta Hitori no Senshi",
+        "artist": "Takeshi Kusao"
+    },
+    "-1667256494": {
+        "anime": "Dragon Ball: The Goku Fire Fighting Regiment",
+        "song": "Makafushigi Adventure!",
+        "artist": "Masako Nozawa & Mayumi Tanaka"
+    },
+    "-479454880": {
+        "anime": "Dragon Ball Z: Battle of Gods",
+        "song": "CHA-LA HEAD-CHA-LA (English Version)",
+        "artist": "FLOW"
+    },
+    "-440598451": {
+        "anime": "Dragon Ball Z: Battle of Gods",
+        "song": "HERO ~Kibou no Uta~",
+        "artist": "FLOW"
+    },
+    "-309639982": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Fight it out!",
+        "artist": "Masatoshi Ono"
+    },
+    "-457782689": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Kuu-Zen-Zetsu-Go",
+        "artist": "Takayoshi Tanimoto (Dragon Soul)"
+    },
+    "-1439060707": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Haikei, Zarathustra",
+        "artist": "Good Morning America"
+    },
+    "-2095222197": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Junjou",
+        "artist": "Leo Ieiri"
+    },
+    "-1324865069": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "GALAXY",
+        "artist": "Kyuuso Nekokami"
+    },
+    "-150302531": {
+        "anime": "Dragon Ball Z Kai",
+        "song": "Don't Let Me Down",
+        "artist": "Gacharic Spin"
+    },
+    "-277882963": {
+        "anime": "Dragon Ball Z: Resurrection 'F'",
+        "song": "Pledge of \"Z\"",
+        "artist": "Momoiro Clover Z"
+    },
+    "-1490302474": {
+        "anime": "Dragon Ball Super",
+        "song": "Chouzetsu☆Dynamic!",
+        "artist": "Kazuya Yoshii"
+    },
+    "-925916969": {
+        "anime": "Dragon Ball Super",
+        "song": "Genkai Toppa×Survivor",
+        "artist": "Kiyoshi Hikawa"
+    },
+    "-997845639": {
+        "anime": "Dragon Ball Super",
+        "song": "Hello Hello Hello",
+        "artist": "Good Morning America"
+    },
+    "-1077057323": {
+        "anime": "Dragon Ball Super",
+        "song": "Starring Star",
+        "artist": "KEYTALK"
+    },
+    "-1597155640": {
+        "anime": "Dragon Ball Super",
+        "song": "Forever Dreaming",
+        "artist": "Czecho No Republic"
+    },
+    "-1943446380": {
+        "anime": "Dragon Ball Super",
+        "song": "LAGRIMA",
+        "artist": "ONEPIXCEL"
+    },
+    "-1429638734": {
+        "anime": "Dragon Ball Super",
+        "song": "Waiwai World",
+        "artist": "Ado Mizumori feat. Koorogi '73"
+    },
+    "-1354347579": {
+        "anime": "Dragon Ball Super: Broly",
+        "song": "Blizzard",
+        "artist": "Daichi Miura"
+    },
+    "-723348450": {
+        "anime": "Dragon Ball Super: Broly",
+        "song": "Blizzard (Movie Edit - English Ver.)",
+        "artist": "Daichi Miura"
+    },
+    "-1530050682": {
+        "anime": "Super Dragon Ball Heroes",
+        "song": "Super Dragon Ball Heroes Fight Song",
+        "artist": "Dragon Soul"
     }
 }
