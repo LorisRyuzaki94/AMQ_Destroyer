@@ -67,22 +67,23 @@ async function getHash(url) {
 async function main() {
     try {
         const songsData = await readJSONFile('list-updater/list.json');
-        const targetData = await readJSONFile('database.json');
 
-        const promises = songsData.map(async (song) => {
+        for (const song of songsData) {
             const uniqueID = await getHash(song.audio);
+            
+            // Rileggi database.json ad ogni iterazione
+            let targetData = await readJSONFile('database.json');
+            
             targetData[uniqueID] = {
                 "anime": song.animeENName,
                 "song": song.songName,
                 "artist": song.songArtist
             };
-        });
 
-        // Aspetta che tutte le promesse siano risolte
-        await Promise.all(promises);
+            await writeJSONFile('database.json', targetData);
+        }
 
-        await writeJSONFile('database.json', targetData);
-        console.log('I dati sono stati aggiunti con successo al target.json');
+        console.log('I dati sono stati aggiunti con successo al database');
     } catch (err) {
         console.error('Errore:', err);
     }
