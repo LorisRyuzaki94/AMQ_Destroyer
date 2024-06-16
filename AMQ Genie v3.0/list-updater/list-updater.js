@@ -74,13 +74,19 @@ async function main() {
             // Rileggi database.json ad ogni iterazione
             let targetData = await readJSONFile('database.json');
             
-            targetData[uniqueID] = {
-                "anime": song.animeENName,
-                "song": song.songName,
-                "artist": song.songArtist
-            };
+            // Controlla se l'entry esiste già
+            if (!targetData.hasOwnProperty(uniqueID)) {
+                targetData[uniqueID] = {
+                    "anime": song.animeENName,
+                    "song": song.songName,
+                    "artist": song.songArtist
+                };
 
-            await writeJSONFile('database.json', targetData);
+                await writeJSONFile('database.json', targetData);
+                console.log(`Aggiunto: ${uniqueID}`);
+            } else {
+                console.log(`Esiste già: ${uniqueID}`);
+            }
         }
 
         console.log('I dati sono stati aggiunti con successo al database');
