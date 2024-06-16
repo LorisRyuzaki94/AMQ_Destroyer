@@ -9,6 +9,11 @@
         "song": "R★O★C★K★S",
         "artist": "Hound Dog"
     },
+    "5623984": {
+        "anime": "Ranma 1/2",
+        "song": "Omoide ga Ippai",
+        "artist": "CoCo"
+    },
     "6894160": {
         "anime": "Naruto",
         "song": "LIFE GOES ON",
@@ -18,6 +23,11 @@
         "anime": "Detective Conan",
         "song": "SWEET MOONLIGHT",
         "artist": "BREAKERZ"
+    },
+    "10438417": {
+        "anime": "Ranma 1/2",
+        "song": "Chikyuu Orchestra",
+        "artist": "KUSUKUSU"
     },
     "11493086": {
         "anime": "The Familiar of Zero F",
@@ -264,6 +274,11 @@
         "song": "RISING FREE",
         "artist": "STYLE FIVE"
     },
+    "150434708": {
+        "anime": "Ranma 1/2",
+        "song": "Friends",
+        "artist": "YAWMIN"
+    },
     "151866822": {
         "anime": "Fate/stay night: Heaven's Feel I. Presage Flower",
         "song": "the flower will bloom",
@@ -383,6 +398,11 @@
         "anime": "Girls und Panzer der Film",
         "song": "Oira Boko Daze!",
         "artist": "Ayumi Fujimura"
+    },
+    "194240737": {
+        "anime": "Ranma 1/2",
+        "song": "Present",
+        "artist": "Tokyo Shounen"
     },
     "206054162": {
         "anime": "Detective Conan: Full Score of Fear",
@@ -578,6 +598,11 @@
         "anime": "Giant Beasts of Ars",
         "song": "Hengenjizai",
         "artist": "PENGUIN RESEARCH"
+    },
+    "337143322": {
+        "anime": "Ranma 1/2",
+        "song": "Lambada☆RANMA",
+        "artist": "Ranma Tekikage Kidan Goikkou-sama"
     },
     "337171457": {
         "anime": "Onsen Yousei Hakone-chan",
@@ -954,6 +979,11 @@
         "song": "Glorious Mind",
         "artist": "ZARD"
     },
+    "547612144": {
+        "anime": "Ranma 1/2",
+        "song": "Little★Date",
+        "artist": "ribbon"
+    },
     "547793930": {
         "anime": "Darling in the FranXX",
         "song": "Battle Cry",
@@ -1058,6 +1088,11 @@
         "anime": "Astarotte's Toy!",
         "song": "Tenshi no CLOVER",
         "artist": "Aimi"
+    },
+    "596042751": {
+        "anime": "Ranma 1/2",
+        "song": "Hinageshi",
+        "artist": "Michiyo Nakajima"
     },
     "596420339": {
         "anime": "BECK: Mongolian Chop Squad",
@@ -1398,6 +1433,11 @@
         "anime": "Boruto: Naruto Next Generations",
         "song": "It's all in the game",
         "artist": "Qyoto"
+    },
+    "802501757": {
+        "anime": "Ranma 1/2",
+        "song": "Niji to Taiyou no Oka",
+        "artist": "Piyo Piyo"
     },
     "803361336": {
         "anime": "Naruto Shippuuden the Movie: The Lost Tower",
@@ -2714,6 +2754,11 @@
         "song": "Michi ~to you all",
         "artist": "aluto"
     },
+    "1541145283": {
+        "anime": "Ranma 1/2",
+        "song": "Do・N・Ma・I Rairai Shounen ~Don't mind lay-lay Boy~",
+        "artist": "Etsuko Nishio"
+    },
     "1541377560": {
         "anime": "Smile Down the Runway",
         "song": "LION",
@@ -2843,6 +2888,11 @@
         "anime": "Hell's Paradise",
         "song": "W●RK",
         "artist": "millennium parade × Ringo Sheena"
+    },
+    "1605454923": {
+        "anime": "Ranma 1/2",
+        "song": "Love Seeker CAN'T STOP IT",
+        "artist": "VisioN"
     },
     "1606451291": {
         "anime": "Boruto: Naruto Next Generations",
@@ -3028,6 +3078,11 @@
         "anime": "Granblue Fantasy the Animation Season 2",
         "song": "Ao",
         "artist": "adieu"
+    },
+    "1709053599": {
+        "anime": "Ranma 1/2",
+        "song": "Platonic Tsuranuite",
+        "artist": "Kaori Sakagami"
     },
     "1716648709": {
         "anime": "Code Geass: Lelouch of the Rebellion Remake Movies",
@@ -3463,6 +3518,11 @@
         "anime": "Love Live! Nijigasaki High School Idol Club",
         "song": "Yuu & Ai",
         "artist": "Natsumi Murakami"
+    },
+    "1980482087": {
+        "anime": "Ranma 1/2",
+        "song": "Mou Nakanaide",
+        "artist": "Azusa Senou"
     },
     "1987269988": {
         "anime": "Dragon Ball Super",
@@ -7358,5 +7418,30 @@
         "anime": "Boruto: Naruto Next Generations",
         "song": "Kaze ni Nare",
         "artist": "Ray"
+    },
+    "-841408331": {
+        "anime": "Ranma 1/2",
+        "song": "Jaja Uma ni Sasenaide",
+        "artist": "Etsuko Nishio"
+    },
+    "-303255256": {
+        "anime": "Ranma 1/2",
+        "song": "Zettai! Part 2",
+        "artist": "Yoshie Hayasaka"
+    },
+    "-404749987": {
+        "anime": "Ranma 1/2",
+        "song": "EQUAL Romance",
+        "artist": "CoCo"
+    },
+    "-582623846": {
+        "anime": "Ranma 1/2",
+        "song": "POSITIVE",
+        "artist": "Miho Morikawa"
+    },
+    "-81545077": {
+        "anime": "Ranma 1/2",
+        "song": "Little★Date",
+        "artist": "Megumi Hayashibara & Noriko Hidaka & Rei Sakuma"
     }
 }
