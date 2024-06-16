@@ -64,6 +64,11 @@
         "song": "Junsui na Fujunbutsu",
         "artist": "StylipS"
     },
+    "40728805": {
+        "anime": "A Certain Scientific Railgun T",
+        "song": "nameless story",
+        "artist": "Kishida Kyoudan &THE Akeboshi Rockets"
+    },
     "41972813": {
         "anime": "Detective Conan",
         "song": "Unraveling Love ~Sukoshi no Yuuki~",
@@ -119,6 +124,11 @@
         "song": "Sekai o Hai ni Suru made (movie ver.)",
         "artist": "Momoyo Koyama, Suzuko Mimori, Hinata Satou"
     },
+    "64436667": {
+        "anime": "A Certain Scientific Railgun S",
+        "song": "Links",
+        "artist": "Sachika Misawa"
+    },
     "64806682": {
         "anime": "One Piece: Romance Dawn Story",
         "song": "A THOUSAND DREAMERS ~9-nin no Mugiwara Kaizoku-dan-hen~",
@@ -168,6 +178,11 @@
         "anime": "My Teen Romantic Comedy SNAFU",
         "song": "Yukitoki",
         "artist": "Nagi Yanagi"
+    },
+    "88949950": {
+        "anime": "A Certain Magical Index the Movie: The Miracle of Endymion",
+        "song": "telepath ~Hikari no Tou~",
+        "artist": "Sachika Misawa"
     },
     "89103756": {
         "anime": "Transformers: Zone",
@@ -309,6 +324,11 @@
         "song": "Memories",
         "artist": "Maki Otsuki"
     },
+    "164882773": {
+        "anime": "A Certain Magical Index the Movie: The Miracle of Endymion",
+        "song": "FIXED STAR",
+        "artist": "Mami Kawada"
+    },
     "167405485": {
         "anime": "Detective Conan",
         "song": "Makka na Lip",
@@ -404,10 +424,20 @@
         "song": "Present",
         "artist": "Tokyo Shounen"
     },
+    "201674053": {
+        "anime": "A Certain Magical Index III",
+        "song": "Owaranai Uta",
+        "artist": "Yuka Iguchi"
+    },
     "206054162": {
         "anime": "Detective Conan: Full Score of Fear",
         "song": "Tsubasa o Hirogete",
         "artist": "ZARD"
+    },
+    "207338631": {
+        "anime": "A Certain Scientific Railgun OVA",
+        "song": "future gazer",
+        "artist": "fripSide"
     },
     "210369274": {
         "anime": "Detective Conan",
@@ -1329,6 +1359,11 @@
         "song": "Kimi ni Tsutaeta Story",
         "artist": "Qyoto"
     },
+    "713556689": {
+        "anime": "A Certain Magical Index III",
+        "song": "Gravitation",
+        "artist": "Maon Kurosaki"
+    },
     "713606274": {
         "anime": ".hack//The Movie",
         "song": "Hikari o Atsumete",
@@ -1699,6 +1734,11 @@
         "song": "Resolution",
         "artist": "Haruka Tomatsu"
     },
+    "926832215": {
+        "anime": "A Playthrough of a Certain Dude's VRMMO Life",
+        "song": "Magic Writer",
+        "artist": "saji"
+    },
     "927337503": {
         "anime": "Naruto",
         "song": "Kanashimi o Yasashisa ni",
@@ -1993,6 +2033,11 @@
         "anime": "Detective Conan",
         "song": "SAWAGE☆LIFE",
         "artist": "Mai Kuraki"
+    },
+    "1084739322": {
+        "anime": "A Certain Scientific Railgun",
+        "song": "Dear My Friend -Mada Minu Mirai e-",
+        "artist": "ELISA"
     },
     "1086086646": {
         "anime": "Demon Slayer: Kimetsu no Yaiba",
@@ -2504,6 +2549,11 @@
         "song": "I SAY YES",
         "artist": "ICHIKO"
     },
+    "1336214910": {
+        "anime": "A Certain Scientific Railgun S",
+        "song": "Infinia",
+        "artist": "Sachika Misawa"
+    },
     "1338097087": {
         "anime": "91 Days",
         "song": "Ah, la paterna mano",
@@ -2633,6 +2683,11 @@
         "anime": "Attack on Titan Season 2",
         "song": "Call of Silence",
         "artist": "Gemie"
+    },
+    "1397529659": {
+        "anime": "A Certain Magical Index the Movie: The Miracle of Endymion",
+        "song": "Gloria",
+        "artist": "Sachika Misawa"
     },
     "1400799639": {
         "anime": "Goblin Slayer",
@@ -3044,6 +3099,11 @@
         "song": "Love Seeker CAN'T STOP IT",
         "artist": "VisioN"
     },
+    "1605633191": {
+        "anime": "A Certain Magical Index II",
+        "song": "No buts!",
+        "artist": "Mami Kawada"
+    },
     "1606451291": {
         "anime": "Boruto: Naruto Next Generations",
         "song": "Laika",
@@ -3188,6 +3248,11 @@
         "anime": "The World God Only Knows Season Two",
         "song": "Hajimete Koi o Shita Kioku",
         "artist": "Kana Asumi"
+    },
+    "1691095353": {
+        "anime": "A Certain Magical Index II",
+        "song": "Seika",
+        "artist": "sisters M.K. & K.U."
     },
     "1693075564": {
         "anime": "Heavenly Delusion",
@@ -3429,6 +3494,11 @@
         "song": "Sabitsuita Machine Gun de Ima o Uchinukou",
         "artist": "WANDS"
     },
+    "1848783397": {
+        "anime": "A Certain Magical Index III",
+        "song": "ROAR",
+        "artist": "Maon Kurosaki"
+    },
     "1849453783": {
         "anime": "Rainbow",
         "song": "We're not alone",
@@ -3563,6 +3633,11 @@
         "anime": "Dragon Ball Z: Cooler's Revenge",
         "song": "The Game",
         "artist": "Disturbed"
+    },
+    "1913951698": {
+        "anime": "A Certain Magical Index",
+        "song": "Rimless~Fuchinashi no Sekai~",
+        "artist": "IKU"
     },
     "1919138377": {
         "anime": "Code Geass: Lelouch of the Rebellion Remake Movies",
@@ -3883,6 +3958,11 @@
         "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
         "song": "REALIZE ~Hajimari no Toki~",
         "artist": "Maaya Uchida"
+    },
+    "2083357798": {
+        "anime": "A Certain Scientific Railgun S",
+        "song": "stand still",
+        "artist": "Yuka Iguchi"
     },
     "2086884493": {
         "anime": "Your Lie in April",
@@ -7773,5 +7853,95 @@
         "anime": "91 Days",
         "song": "Rain or Shine",
         "artist": "ELISA"
+    },
+    "-832383676": {
+        "anime": "A Certain Magical Index",
+        "song": "Ame",
+        "artist": "Mami Kawada"
+    },
+    "-946176489": {
+        "anime": "A Certain Magical Index",
+        "song": "jellyfish",
+        "artist": "Mami Kawada"
+    },
+    "-1423398489": {
+        "anime": "A Certain Scientific Railgun",
+        "song": "only my railgun",
+        "artist": "fripSide"
+    },
+    "-657713796": {
+        "anime": "A Certain Scientific Railgun",
+        "song": "SMILE -You&Me-",
+        "artist": "ELISA"
+    },
+    "-1891367803": {
+        "anime": "A Certain Scientific Railgun",
+        "song": "Real Force",
+        "artist": "ELISA"
+    },
+    "-15262923": {
+        "anime": "A Certain Scientific Railgun",
+        "song": "under the cry",
+        "artist": "Kishou Taniyama"
+    },
+    "-1109482129": {
+        "anime": "A Certain Magical Index II",
+        "song": "Memories Last",
+        "artist": "Maon Kurosaki"
+    },
+    "-376978242": {
+        "anime": "A Certain Magical Index II",
+        "song": "Pray ~Inori~",
+        "artist": "IKU"
+    },
+    "-51600107": {
+        "anime": "A Certain Scientific Railgun OVA",
+        "song": "Special \"ONE\"",
+        "artist": "ELISA"
+    },
+    "-2023515150": {
+        "anime": "A Certain Magical Index the Movie: The Miracle of Endymion",
+        "song": "Ashita, Hareru kana",
+        "artist": "Sachika Misawa"
+    },
+    "-789137202": {
+        "anime": "A Certain Magical Index the Movie: The Miracle of Endymion",
+        "song": "Atarimae no Kyori",
+        "artist": "Sachika Misawa"
+    },
+    "-1879436549": {
+        "anime": "A Certain Magical Index the Movie: The Miracle of Endymion",
+        "song": "Brand New Bright Step",
+        "artist": "Sachika Misawa"
+    },
+    "-465168630": {
+        "anime": "A Certain Magical Index the Movie: The Miracle of Endymion",
+        "song": "OVER",
+        "artist": "Yoko Hikasa, Sachika Misawa"
+    },
+    "-954688130": {
+        "anime": "A Certain Scientific Railgun S",
+        "song": "sister's noise",
+        "artist": "fripSide"
+    },
+    "-2009478262": {
+        "anime": "A Certain Scientific Railgun S",
+        "song": "Grow Slowly",
+        "artist": "Yuka Iguchi"
+    },
+    "-1083686648": {
+        "anime": "A Certain Scientific Railgun T",
+        "song": "Aoarashi no Ato de",
+        "artist": "sajou no hana"
+    },
+    "-2139486651": {
+        "anime": "A Certain Scientific Accelerator",
+        "song": "Parole",
+        "artist": "sajou no hana"
+    },
+    "-1756256176": {
+        "anime": "A Playthrough of a Certain Dude's VRMMO Life",
+        "song": "Kibou no Recipe",
+        "artist": "Miho Okasaki"
     }
 }
