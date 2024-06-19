@@ -19,6 +19,11 @@
         "song": "LIFE GOES ON",
         "artist": "Junko Takeuchi"
     },
+    "8058391": {
+        "anime": "Bleach",
+        "song": "Anima Rossa",
+        "artist": "Porno Graffitti"
+    },
     "8102025": {
         "anime": "Detective Conan",
         "song": "SWEET MOONLIGHT",
@@ -43,6 +48,11 @@
         "anime": "My Hero Academia: World Heroes' Mission",
         "song": "Flowers",
         "artist": "ASIAN KUNG-FU GENERATION"
+    },
+    "23700813": {
+        "anime": "Bleach",
+        "song": "CHU-BURA",
+        "artist": "KELUN"
     },
     "31190549": {
         "anime": "My Love Story With Yamada-kun at Lv999",
@@ -259,10 +269,20 @@
         "song": "Vogel im Käfig",
         "artist": "Cyua"
     },
+    "130223822": {
+        "anime": "Bleach",
+        "song": "Sakurabito",
+        "artist": "SunSet Swish"
+    },
     "132287707": {
         "anime": "Dragon Ball Z: The History Of Trunks",
         "song": "Havoc",
         "artist": "Recoolie"
+    },
+    "133857934": {
+        "anime": "Bleach the Movie 3: Fade to Black",
+        "song": "Koyoi, Tsuki ga Miezu tomo",
+        "artist": "Porno Graffitti"
     },
     "138895052": {
         "anime": "Sword Art Online the Movie: Progressive - Aria of a Starless Night",
@@ -318,6 +338,11 @@
         "anime": "Detective Conan",
         "song": "Thank You For Everything",
         "artist": "Sayuri Iwata"
+    },
+    "158569323": {
+        "anime": "Black Clover",
+        "song": "against all gods",
+        "artist": "m-flo"
     },
     "159864364": {
         "anime": "KONOSUBA: God's Blessing on This Wonderful World! 3",
@@ -398,6 +423,11 @@
         "anime": "Detective Conan",
         "song": "Muteki na Heart",
         "artist": "Mai Kuraki"
+    },
+    "180427819": {
+        "anime": "Mushoku Tensei: Jobless Reincarnation Season 2",
+        "song": "Musubime",
+        "artist": "Yuiko Ohara"
     },
     "183997118": {
         "anime": "Nekomonogatari (Black)",
@@ -519,6 +549,11 @@
         "song": "answer",
         "artist": "Ayana Taketatsu"
     },
+    "266583577": {
+        "anime": "Bleach",
+        "song": "Shoujo S",
+        "artist": "SCANDAL"
+    },
     "267232130": {
         "anime": "Detective Conan",
         "song": "Nazo",
@@ -588,6 +623,11 @@
         "anime": "Detective Conan",
         "song": "Timeline",
         "artist": "dps"
+    },
+    "292186505": {
+        "anime": "Haikyu!! 2nd Season",
+        "song": "Climber",
+        "artist": "Galileo Galilei"
     },
     "295991459": {
         "anime": ".hack//Sign",
@@ -738,6 +778,11 @@
         "anime": "Domestic Girlfriend",
         "song": "Monochrome",
         "artist": "Maaya Uchida"
+    },
+    "369294097": {
+        "anime": "Bleach",
+        "song": "Sky chord ~Otona ni Naru Kimi e~",
+        "artist": "Shion Tsuji"
     },
     "370063078": {
         "anime": "A Certain Magical Index",
@@ -974,6 +1019,16 @@
         "song": "NightmaRe",
         "artist": "SNoW"
     },
+    "510076498": {
+        "anime": "Bleach",
+        "song": "Rolling star",
+        "artist": "YUI"
+    },
+    "511481248": {
+        "anime": "Haikyu!! To the Top",
+        "song": "Toppakou",
+        "artist": "SUPER BEAVER"
+    },
     "512663563": {
         "anime": "One Piece",
         "song": "Super Powers",
@@ -983,6 +1038,11 @@
         "anime": "My Hero Academia",
         "song": "HEROES",
         "artist": "Brian the Sun"
+    },
+    "516340096": {
+        "anime": "Haikyu!! To the Top",
+        "song": "Imagination",
+        "artist": "SPYAIR"
     },
     "517632563": {
         "anime": "Naruto Shippuuden",
@@ -1004,6 +1064,11 @@
         "song": "CHA-LA HEAD-CHA-LA (English Version)",
         "artist": "FLOW"
     },
+    "529638658": {
+        "anime": "Black Clover",
+        "song": "Black to the dreamlight",
+        "artist": "EMPiRE"
+    },
     "529685926": {
         "anime": "16bit Sensation: Another Layer",
         "song": "Connect",
@@ -1018,6 +1083,11 @@
         "anime": ".hack//Sign",
         "song": "in the land of twilight, under the moon",
         "artist": "Emily Bindiger"
+    },
+    "536735285": {
+        "anime": "Bleach",
+        "song": "HARUKAZE",
+        "artist": "SCANDAL"
     },
     "537523963": {
         "anime": "Case Closed: The Fourteenth Target",
@@ -1179,6 +1249,11 @@
         "song": "Ashiato",
         "artist": "the peggies"
     },
+    "606120989": {
+        "anime": "Bleach the Movie: Memories of Nobody",
+        "song": "Always be with me in mind",
+        "artist": "Catherine Bott"
+    },
     "607858316": {
         "anime": "Solo Leveling",
         "song": "LEveL",
@@ -1219,6 +1294,11 @@
         "song": "fake wings bitter sweet ver.",
         "artist": "Emily Bindiger"
     },
+    "623225195": {
+        "anime": "Bleach",
+        "song": "Baby It's You",
+        "artist": "JUNE"
+    },
     "625260688": {
         "anime": "Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion'",
         "song": "Stories",
@@ -1238,6 +1318,11 @@
         "anime": "Naruto",
         "song": "Ryuusei",
         "artist": "TiA"
+    },
+    "631780366": {
+        "anime": "Bleach",
+        "song": "After Dark",
+        "artist": "ASIAN KUNG-FU GENERATION"
     },
     "635053814": {
         "anime": "Mayo Chiki!",
@@ -1288,6 +1373,16 @@
         "anime": "Pom Poko",
         "song": "Itsudemo Dare ka ga",
         "artist": "Shang Shang Typhoon"
+    },
+    "661951424": {
+        "anime": "Haikyu!! Lev Kenzan!",
+        "song": "Hoshi o Tsukamaete",
+        "artist": "Huwie Ishizaki"
+    },
+    "665063490": {
+        "anime": "Black Clover",
+        "song": "Black Rover",
+        "artist": "Vickeblanka"
     },
     "666159713": {
         "anime": "My Hero Academia",
@@ -1379,6 +1474,11 @@
         "song": "Hikari o Atsumete",
         "artist": "KOKIA"
     },
+    "714801696": {
+        "anime": "Black Clover",
+        "song": "Aoi Honoo",
+        "artist": "Itowokashi"
+    },
     "715352783": {
         "anime": "Galaxy Angel Z",
         "song": "Tatakae Bokura no XXX",
@@ -1388,6 +1488,11 @@
         "anime": "Detective Conan",
         "song": "Tsukiyo no Itazura no Mahou",
         "artist": "BREAKERZ"
+    },
+    "719166661": {
+        "anime": "Bleach",
+        "song": "Last Moment",
+        "artist": "SPYAIR"
     },
     "724389696": {
         "anime": "Neon Genesis Evangelion",
@@ -1413,6 +1518,11 @@
         "anime": "86 Eighty-Six",
         "song": "Hands Up to the Sky",
         "artist": "SawanoHiroyuki[nZk]:Laco"
+    },
+    "734085391": {
+        "anime": "Bleach",
+        "song": "Tabidatsu Kimi e",
+        "artist": "RSP"
     },
     "738815778": {
         "anime": "Dragon Ball: Sleeping Princess in Devil's Castle",
@@ -1594,6 +1704,11 @@
         "song": "MIDNIGHT BLUES",
         "artist": "Ichiro Araki"
     },
+    "813306379": {
+        "anime": "Mushoku Tensei: Jobless Reincarnation",
+        "song": "Tooku no Komori no Uta",
+        "artist": "Yuiko Ohara"
+    },
     "813424094": {
         "anime": "Attack on Titan Final Season: The Final Chapters",
         "song": "UNDER THE TREE",
@@ -1614,6 +1729,11 @@
         "song": "Ascension",
         "artist": "Mr. C-E-No-G"
     },
+    "825057251": {
+        "anime": "Haikyu!! 3rd Season",
+        "song": "Mashi Mashi",
+        "artist": "NICO Touches the Walls"
+    },
     "828025647": {
         "anime": "Code Geass: Nunnally in Wonderland",
         "song": "All Hail Britannia!!!",
@@ -1624,6 +1744,11 @@
         "song": "Instant Mermaid",
         "artist": "Akari Kitou"
     },
+    "840483066": {
+        "anime": "Bleach",
+        "song": "Kimi o Mamotte, Kimi o Aishite",
+        "artist": "Sambomaster"
+    },
     "842088717": {
         "anime": "Gugure! Kokkuri-san",
         "song": "Welcome!! DISCO Kemokemoke",
@@ -1633,6 +1758,11 @@
         "anime": "Boruto: Naruto Next Generations",
         "song": "Teenage Dream",
         "artist": "miwa"
+    },
+    "847390177": {
+        "anime": "Bleach",
+        "song": "Sakura Biyori",
+        "artist": "Mai Hoshimura"
     },
     "851448055": {
         "anime": "Code Geass: Lelouch of the Rebellion R2",
@@ -1673,6 +1803,11 @@
         "anime": "Absolute Duo",
         "song": "Apple Tea no Aji",
         "artist": "Nozomi Yamamoto×Haruka Yamazaki"
+    },
+    "865561239": {
+        "anime": "Bleach",
+        "song": "Mad Surfer",
+        "artist": "Kenichi Asai"
     },
     "866732192": {
         "anime": "Zom 100: Bucket List of the Dead",
@@ -1744,6 +1879,11 @@
         "song": "Harvest",
         "artist": "Ai Kakuma"
     },
+    "921158279": {
+        "anime": "Haikyu!! Movie Concept no Tatakai",
+        "song": "Hikari Are",
+        "artist": "BURNOUT SYNDROMES"
+    },
     "922099153": {
         "anime": "Code Geass: Lelouch of the Rebellion Remake Movies",
         "song": "The Moon",
@@ -1778,6 +1918,11 @@
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON &lt;Rei(#23) Version&gt;",
         "artist": "Megumi Hayashibara"
+    },
+    "934448118": {
+        "anime": "Black Clover",
+        "song": "RiGHT NOW",
+        "artist": "EMPiRE"
     },
     "934643492": {
         "anime": "Solo Leveling",
@@ -1839,6 +1984,11 @@
         "song": "Be Crazy For Me",
         "artist": "96neko"
     },
+    "945288206": {
+        "anime": "Bleach: Thousand-Year Blood War",
+        "song": "Number One 2008",
+        "artist": "Shiro SAGISU feat. Adam Brown"
+    },
     "957993817": {
         "anime": ".hack//Legend of the Twilight",
         "song": "Emerald Green",
@@ -1868,6 +2018,11 @@
         "anime": "Tokyo Revengers",
         "song": "Cry Baby",
         "artist": "Official HIGE DANdism"
+    },
+    "969652409": {
+        "anime": "Bleach: Thousand-Year Blood War",
+        "song": "Scar",
+        "artist": "Tatsuya Kitani"
     },
     "975359552": {
         "anime": ".hack//Sign",
@@ -1919,6 +2074,11 @@
         "song": "BURNING UP FOR YOU",
         "artist": "SARA"
     },
+    "998621516": {
+        "anime": "Bleach",
+        "song": "Nothing Can Be Explained",
+        "artist": "Mike Wyzgowski"
+    },
     "998798719": {
         "anime": "One Piece: Stampede",
         "song": "We Go! We Are! ~STAMPEDE Ver.~",
@@ -1928,6 +2088,11 @@
         "anime": "Naruto Shippuuden",
         "song": "distance",
         "artist": "LONG SHOT PARTY"
+    },
+    "1007866383": {
+        "anime": "Bleach",
+        "song": "MASK",
+        "artist": "Aqua Timez"
     },
     "1012926814": {
         "anime": ".hack//Sign",
@@ -1948,6 +2113,11 @@
         "anime": "Basquash!",
         "song": "moon passport",
         "artist": "Saori Hayami (from Eclipse)"
+    },
+    "1017215360": {
+        "anime": "Bleach: Thousand-Year Blood War",
+        "song": "STARS",
+        "artist": "w.o.d."
     },
     "1019503926": {
         "anime": "A Certain Scientific Railgun S",
@@ -2123,6 +2293,11 @@
         "anime": "Naruto",
         "song": "Haruka Kanata",
         "artist": "ASIAN KUNG-FU GENERATION"
+    },
+    "1109044991": {
+        "anime": "Bleach: Thousand-Year Blood War",
+        "song": "Number One - Bankai",
+        "artist": "Shiro SAGISU feat. Hazel Fernandes"
     },
     "1109132955": {
         "anime": "Naruto Shippuuden",
@@ -2304,6 +2479,11 @@
         "song": "liminality",
         "artist": "Yuri Kasahara"
     },
+    "1197562531": {
+        "anime": "Haikyu!! To the Top",
+        "song": "Kessen Spirit",
+        "artist": "CHiCO with HoneyWorks"
+    },
     "1200365950": {
         "anime": "Naruto Shippuuden",
         "song": "Kimi Monogatari",
@@ -2378,6 +2558,11 @@
         "anime": "Pokémon: Zoroark - Master of Illusions",
         "song": "Ice Cream Syndrome",
         "artist": "Sukima Switch"
+    },
+    "1240574897": {
+        "anime": "Bleach",
+        "song": "Aoi Tori",
+        "artist": "fumika"
     },
     "1240672211": {
         "anime": "+Tic Elder Sister",
@@ -2508,6 +2693,11 @@
         "anime": "Dragon Ball Z Kai",
         "song": "Dragon Soul",
         "artist": "Takayoshi Tanimoto (Dragon Soul)"
+    },
+    "1286588506": {
+        "anime": "Bleach",
+        "song": "STAY BEAUTIFUL",
+        "artist": "Diggy-MO'"
     },
     "1294182376": {
         "anime": "JoJo's Bizarre Adventure",
@@ -2819,6 +3009,11 @@
         "song": "Mayonaka no Orchestra",
         "artist": "Aqua Timez"
     },
+    "1446588368": {
+        "anime": "Black Clover",
+        "song": "Tenjou Tenge",
+        "artist": "Miyuna"
+    },
     "1447710998": {
         "anime": "Detective Conan",
         "song": "Nemuru Kimi no Yokogao ni Hohoemi o",
@@ -2919,6 +3114,11 @@
         "song": "Nana-iro no Kotoba",
         "artist": "Mai Nakahara"
     },
+    "1499183183": {
+        "anime": "Haikyu!! Movie Sainou to Sense",
+        "song": "I'm a Believer",
+        "artist": "SPYAIR"
+    },
     "1505799413": {
         "anime": "Detective Conan",
         "song": "TRY AGAIN",
@@ -2949,10 +3149,20 @@
         "song": "Heavy Rain",
         "artist": "ZHIEND"
     },
+    "1521124896": {
+        "anime": "Bleach",
+        "song": "Song for...",
+        "artist": "ROOKiEZ is PUNK'D"
+    },
     "1525654889": {
         "anime": "Dragon Ball",
         "song": "Aoki Tabibito-tachi",
         "artist": "Hiroki Takahashi"
+    },
+    "1525909622": {
+        "anime": "Bleach the Movie: Memories of Nobody",
+        "song": "Into the Fire",
+        "artist": "Catherine Bott"
     },
     "1525971737": {
         "anime": "Dragon Ball Super",
@@ -2963,6 +3173,11 @@
         "anime": "Overlord IV",
         "song": "HOLLOW HUNGER",
         "artist": "OxT"
+    },
+    "1533192384": {
+        "anime": "Black Clover",
+        "song": "A Walk",
+        "artist": "Gakuto Kajiwara"
     },
     "1538542162": {
         "anime": ".hack//The Movie",
@@ -3184,6 +3399,16 @@
         "song": "Brightdown",
         "artist": "Nami Tamaki"
     },
+    "1627267199": {
+        "anime": "Bleach",
+        "song": "Houkiboshi",
+        "artist": "Younha"
+    },
+    "1632920723": {
+        "anime": "Mushoku Tensei: Jobless Reincarnation Season 2",
+        "song": "spiral",
+        "artist": "LONGMAN"
+    },
     "1634199705": {
         "anime": "Code Geass: Akito the Exiled",
         "song": "More Than Words",
@@ -3244,6 +3469,11 @@
         "song": "Crayon",
         "artist": "Yoko Hikasa"
     },
+    "1676125914": {
+        "anime": "Black Clover: Sword of the Wizard King",
+        "song": "Break Together",
+        "artist": "Kankaku Piero"
+    },
     "1680248981": {
         "anime": "My Hero Academia",
         "song": "Sora ni Utaeba",
@@ -3263,6 +3493,11 @@
         "anime": "One Piece",
         "song": "Hope",
         "artist": "Namie Amuro"
+    },
+    "1687987282": {
+        "anime": "Haikyu!!",
+        "song": "LEO",
+        "artist": "tacica"
     },
     "1688587712": {
         "anime": "Love Live! School Idol Project",
@@ -3359,6 +3594,11 @@
         "song": "wind",
         "artist": "Akeboshi"
     },
+    "1733802830": {
+        "anime": "Bleach: Thousand-Year Blood War",
+        "song": "Slip Away (Never Meant To Belong)",
+        "artist": "Shiro SAGISU feat. Ian Michael G. Pitter"
+    },
     "1743971861": {
         "anime": "Angel Beats!",
         "song": "Brave Song",
@@ -3369,10 +3609,25 @@
         "song": "PLASMIC FIRE",
         "artist": "KOTOKO×ALTIMA"
     },
+    "1751578082": {
+        "anime": "Haikyu!! 2nd Season",
+        "song": "FLY HIGH!!",
+        "artist": "BURNOUT SYNDROMES"
+    },
+    "1751809528": {
+        "anime": "Haikyu!!",
+        "song": "Tenchi Gaeshi",
+        "artist": "NICO Touches the Walls"
+    },
     "1752673067": {
         "anime": "Heaven's Lost Property: Forte",
         "song": "Odoriko",
         "artist": "Saori Hayami & Ayahi Takagaki"
+    },
+    "1756037975": {
+        "anime": "Bleach",
+        "song": "chAngE",
+        "artist": "miwa"
     },
     "1763466682": {
         "anime": "The World God Only Knows Season Two",
@@ -3469,6 +3724,11 @@
         "song": "I'll be there",
         "artist": "Eri Sugai"
     },
+    "1819016544": {
+        "anime": "Black Clover",
+        "song": "Eien ni Hikare (Everlasting Shine)",
+        "artist": "TOMORROW X TOGETHER"
+    },
     "1822920418": {
         "anime": "Dragon Ball Z: Cooler's Revenge",
         "song": "Phoenix",
@@ -3538,6 +3798,16 @@
         "anime": "Rainbow",
         "song": "We're not alone",
         "artist": "coldrain"
+    },
+    "1852427515": {
+        "anime": "Black Clover",
+        "song": "PAiNT it BLACK",
+        "artist": "BiSH"
+    },
+    "1856213038": {
+        "anime": "Black Clover",
+        "song": "Dream on",
+        "artist": "angela"
     },
     "1858559037": {
         "anime": "Toradora!",
@@ -3684,6 +3954,11 @@
         "song": "Kimi ga Ireba",
         "artist": "Iori"
     },
+    "1922454891": {
+        "anime": "Squishy! Black Clover",
+        "song": "POSSIBLE",
+        "artist": "Clover×Clover"
+    },
     "1925707722": {
         "anime": "Detective Conan",
         "song": "Boku ga Iru (Conan Version)~Conan no Theme",
@@ -3733,6 +4008,11 @@
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON <Rei(#25) Version>",
         "artist": "Megumi Hayashibara"
+    },
+    "1943107884": {
+        "anime": "Bleach: Memories in the Rain",
+        "song": "Nothing Can Be Explained",
+        "artist": "Mike Wyzgowski"
     },
     "1947778097": {
         "anime": "The iDOLM@STER SideM",
@@ -3819,6 +4099,21 @@
         "song": "Kimi ga Ita Monogatari",
         "artist": "See-Saw"
     },
+    "1989789230": {
+        "anime": "Mushoku Tensei: Jobless Reincarnation",
+        "song": "Mezame no Uta",
+        "artist": "Yuiko Ohara"
+    },
+    "1992053241": {
+        "anime": "Haikyu!!",
+        "song": "Ah Yeah!!",
+        "artist": "Sukima Switch"
+    },
+    "1992091338": {
+        "anime": "Bleach",
+        "song": "happypeople",
+        "artist": "Skoop On Somebody"
+    },
     "1992559523": {
         "anime": "Dragon Ball Z Kai",
         "song": "Cell Game no Oshirase",
@@ -3903,6 +4198,11 @@
         "anime": "Naruto Shippuuden",
         "song": "Trouble Maker",
         "artist": "KANIKAPILA"
+    },
+    "2023478784": {
+        "anime": "Black Clover",
+        "song": "Haruka Mirai last page ver.",
+        "artist": "Kankaku Piero"
     },
     "2026342439": {
         "anime": "One Piece: The Movie",
@@ -4024,6 +4324,11 @@
         "song": "Shining ray",
         "artist": "Janne Da Arc"
     },
+    "2097708659": {
+        "anime": "Bleach",
+        "song": "Haruka Kanata",
+        "artist": "UNLIMITS"
+    },
     "2099915185": {
         "anime": "Boruto: Naruto Next Generations",
         "song": "Who are you?",
@@ -4073,6 +4378,11 @@
         "anime": "Naruto",
         "song": "Rise",
         "artist": "Jeremy Sweet and Ian Nickus"
+    },
+    "2127185536": {
+        "anime": "Black Clover: Sword of the Wizard King",
+        "song": "Haruka Mirai",
+        "artist": "Kankaku Piero"
     },
     "2128490980": {
         "anime": "Puella Magi Madoka Magica",
@@ -8048,5 +8358,320 @@
         "anime": "Girls Band Cry",
         "song": "Na mo Naki Nani mo Kamo",
         "artist": "TOGENASHI TOGEARI"
+    },
+    "-658462286": {
+        "anime": "Mushoku Tensei: Jobless Reincarnation",
+        "song": "Kaze to Iku Michi",
+        "artist": "Yuiko Ohara"
+    },
+    "-173183320": {
+        "anime": "Mushoku Tensei: Jobless Reincarnation Season 2",
+        "song": "Hanaemi",
+        "artist": "Ai Kayano"
+    },
+    "-1178162576": {
+        "anime": "Mushoku Tensei: Jobless Reincarnation Season 2",
+        "song": "Mamoritai Mono",
+        "artist": "Yuiko Ohara"
+    },
+    "-1800368380": {
+        "anime": "Mushoku Tensei: Jobless Reincarnation Season 2",
+        "song": "Tsubasa",
+        "artist": "Shion Wakayama"
+    },
+    "-176685189": {
+        "anime": "Mushoku Tensei: Jobless Reincarnation Season 2",
+        "song": "Clover",
+        "artist": "Yuiko Ohara"
+    },
+    "-1542538839": {
+        "anime": "Mushoku Tensei: Jobless Reincarnation Season 2",
+        "song": "Eien Nare, Asura Oukoku",
+        "artist": "Itsuki Makiura"
+    },
+    "-167264225": {
+        "anime": "Black Clover",
+        "song": "Haruka Mirai",
+        "artist": "Kankaku Piero"
+    },
+    "-1468380948": {
+        "anime": "Black Clover",
+        "song": "Gamushara",
+        "artist": "Miyuna"
+    },
+    "-407795688": {
+        "anime": "Black Clover",
+        "song": "Rakugaki Page",
+        "artist": "Kankaku Piero"
+    },
+    "-301506021": {
+        "anime": "Black Clover",
+        "song": "sky & blue",
+        "artist": "GIRLFRIEND"
+    },
+    "-611421410": {
+        "anime": "Black Clover",
+        "song": "Black Catcher",
+        "artist": "Vickeblanka"
+    },
+    "-122156210": {
+        "anime": "Black Clover",
+        "song": "Grandeur",
+        "artist": "Snow Man"
+    },
+    "-867019184": {
+        "anime": "Black Clover",
+        "song": "Amazing Dreams",
+        "artist": "SWANKY DANK"
+    },
+    "-1531487295": {
+        "anime": "Black Clover",
+        "song": "four",
+        "artist": "FAKY"
+    },
+    "-716206643": {
+        "anime": "Black Clover",
+        "song": "four",
+        "artist": "Megumi Han"
+    },
+    "-1474875973": {
+        "anime": "Black Clover",
+        "song": "My Song My Days",
+        "artist": "SOLIDEMO with Sakura men"
+    },
+    "-1149134715": {
+        "anime": "Black Clover",
+        "song": "Hana ga Saku Michi",
+        "artist": "THE CHARM PARK"
+    },
+    "-260822118": {
+        "anime": "Black Clover",
+        "song": "Jinsei wa Senjou da",
+        "artist": "Kalen Anzai"
+    },
+    "-668491521": {
+        "anime": "Black Clover",
+        "song": "New Page",
+        "artist": "INTERSECTION"
+    },
+    "-85169687": {
+        "anime": "Black Clover",
+        "song": "Answer",
+        "artist": "KAF"
+    },
+    "-1367715390": {
+        "anime": "Black Clover",
+        "song": "BEAUTIFUL",
+        "artist": "TREASURE"
+    },
+    "-1502544248": {
+        "anime": "Black Clover",
+        "song": "Inishie no Fukaki Inori",
+        "artist": "Megumi Han"
+    },
+    "-760642931": {
+        "anime": "Black Clover: Sword of the Wizard King",
+        "song": "Here I Stand",
+        "artist": "TREASURE"
+    },
+    "-267055291": {
+        "anime": "Bleach",
+        "song": "*~Asterisk~",
+        "artist": "ORANGE RANGE"
+    },
+    "-334709086": {
+        "anime": "Bleach",
+        "song": "Ichirin no Hana",
+        "artist": "HIGH and MIGHTY COLOR"
+    },
+    "-461124530": {
+        "anime": "Bleach",
+        "song": "TONIGHT TONIGHT TONIGHT",
+        "artist": "BEAT CRUSADERS"
+    },
+    "-506378048": {
+        "anime": "Bleach",
+        "song": "ALONES",
+        "artist": "Aqua Timez"
+    },
+    "-1840466748": {
+        "anime": "Bleach",
+        "song": "Velonica",
+        "artist": "Aqua Timez"
+    },
+    "-926474842": {
+        "anime": "Bleach",
+        "song": "BLUE",
+        "artist": "ViViD"
+    },
+    "-1847405976": {
+        "anime": "Bleach",
+        "song": "Life is Like a Boat",
+        "artist": "Rie fu"
+    },
+    "-86820034": {
+        "anime": "Bleach",
+        "song": "Thank You!!",
+        "artist": "HOME MADE Kazoku"
+    },
+    "-1067705707": {
+        "anime": "Bleach",
+        "song": "LIFE",
+        "artist": "YUI"
+    },
+    "-1197552997": {
+        "anime": "Bleach",
+        "song": "My Pace",
+        "artist": "SunSet Swish"
+    },
+    "-1319079898": {
+        "anime": "Bleach",
+        "song": "HANABI",
+        "artist": "Ikimono-gakari"
+    },
+    "-69176502": {
+        "anime": "Bleach",
+        "song": "MOVIN!!",
+        "artist": "Takacha"
+    },
+    "-1493898043": {
+        "anime": "Bleach",
+        "song": "Tsumasaki",
+        "artist": "OreSkaBand"
+    },
+    "-531383496": {
+        "anime": "Bleach",
+        "song": "Daidai",
+        "artist": "Chatmonchy"
+    },
+    "-548068552": {
+        "anime": "Bleach",
+        "song": "Tane o Maku Hibi",
+        "artist": "Kousuke Atari"
+    },
+    "-2058243460": {
+        "anime": "Bleach",
+        "song": "Kansha.",
+        "artist": "RSP"
+    },
+    "-1326572380": {
+        "anime": "Bleach",
+        "song": "Orange",
+        "artist": "Lil'B"
+    },
+    "-975266913": {
+        "anime": "Bleach",
+        "song": "Gallop",
+        "artist": "pe'zmoku"
+    },
+    "-1226266071": {
+        "anime": "Bleach",
+        "song": "Hitohira no Hanabira",
+        "artist": "Stereopony"
+    },
+    "-307391387": {
+        "anime": "Bleach",
+        "song": "echoes",
+        "artist": "universe"
+    },
+    "-1382422443": {
+        "anime": "Bleach",
+        "song": "Re:pray",
+        "artist": "Aimer"
+    },
+    "-735184654": {
+        "anime": "Bleach",
+        "song": "Number One",
+        "artist": "Hazel Fernandes"
+    },
+    "-1716985470": {
+        "anime": "Bleach the Movie: Memories of Nobody",
+        "song": "Sen no Yoru o Koete",
+        "artist": "Aqua Timez"
+    },
+    "-507056199": {
+        "anime": "Bleach the Movie: Memories of Nobody",
+        "song": "Number One",
+        "artist": "Hazel Fernandes"
+    },
+    "-314990995": {
+        "anime": "Bleach the Movie 2: The DiamondDust Rebellion",
+        "song": "Hikari no Rock",
+        "artist": "Sambomaster"
+    },
+    "-856070674": {
+        "anime": "Bleach the Movie 4: Hell Verse",
+        "song": "Save The One, Save The All",
+        "artist": "T.M.Revolution"
+    },
+    "-1198731494": {
+        "anime": "Bleach the Movie 4: Hell Verse",
+        "song": "Cometh The Hour",
+        "artist": "Our Special Choir"
+    },
+    "-583155317": {
+        "anime": "Bleach: Thousand-Year Blood War",
+        "song": "Rapport",
+        "artist": "Tatsuya Kitani"
+    },
+    "-710619621": {
+        "anime": "Bleach: Thousand-Year Blood War",
+        "song": "Saihate",
+        "artist": "SennaRin"
+    },
+    "-975982945": {
+        "anime": "Bleach: Thousand-Year Blood War",
+        "song": "Number One - Bankai",
+        "artist": "Shiro SAGISU feat. Hazel Fernandes"
+    },
+    "-1878231437": {
+        "anime": "Bleach: Thousand-Year Blood War",
+        "song": "Nothing can be explained - bis 2022",
+        "artist": "Mike Wyzgowski"
+    },
+    "-662598099": {
+        "anime": "Bleach: Thousand-Year Blood War",
+        "song": "Endroll",
+        "artist": "Yoh Kamiyama"
+    },
+    "-83097185": {
+        "anime": "Bleach: Thousand-Year Blood War",
+        "song": "Slip Away (Never Meant To Belong)",
+        "artist": "Shiro SAGISU feat. Ian Michael G. Pitter"
+    },
+    "-1116429227": {
+        "anime": "Bleach: Thousand-Year Blood War",
+        "song": "Everything I Lost",
+        "artist": "Mike Wyzgowski and Shiro SAGISU featuring Bazil Meade"
+    },
+    "-1161393426": {
+        "anime": "Haikyu!! 2nd Season",
+        "song": "I'm a Believer",
+        "artist": "SPYAIR"
+    },
+    "-1358749441": {
+        "anime": "Haikyu!! 2nd Season",
+        "song": "Hatsunetsu",
+        "artist": "tacica"
+    },
+    "-553420430": {
+        "anime": "Haikyu!! Movie Owari to Hajimari",
+        "song": "Imagination",
+        "artist": "SPYAIR"
+    },
+    "-1401210926": {
+        "anime": "Haikyu!! Movie Shousha to Haisha",
+        "song": "Ah Yeah!!",
+        "artist": "Sukima Switch"
+    },
+    "-796715725": {
+        "anime": "Haikyu!! To the Top",
+        "song": "PHOENIX",
+        "artist": "BURNOUT SYNDROMES"
+    },
+    "-918791262": {
+        "anime": "Haikyu!! To the Top",
+        "song": "One Day",
+        "artist": "SPYAIR"
     }
 }
