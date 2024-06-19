@@ -83,9 +83,9 @@ async function main() {
                 };
 
                 await writeJSONFile('database.json', targetData);
-                console.log(`Aggiunto: ${uniqueID}`);
+                console.log(`Aggiunto: ${targetData[uniqueID]["song"]}`);
             } else {
-                console.log(`Esiste già: ${uniqueID}`);
+                console.log(`Esiste già: ${targetData[uniqueID]["song"]}`);
             }
         }
 
