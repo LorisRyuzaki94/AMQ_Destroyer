@@ -54,6 +54,16 @@
         "song": "CHU-BURA",
         "artist": "KELUN"
     },
+    "25789167": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+        "song": "WHIMSICAL WAYWARD WISH",
+        "artist": "TECHNOBOYS PULCRAFT GREEN-FUND feat. Yumeha Kouda"
+    },
+    "29658397": {
+        "anime": "Seraphim Call",
+        "song": "Return to myself",
+        "artist": "Kyoko Tsuruno"
+    },
     "31190549": {
         "anime": "My Love Story With Yamada-kun at Lv999",
         "song": "Gradation",
@@ -114,6 +124,11 @@
         "song": "Believe×Believe",
         "artist": "Nozomi Yamamoto"
     },
+    "52633468": {
+        "anime": "Mazinkaiser: Shitou! Ankoku Daishougun",
+        "song": "Senshi yo Nemure...",
+        "artist": "JAM Project featuring Yoshiki Fukuyama"
+    },
     "52822901": {
         "anime": "Teasing Master Takagi-san",
         "song": "Kaze Fukeba Koi",
@@ -123,6 +138,16 @@
         "anime": "Naruto",
         "song": "Speed",
         "artist": "Analogfish"
+    },
+    "57483134": {
+        "anime": "Fate/stay night: Heaven's Feel II. Lost Butterfly",
+        "song": "you have to choose your future",
+        "artist": "Yuri Kasahara"
+    },
+    "58866478": {
+        "anime": "Fate/Apocrypha",
+        "song": "KOE",
+        "artist": "ASCA"
     },
     "60991861": {
         "anime": "Detective Conan",
@@ -143,6 +168,11 @@
         "anime": "One Piece: Romance Dawn Story",
         "song": "A THOUSAND DREAMERS ~9-nin no Mugiwara Kaizoku-dan-hen~",
         "artist": "9-nin no Mugiwara Kaizoku-dan"
+    },
+    "66408659": {
+        "anime": "Di Gi Charat: Winter Garden",
+        "song": "le petit jardin",
+        "artist": "Miyuki Sawashiro"
     },
     "67175383": {
         "anime": "Code Geass: Lelouch of the Rebellion",
@@ -234,6 +264,11 @@
         "song": "Togetsukyou ~Kimi Omou~",
         "artist": "Mai Kuraki"
     },
+    "98058137": {
+        "anime": "The World God Only Knows",
+        "song": "Koi no Shirushi from Elsie",
+        "artist": "Kanae Itou"
+    },
     "103082996": {
         "anime": "Girls und Panzer der Film",
         "song": "piece of youth",
@@ -253,6 +288,16 @@
         "anime": "Jujutsu Kaisen",
         "song": "Ao no Sumika",
         "artist": "Tatsuya Kitani"
+    },
+    "113543574": {
+        "anime": "Eiga Crayon Shin-chan: Bakumori! Kung Fu Boys - Ramen Tairan",
+        "song": "Kimi ni 100 Percent",
+        "artist": "Kyary Pamyu Pamyu"
+    },
+    "116148137": {
+        "anime": "Fate/stay night: Unlimited Blade Works",
+        "song": "Voice ~Tadoritsuku Basho~",
+        "artist": "Sachi Tainaka"
     },
     "126781371": {
         "anime": "Detective Conan",
@@ -278,6 +323,11 @@
         "anime": "Dragon Ball Z: The History Of Trunks",
         "song": "Havoc",
         "artist": "Recoolie"
+    },
+    "133049404": {
+        "anime": "Tales of Luminaria the Fateful Crossroad",
+        "song": "ANSWER",
+        "artist": "Frederic × Keina Suda"
     },
     "133857934": {
         "anime": "Bleach the Movie 3: Fade to Black",
@@ -314,6 +364,11 @@
         "song": "fantastic dreamer",
         "artist": "Machico"
     },
+    "146630065": {
+        "anime": "Future Card Buddyfight X: All-Star Fight",
+        "song": "Buddyfight×Buddyfighter",
+        "artist": "Jun Shirota"
+    },
     "150068408": {
         "anime": "Free!: Take Your Marks",
         "song": "RISING FREE",
@@ -328,6 +383,11 @@
         "anime": "Fate/stay night: Heaven's Feel I. Presage Flower",
         "song": "the flower will bloom",
         "artist": "Yuri Kasahara"
+    },
+    "152097427": {
+        "anime": "Fate/Grand Order The Movie: Divine Realm of the Round Table - Camelot",
+        "song": "Toumei",
+        "artist": "Mamoru Miyano"
     },
     "152890641": {
         "anime": "Tantei Kageki Milky Holmes TD",
@@ -348,6 +408,11 @@
         "anime": "Black Clover",
         "song": "against all gods",
         "artist": "m-flo"
+    },
+    "159503323": {
+        "anime": "Fate/kaleid liner Prisma☆Illya: Vow in the Snow",
+        "song": "kaleidoscope",
+        "artist": "ChouCho"
     },
     "159864364": {
         "anime": "KONOSUBA: God's Blessing on This Wonderful World! 3",
@@ -419,6 +484,11 @@
         "song": "Nemuru Kimi no Yokogao ni Hohoemi o",
         "artist": "U-ka saegusa IN db"
     },
+    "176323466": {
+        "anime": "Nanako SOS",
+        "song": "Hito Natsu no Samba",
+        "artist": "Miyuki Takahashi"
+    },
     "179140967": {
         "anime": "Naruto Shippuuden",
         "song": "Niwaka Ame ni mo Makezu",
@@ -464,10 +534,20 @@
         "song": "Present",
         "artist": "Tokyo Shounen"
     },
+    "196323098": {
+        "anime": "Uta no☆Prince-sama♪Maji Love Legend Star",
+        "song": "KIZUNA",
+        "artist": "QUARTET NIGHT"
+    },
     "201674053": {
         "anime": "A Certain Magical Index III",
         "song": "Owaranai Uta",
         "artist": "Yuka Iguchi"
+    },
+    "202902061": {
+        "anime": "Fate/Grand Order The Movie: Divine Realm of the Round Table - Camelot",
+        "song": "Dokuhaku",
+        "artist": "Maaya Sakamoto"
     },
     "206054162": {
         "anime": "Detective Conan: Full Score of Fear",
@@ -479,6 +559,11 @@
         "song": "future gazer",
         "artist": "fripSide"
     },
+    "210169740": {
+        "anime": "Fate/Zero Café",
+        "song": "Youkoso! Fate/Zero Cafe",
+        "artist": "goody"
+    },
     "210369274": {
         "anime": "Detective Conan",
         "song": "Hoshiai",
@@ -489,6 +574,11 @@
         "song": "Central",
         "artist": "Ami Sakaguchi"
     },
+    "211054579": {
+        "anime": "Air Master",
+        "song": "Retsu no Matataki",
+        "artist": "Japaharinet"
+    },
     "212669863": {
         "anime": "SD Gundam Force",
         "song": "Koishikute....",
@@ -498,6 +588,11 @@
         "anime": "Detective Conan",
         "song": "Yarukkyanai no sa ~Conan no Shouri~",
         "artist": "Iori & Minami Takayama"
+    },
+    "215106741": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+        "song": "Prism Sympathy",
+        "artist": "StylipS"
     },
     "217109042": {
         "anime": "Naruto Shippuuden",
@@ -513,6 +608,11 @@
         "anime": "Boruto: Naruto Next Generations",
         "song": "Bibouroku",
         "artist": "Lenny code fiction"
+    },
+    "219210231": {
+        "anime": "Show By Rock!! Stars!!",
+        "song": "Hajimari no Uta",
+        "artist": "REIJINGSIGNAL"
     },
     "222279895": {
         "anime": "Detective Conan: Kid in Trap Island",
@@ -559,10 +659,25 @@
         "song": "Burst the Gravity",
         "artist": "ALTIMA"
     },
+    "240909084": {
+        "anime": "Macross Frontier",
+        "song": "Neko Nikki",
+        "artist": "Megumi Nakajima"
+    },
     "245681402": {
         "anime": "Oreimo Season 2",
         "song": "answer",
         "artist": "Ayana Taketatsu"
+    },
+    "252756483": {
+        "anime": "The☆Doraemons: Mushimushi Pyonpyon Daisakusen!",
+        "song": "Kimi ni Ite Hoshii",
+        "artist": "Yuko Kanzaki"
+    },
+    "261544727": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+        "song": "Wonder Stella",
+        "artist": "fhána"
     },
     "266583577": {
         "anime": "Bleach",
@@ -679,6 +794,16 @@
         "song": "Reboot",
         "artist": "Airi Miyakawa"
     },
+    "312438525": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 2wei!",
+        "song": "moving soul",
+        "artist": "Minami Kuribayashi"
+    },
+    "313285791": {
+        "anime": "Fate/stay night: Heaven's Feel III. Spring Song",
+        "song": "in early spring",
+        "artist": "Shaylee"
+    },
     "318670283": {
         "anime": ".hack//Sign",
         "song": "fake wings",
@@ -688,6 +813,11 @@
         "anime": "Choujuu Kishin Dancougar: God Bless Dancougar",
         "song": "Zankoku na Fairy Tale",
         "artist": "Kemono Senki-tai"
+    },
+    "320508359": {
+        "anime": "Michiko & Hatchin",
+        "song": "Best Friend",
+        "artist": "KARUTETTO"
     },
     "320676203": {
         "anime": "The Rising of the Shield Hero Season 2",
@@ -714,6 +844,11 @@
         "song": "Hengenjizai",
         "artist": "PENGUIN RESEARCH"
     },
+    "337002645": {
+        "anime": "Fate/Zero",
+        "song": "Manten",
+        "artist": "Kalafina"
+    },
     "337143322": {
         "anime": "Ranma 1/2",
         "song": "Lambada☆RANMA",
@@ -738,6 +873,11 @@
         "anime": "Dragon Ball Z: Resurrection 'F'",
         "song": "F",
         "artist": "Maximum the Hormone"
+    },
+    "346566546": {
+        "anime": "Last Exile",
+        "song": "Requiem in the Air",
+        "artist": "Hitomi"
     },
     "347856379": {
         "anime": "The Rising of the Shield Hero",
@@ -789,6 +929,11 @@
         "song": "Gyakkou",
         "artist": "Ado"
     },
+    "364113389": {
+        "anime": "Fate/Grand Order: First Order",
+        "song": "Shikisai",
+        "artist": "Maaya Sakamoto"
+    },
     "367328515": {
         "anime": "Domestic Girlfriend",
         "song": "Monochrome",
@@ -804,6 +949,11 @@
         "song": "Chikaigoto~Sukoshi dake Mou Ichido~",
         "artist": "IKU"
     },
+    "373764407": {
+        "anime": "IDOLiSH7 Second Beat!",
+        "song": "RESTART POiNTER",
+        "artist": "IDOLiSH7"
+    },
     "389942505": {
         "anime": "Inuyashiki Last Hero",
         "song": "My Hero",
@@ -818,6 +968,11 @@
         "anime": "Sword Art Online the Movie: Ordinal Scale",
         "song": "longing",
         "artist": "Sayaka Kanda"
+    },
+    "394248919": {
+        "anime": "Nyanbo!",
+        "song": "Uchuu kara Yattekita Nyanbo",
+        "artist": "ohashiTrio"
     },
     "397863939": {
         "anime": "Code Geass: Lelouch of the Re;surrection",
@@ -858,6 +1013,11 @@
         "anime": "Date A Live The Movie: Mayuri Judgement",
         "song": "Invisible Date",
         "artist": "sweet ARMS"
+    },
+    "406033999": {
+        "anime": "Final Approach",
+        "song": "LOVE,FATE,LOVE",
+        "artist": "Miyuki Hashimoto"
     },
     "406295746": {
         "anime": "High School DxD BorN",
@@ -914,6 +1074,11 @@
         "song": "Viva Namida",
         "artist": "Yasuyuki Okamura"
     },
+    "425690146": {
+        "anime": "Fukuyama Gekijou: Natsu no Himitsu",
+        "song": "Punk Usagi no Dance",
+        "artist": "Kumiko Taguchi"
+    },
     "429982794": {
         "anime": "The Kawai Complex Guide to Manors and Hostel Behavior",
         "song": "My Sweet Shelter",
@@ -939,6 +1104,11 @@
         "song": "I・KU・SA",
         "artist": "Hironobu Kageyama"
     },
+    "441038659": {
+        "anime": "Majestic Prince",
+        "song": "Sono Gyaku",
+        "artist": "Chiaki Ishikawa"
+    },
     "442569845": {
         "anime": "Detective Conan: Strategy Above the Depths",
         "song": "Natsu o Matsu Sail no You ni",
@@ -953,6 +1123,11 @@
         "anime": "Made in Abyss",
         "song": "Tabi no Hidarite, Saihate no Migite",
         "artist": "Miyu Tomita, Mariya Ise"
+    },
+    "446451028": {
+        "anime": "Genesis Climber Mospeada: Love, Live, Alive",
+        "song": "Heart Wave",
+        "artist": "Jin Haneoka"
     },
     "449811168": {
         "anime": "JoJo's Bizarre Adventure",
@@ -1039,6 +1214,11 @@
         "song": "HIBANA",
         "artist": "MindaRyn"
     },
+    "501230630": {
+        "anime": "Fate/Grand Order Final Singularity Grand Temple of Time: Solomon",
+        "song": "Eternity Blue",
+        "artist": "Ayumi"
+    },
     "502193100": {
         "anime": "Hell Girl: Two Mirrors",
         "song": "NightmaRe",
@@ -1079,15 +1259,30 @@
         "song": "Hero's Come Back!!",
         "artist": "nobodyknows+"
     },
+    "520586311": {
+        "anime": "Insufficient Direction",
+        "song": "Olympus no Pollon",
+        "artist": "AOP"
+    },
     "520746613": {
         "anime": "Koyomimonogatari",
         "song": "staple stable",
         "artist": "Chiwa Saito"
     },
+    "523730629": {
+        "anime": "Golden Boy",
+        "song": "STUDY A GO!! GO!!",
+        "artist": "Golden Girls"
+    },
     "523967779": {
         "anime": "Ginyuu Mokushiroku Meine Liebe",
         "song": "Kao",
         "artist": "can/goo"
+    },
+    "528389236": {
+        "anime": "Hybrid x Heart Magias Academy Ataraxia",
+        "song": "Chi",
+        "artist": "Iori Nomizu"
     },
     "529044837": {
         "anime": "Dragon Ball Z Kai",
@@ -1124,6 +1319,11 @@
         "song": "KIZUNA",
         "artist": "Iori"
     },
+    "538699217": {
+        "anime": "Iriya no Sora, UFO no Natsu",
+        "song": "Himawari",
+        "artist": "Chihiro Imai"
+    },
     "540331714": {
         "anime": "Detective Conan",
         "song": "Everything OK!!",
@@ -1138,6 +1338,11 @@
         "anime": "Code Geass: Lelouch of the Rebellion R2 Special Edition 'Zero Requiem'",
         "song": "Strange Girl",
         "artist": "Hitomi"
+    },
+    "545342116": {
+        "anime": "BanG Dream! 2nd Season",
+        "song": "Kyu~mai*flower",
+        "artist": "Pastel*Palettes"
     },
     "545522468": {
         "anime": "Naruto Shippuuden",
@@ -1158,6 +1363,11 @@
         "anime": "Darling in the FranXX",
         "song": "Battle Cry",
         "artist": "Dj L-Spade"
+    },
+    "549376939": {
+        "anime": "Massugu ni Ikou.",
+        "song": "Dorobou",
+        "artist": "aiko"
     },
     "551485899": {
         "anime": "One Piece Film: Red",
@@ -1188,6 +1398,16 @@
         "anime": "Dragon Ball Z: Lord Slug",
         "song": "'Ya' na Koto ni wa Genkidama!!",
         "artist": "Hironobu Kageyama & SHINES"
+    },
+    "559440893": {
+        "anime": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "song": "hand of fate",
+        "artist": "Hazel Fernandes"
+    },
+    "561035403": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+        "song": "TWO BY TWO",
+        "artist": "Yumeha Kouda"
     },
     "563314547": {
         "anime": "Re:Zero: Starting Life in Another World",
@@ -1244,6 +1464,11 @@
         "song": "CLOSER",
         "artist": "Joe Inoue"
     },
+    "588327317": {
+        "anime": "Action Heroine Cheer Fruits",
+        "song": "LOVE DIVE",
+        "artist": "Tokimeki Kanshasai"
+    },
     "588988677": {
         "anime": "Angel Beats!",
         "song": "Ichiban no Takaramono",
@@ -1288,6 +1513,11 @@
         "anime": "Solo Leveling",
         "song": "LEveL",
         "artist": "SawanoHiroyuki[nZk]:TOMORROW X TOGETHER"
+    },
+    "610021924": {
+        "anime": "Ronin Warriors: Message",
+        "song": "Hoshi no Lullaby",
+        "artist": "Kaori Honma"
     },
     "614661786": {
         "anime": "One Piece",
@@ -1349,6 +1579,11 @@
         "song": "Ryuusei",
         "artist": "TiA"
     },
+    "631688152": {
+        "anime": "Hayate the Combat Butler!: Can't Take My Eyes Off You",
+        "song": "Shinen",
+        "artist": "Haruka Yamazaki"
+    },
     "631780366": {
         "anime": "Bleach",
         "song": "After Dark",
@@ -1358,6 +1593,11 @@
         "anime": "Mayo Chiki!",
         "song": "Kimi ni Gohoushi",
         "artist": "Yuka Iguchi, Eri Kitamura, Mariya Ise"
+    },
+    "635565495": {
+        "anime": "Typhoon Noruda",
+        "song": "Arashi no Ato de",
+        "artist": "Galileo Galilei"
     },
     "636179264": {
         "anime": "Detective Conan",
@@ -1388,6 +1628,11 @@
         "anime": "Detective Conan",
         "song": "Meikyuu no Lovers",
         "artist": "heath"
+    },
+    "643465988": {
+        "anime": "Fate/stay night: Heaven's Feel III. Spring Song",
+        "song": "Haru wa Yuku",
+        "artist": "Aimer"
     },
     "649279675": {
         "anime": "Mayo Chiki!",
@@ -1464,15 +1709,30 @@
         "song": "RAISE INSIGHT",
         "artist": "WANDS"
     },
+    "675352600": {
+        "anime": "PriPara",
+        "song": "Panic Labyrinth",
+        "artist": "Reina Ueda"
+    },
     "675884446": {
         "anime": "One Piece Film: Gold",
         "song": "Funky Shiro Suit",
         "artist": "Ray Dorsey"
     },
+    "676930527": {
+        "anime": "Fate/Extra Last Encore",
+        "song": "Tsuki to Hanataba",
+        "artist": "Sayuri"
+    },
     "678500127": {
         "anime": "Grand Blue",
         "song": "Grand Blue",
         "artist": "Shonan no Kaze"
+    },
+    "682110202": {
+        "anime": "Ringing Bell",
+        "song": "Chirin no Suzu",
+        "artist": "The Brothers Four"
     },
     "688691901": {
         "anime": "Detective Conan",
@@ -1508,6 +1768,11 @@
         "anime": "Moonlight Mile 2nd Season: Touch Down",
         "song": "Main Theme",
         "artist": "Kan Sawada"
+    },
+    "709954124": {
+        "anime": "Future Card Buddyfight Battsu",
+        "song": "B.O.F",
+        "artist": "Poppin'Party"
     },
     "710132269": {
         "anime": "Attack on Titan: No Regrets",
@@ -1649,6 +1914,16 @@
         "song": "Kakushinteki☆Metamaruphose!",
         "artist": "Aimi Tanaka"
     },
+    "760423165": {
+        "anime": "Web Ghost PiPoPa",
+        "song": "Get On Up",
+        "artist": "Sugimoto Shimai"
+    },
+    "760439101": {
+        "anime": "The Prince of Tennis: A Gift from Atobe",
+        "song": "DEPARTURES",
+        "artist": "Aozu + Cap to Bin"
+    },
     "762769907": {
         "anime": "The Apothecary Diaries",
         "song": "Hana ni Natte",
@@ -1699,6 +1974,11 @@
         "song": "Aoi Aoi Kono Hoshi ni",
         "artist": "Azumi Uehara"
     },
+    "784895417": {
+        "anime": "Bungo Stray Dogs: Dead Apple",
+        "song": "Nestiio",
+        "artist": "Nahoko Kakiage"
+    },
     "785095116": {
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON -4 BEAT OFF VOCAL VERSION-",
@@ -1728,6 +2008,11 @@
         "anime": "Code Geass: Lelouch of the Rebellion Special Edition 'Black Rebellion'",
         "song": "Hitomi no Tsubasa",
         "artist": "access"
+    },
+    "798603573": {
+        "anime": "Shounan Bakusouzoku",
+        "song": "Seed Of Future",
+        "artist": "Kiyotaka Sugiyama"
     },
     "800750765": {
         "anime": "Boruto: Naruto Next Generations",
@@ -1779,6 +2064,11 @@
         "song": "Beautiful Shock",
         "artist": "Takako Ohta"
     },
+    "812172576": {
+        "anime": "As Miss Beelzebub likes.",
+        "song": "Pink Lemonade",
+        "artist": "Sangatsu no Phantasia"
+    },
     "812656104": {
         "anime": "Tomorrow's Joe 2",
         "song": "MIDNIGHT BLUES",
@@ -1804,6 +2094,11 @@
         "song": "Over The Testament Ver.3",
         "artist": "Metamorphose featuring Aki Misato"
     },
+    "820390211": {
+        "anime": "Fate/kaleid liner Prisma☆Illya",
+        "song": "Prism Sympathy",
+        "artist": "StylipS"
+    },
     "821591622": {
         "anime": "Dragon Ball Z: The History Of Trunks",
         "song": "Ascension",
@@ -1819,10 +2114,20 @@
         "song": "All Hail Britannia!!!",
         "artist": "Hiroki Shimizu, Tomohiro Tani, Hideyuki Aochi"
     },
+    "828243113": {
+        "anime": "Fate/stay night",
+        "song": "Anata ga Ita Mori",
+        "artist": "Jyukai"
+    },
     "828259932": {
         "anime": "Blend-S",
         "song": "Instant Mermaid",
         "artist": "Akari Kitou"
+    },
+    "832369210": {
+        "anime": "Fate/Extra Last Encore: Illustrias Tendousetsu",
+        "song": "Tsuki to Hanataba",
+        "artist": "Sayuri"
     },
     "840483066": {
         "anime": "Bleach",
@@ -1843,6 +2148,11 @@
         "anime": "Bleach",
         "song": "Sakura Biyori",
         "artist": "Mai Hoshimura"
+    },
+    "851433942": {
+        "anime": "The Wings of Rean",
+        "song": "MY FATE",
+        "artist": "ANNA"
     },
     "851448055": {
         "anime": "Code Geass: Lelouch of the Rebellion R2",
@@ -1868,6 +2178,11 @@
         "anime": "Jewelpet Happiness",
         "song": "Run With U",
         "artist": "Fairies"
+    },
+    "860385451": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+        "song": "WHIMSICAL WAYWARD WISH",
+        "artist": "TECHNOBOYS PULCRAFT GREEN-FUND feat. Yumeha Kouda"
     },
     "861478064": {
         "anime": "Attack on Titan",
@@ -1924,10 +2239,20 @@
         "song": "EASY LOVE",
         "artist": "Sumire Uesaka"
     },
+    "878707735": {
+        "anime": "Ikki Tousen in Kyoto",
+        "song": "FATE ~on the way~",
+        "artist": "MAI-AMI"
+    },
     "880752430": {
         "anime": "Detective Conan",
         "song": "Mou Kimi dake o Hanashitari wa Shinai",
         "artist": "Aya Kamiki"
+    },
+    "886116316": {
+        "anime": "Samurai Flamenco",
+        "song": "Flamenco Girls Tonight ~Flamenco Girls no Theme~",
+        "artist": "Mineral★Miracle★Muse"
     },
     "890869905": {
         "anime": "Hey! Bumboo",
@@ -1953,6 +2278,11 @@
         "anime": "Detective Conan",
         "song": "Growing of my heart",
         "artist": "Mai Kuraki"
+    },
+    "916731797": {
+        "anime": "Ranma 1/2: One Grew Over the Kuno's Nest",
+        "song": "Usotsuki",
+        "artist": "Ranma½DoCo"
     },
     "918416735": {
         "anime": "Ya Boy Kongming!",
@@ -2074,6 +2404,11 @@
         "song": "Koi to Bikini to Ame Yohou",
         "artist": "Sayuri Yahagi"
     },
+    "944467505": {
+        "anime": "Fate/kaleid liner Prisma☆Illya",
+        "song": "starlog",
+        "artist": "ChouCho"
+    },
     "944976462": {
         "anime": "Ya Boy Kongming: Road to Summer Sonia",
         "song": "Be Crazy For Me",
@@ -2084,10 +2419,25 @@
         "song": "Number One 2008",
         "artist": "Shiro SAGISU feat. Adam Brown"
     },
+    "946786436": {
+        "anime": "Tamagotchi!",
+        "song": "GO-GO Tamagotchi!",
+        "artist": "Yuko Gibu, Satomi Koorogi, Rie Kugimiya feat. Young Fresh"
+    },
     "947518217": {
         "anime": "That Time I Got Reincarnated as a Slime",
         "song": "Boku no Naka no Kimi e",
         "artist": "TRUE"
+    },
+    "954825248": {
+        "anime": "Fate/stay night: Heaven's Feel I. Presage Flower",
+        "song": "Hana no Uta",
+        "artist": "Aimer"
+    },
+    "955724429": {
+        "anime": "Karin: Chibi Vampire",
+        "song": "Mou Hitotsu no Birthday",
+        "artist": "Fm.θ"
     },
     "957993817": {
         "anime": ".hack//Legend of the Twilight",
@@ -2113,6 +2463,11 @@
         "anime": "Detective Conan",
         "song": "Kimi ga Inai Natsu",
         "artist": "DEEN"
+    },
+    "968220933": {
+        "anime": "Gaist Crusher",
+        "song": "Ex-Dreamer",
+        "artist": "Hiroshi Kitadani"
     },
     "969525436": {
         "anime": "Tokyo Revengers",
@@ -2178,6 +2533,21 @@
         "anime": "Initial D",
         "song": "BURNING UP FOR YOU",
         "artist": "SARA"
+    },
+    "996733373": {
+        "anime": "Fate/stay night: Unlimited Blade Works",
+        "song": "ring your bell (in the silence)",
+        "artist": "Kalafina"
+    },
+    "997080137": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+        "song": "Wishing diary",
+        "artist": "Yumeha Kouda"
+    },
+    "997113843": {
+        "anime": "Shuffle! Memories",
+        "song": "Fateful Encounters",
+        "artist": "YURIA"
     },
     "998621516": {
         "anime": "Bleach",
@@ -2304,10 +2674,20 @@
         "song": "Lullaby of M",
         "artist": "Hitomi"
     },
+    "1058866280": {
+        "anime": "Lostorage Incited WIXOSS",
+        "song": "I'll stay here",
+        "artist": "fatern"
+    },
     "1060093594": {
         "anime": "Dragon Ball GT",
         "song": "Blue Velvet",
         "artist": "Shizuka Kudo"
+    },
+    "1061926105": {
+        "anime": "We Never Learn!: BOKUBEN Season 2",
+        "song": "Kankei≧Houteishiki",
+        "artist": "Study"
     },
     "1064979569": {
         "anime": "Attack on Titan Final Season",
@@ -2323,6 +2703,11 @@
         "anime": "Godannar",
         "song": "ENGAGE!!! Godannar",
         "artist": "Mitsuko Horie & Ichiro Mizuki"
+    },
+    "1076499087": {
+        "anime": "Rental Magica",
+        "song": "Aruite Ikou. (Acapella Version)",
+        "artist": "Jungo Yoshida"
     },
     "1077748002": {
         "anime": "Death Note",
@@ -2354,6 +2739,16 @@
         "song": "Silver Moon",
         "artist": "Do As Infinity"
     },
+    "1085430985": {
+        "anime": "Fate/stay night TV Reproduction",
+        "song": "disillusion -2010-",
+        "artist": "Sachi Tainaka"
+    },
+    "1085836374": {
+        "anime": "Machikado no Märchen",
+        "song": "Lonely Roller",
+        "artist": "Virgin VS"
+    },
     "1086086646": {
         "anime": "Demon Slayer: Kimetsu no Yaiba",
         "song": "Gurenge",
@@ -2383,6 +2778,11 @@
         "anime": "A Certain Scientific Accelerator",
         "song": "Shadow is the Light",
         "artist": "THE SIXTH LIE"
+    },
+    "1094723780": {
+        "anime": "Fate/strange Fake: Whispers of Dawn",
+        "song": "FAKEit",
+        "artist": "SawanoHiroyuki[nZk]:Laco"
     },
     "1097512219": {
         "anime": "Motto To LOVE-Ru",
@@ -2429,6 +2829,11 @@
         "song": "Toumei Datta Sekai",
         "artist": "Motohiro Hata"
     },
+    "1110404711": {
+        "anime": "Yuri!!! on Ice",
+        "song": "A Tales of Sleeping Prince",
+        "artist": "Tarou Umebayashi feat. AISHA"
+    },
     "1114546583": {
         "anime": "One Piece",
         "song": "Mugiwara no Jolly Roger",
@@ -2468,6 +2873,11 @@
         "anime": "Code Geass: Lelouch of the Rebellion R2",
         "song": "Waga Routashi Aku no Hana",
         "artist": "ALI PROJECT"
+    },
+    "1133611312": {
+        "anime": "Gekijouban PriPara: Mi~nna Atsumare! Prism☆Tours",
+        "song": "GoGo! PriParaife",
+        "artist": "SoLaMi♡SMILE"
     },
     "1135871655": {
         "anime": "Dimension W",
@@ -2514,6 +2924,11 @@
         "song": "My dream girls",
         "artist": "NACHERRY"
     },
+    "1148510382": {
+        "anime": "Fate/stay night",
+        "song": "Kirameku Namida wa Hoshi ni",
+        "artist": "Sachi Tainaka"
+    },
     "1149637621": {
         "anime": "Attack on Titan Final Season: The Final Chapters",
         "song": "theDOGS",
@@ -2523,6 +2938,21 @@
         "anime": "Detective Conan",
         "song": "Kimi to Koi no Mama de Owarenai Itsumo Yume no Mama ja Irarenai",
         "artist": "Mai Kuraki"
+    },
+    "1152973694": {
+        "anime": "Luck & Logic",
+        "song": "STORY",
+        "artist": "Kensho Ono"
+    },
+    "1153276818": {
+        "anime": "The Ultraman",
+        "song": "The Ultraman",
+        "artist": "Isao Sasaki"
+    },
+    "1154532224": {
+        "anime": "Re:Creators",
+        "song": "oldToday",
+        "artist": "SawanoHiroyuki[nZk]:mizuki"
     },
     "1158717142": {
         "anime": "Code Geass: Lelouch of the Rebellion R2",
@@ -2573,6 +3003,11 @@
         "anime": "Dragon Ball Z",
         "song": "Shura-iro no Senshi",
         "artist": "Kouji Kaya"
+    },
+    "1180822727": {
+        "anime": "Fate/stay night: Unlimited Blade Works",
+        "song": "LAST STARDUST",
+        "artist": "Aimer"
     },
     "1180910382": {
         "anime": "Detective Conan",
@@ -2634,6 +3069,11 @@
         "song": "First Time",
         "artist": "Finger Eleven"
     },
+    "1203888550": {
+        "anime": "Marmalade Boy",
+        "song": "Kyou no Owari ni",
+        "artist": "Mariko Kouda"
+    },
     "1204160134": {
         "anime": "Tsukiuta. The Animation 2",
         "song": "Paint It Black",
@@ -2654,6 +3094,11 @@
         "song": "Zankoku na Tenshi no Thesis",
         "artist": "Yoko Takahashi"
     },
+    "1215291273": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 2wei!",
+        "song": "TWO BY TWO",
+        "artist": "Yumeha Kouda"
+    },
     "1216065820": {
         "anime": "Build-Divide: #000000 (Code Black)",
         "song": "BANG!!!",
@@ -2669,10 +3114,20 @@
         "song": "Kodou no Kanata",
         "artist": "Milky Holmes"
     },
+    "1225180340": {
+        "anime": "Fate/stay night: Heaven's Feel II. Lost Butterfly",
+        "song": "I beg you",
+        "artist": "Aimer"
+    },
     "1226528483": {
         "anime": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
         "song": "Hey World",
         "artist": "Yuka Iguchi"
+    },
+    "1226798753": {
+        "anime": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+        "song": "Kaleido☆Festival!",
+        "artist": "Homurahara Gakuen Shoutoubu no Minna"
     },
     "1227454584": {
         "anime": "Sakura Trick",
@@ -2749,6 +3204,11 @@
         "song": "Call your name <Gv>",
         "artist": "Gemie"
     },
+    "1251625925": {
+        "anime": "Keitai Shoujo",
+        "song": "Mirai Angel",
+        "artist": "Ami Koshimizu, Rina Satou, Mikako Takahashi, Kana Ueda, Kaori Nazuka"
+    },
     "1252093323": {
         "anime": "High Card",
         "song": "Showdown",
@@ -2794,6 +3254,16 @@
         "song": "Silent Solitude",
         "artist": "OxT"
     },
+    "1263296161": {
+        "anime": "Aikatsu Stars!",
+        "song": "Start Line!",
+        "artist": "Ruka from AIKATSU☆STARS!"
+    },
+    "1263937441": {
+        "anime": "L/R: Licensed by Royalty",
+        "song": "Five-eights",
+        "artist": "Sumitada Azumano"
+    },
     "1264014390": {
         "anime": "The Last: Naruto the Movie",
         "song": "Hoshi no Utsuwa",
@@ -2803,6 +3273,16 @@
         "anime": "Kaguya-sama: Love Is War - The First Kiss That Never Ends",
         "song": "Love is Show",
         "artist": "Masayuki Suzuki feat. Reni Takagi"
+    },
+    "1266404679": {
+        "anime": "My Teen Romantic Comedy SNAFU TOO!",
+        "song": "Yukitoki",
+        "artist": "Nagi Yanagi"
+    },
+    "1266926161": {
+        "anime": "Curious Play",
+        "song": "Itooshii Hito no Tame ni",
+        "artist": "Akemi Satou"
     },
     "1270860616": {
         "anime": ".hack//Gift",
@@ -2884,6 +3364,16 @@
         "song": "Mata ne",
         "artist": "Humbreaders"
     },
+    "1311074455": {
+        "anime": "Fate/stay night",
+        "song": "Kimi to no Ashita",
+        "artist": "Sachi Tainaka"
+    },
+    "1311927255": {
+        "anime": "Ensemble Stars!",
+        "song": "Temptation Magic",
+        "artist": "Switch"
+    },
     "1314229779": {
         "anime": "Little Witch Academia: The Enchanted Parade",
         "song": "Magic Parade",
@@ -2923,6 +3413,11 @@
         "anime": "A Certain Scientific Railgun S",
         "song": "Infinia",
         "artist": "Sachika Misawa"
+    },
+    "1336628928": {
+        "anime": "Gekijouban gdgd Fairies tte Iu Eiga wa Dou kana...?",
+        "song": "DenDen Passion",
+        "artist": "Dempagumi.inc"
     },
     "1338097087": {
         "anime": "91 Days",
@@ -2964,6 +3459,11 @@
         "song": "Senya Ichiya",
         "artist": "See-Saw"
     },
+    "1351764102": {
+        "anime": "Saint Young Men",
+        "song": "Dare mo Inai ne",
+        "artist": "Keiichi Suzuki & Ryoumei Shirai"
+    },
     "1354465161": {
         "anime": "Detective Conan: Dimensional Sniper",
         "song": "Love Searchlight",
@@ -2973,6 +3473,11 @@
         "anime": "The Irregular at Magic High School",
         "song": "Fraud",
         "artist": "IGOR"
+    },
+    "1361811679": {
+        "anime": "Pokémon: Mewtwo Returns",
+        "song": "Boku no Best Friend e",
+        "artist": "Hiromi Iwasaki"
     },
     "1365916928": {
         "anime": ".hack//Sign",
@@ -2994,6 +3499,11 @@
         "song": "Obsession",
         "artist": "See-Saw"
     },
+    "1370245077": {
+        "anime": "Aikatsu on Parade!",
+        "song": "In bloom",
+        "artist": "Ayane・Ruka・Rie/Karen from BEST FRIENDS!"
+    },
     "1371830019": {
         "anime": "One Piece: Heart of Gold",
         "song": "Destiny",
@@ -3008,6 +3518,11 @@
         "anime": "Super Dragon Ball Heroes",
         "song": "Big Bang Mission Series Theme Song",
         "artist": "Dragon Soul"
+    },
+    "1376038466": {
+        "anime": "Fate/stay night: Unlimited Blade Works",
+        "song": "believe",
+        "artist": "Kalafina"
     },
     "1379453060": {
         "anime": "Detective Conan",
@@ -3063,6 +3578,11 @@
         "anime": "Attack on Titan Season 2",
         "song": "Call of Silence",
         "artist": "Gemie"
+    },
+    "1396667768": {
+        "anime": "Fate/kaleid liner Prisma☆Illya",
+        "song": "Prism Sympathy",
+        "artist": "StylipS"
     },
     "1397529659": {
         "anime": "A Certain Magical Index the Movie: The Miracle of Endymion",
@@ -3159,6 +3679,16 @@
         "song": "'Z' no Chikai",
         "artist": "Momoiro Clover Z"
     },
+    "1436504618": {
+        "anime": "Happy☆Lesson",
+        "song": "Tsukiyo no Ban ni Ocha Shimashou",
+        "artist": "Kikuko Inoue"
+    },
+    "1437188368": {
+        "anime": "Fate/stay night: Unlimited Blade Works",
+        "song": "Fukaki Nemuri UBW Extended",
+        "artist": "Hideyuki Fukasawa"
+    },
     "1437344541": {
         "anime": "Naruto the Movie: Legend of the Stone of Gelel",
         "song": "Ding! Dong! Dang!",
@@ -3199,6 +3729,11 @@
         "song": "Might⁺U",
         "artist": "Makayla Phillips"
     },
+    "1460593161": {
+        "anime": "Ensemble Stars!",
+        "song": "Love Ra*bits Party!!",
+        "artist": "Ra*bits"
+    },
     "1463356398": {
         "anime": "One Piece Episode of East Blue: Luffy to 4-nin no Nakama no Daibouken",
         "song": "We Are!",
@@ -3234,10 +3769,20 @@
         "song": "NON SUGAR LIFE",
         "artist": "Haruhiko Jo"
     },
+    "1477417069": {
+        "anime": "Super Dimensional Fortress Macross II: The Movie",
+        "song": "Ima wa Tomodachi",
+        "artist": "Yukiyo Satou"
+    },
     "1477636506": {
         "anime": "Dragon Ball: Curse of the Blood Rubies",
         "song": "Romantic Ageru yo",
         "artist": "Ushio Hashimoto"
+    },
+    "1480194845": {
+        "anime": "Senki Zesshou Symphogear XV",
+        "song": "Mikansei Love Mapputatsu!",
+        "artist": "Ai Kayano"
     },
     "1481926858": {
         "anime": "Demon Slayer: Kimetsu no Yaiba",
@@ -3284,6 +3829,11 @@
         "song": "I'm a Believer",
         "artist": "SPYAIR"
     },
+    "1499990933": {
+        "anime": "Little Busters! EX",
+        "song": "Little Busters! EX",
+        "artist": "Rita"
+    },
     "1505095996": {
         "anime": "Urusei Yatsura",
         "song": "I, I, You & Ai",
@@ -3309,6 +3859,11 @@
         "song": "Dream First Sensation!",
         "artist": "Yui Watanabe"
     },
+    "1510796489": {
+        "anime": "Fate/stay night",
+        "song": "Hikari",
+        "artist": "Jyukai"
+    },
     "1512715777": {
         "anime": "Fighting Beauty Wulong",
         "song": "TANGO",
@@ -3328,6 +3883,11 @@
         "anime": "Hayate the Combat Butler! Cuties",
         "song": "Yoki Shoujo no Tame no Pavane",
         "artist": "Haruka Yamazaki"
+    },
+    "1517298430": {
+        "anime": "Machikado no Märchen",
+        "song": "Department Store",
+        "artist": "Virgin VS"
     },
     "1520646909": {
         "anime": "Charlotte",
@@ -3364,6 +3924,16 @@
         "song": "A Walk",
         "artist": "Gakuto Kajiwara"
     },
+    "1535651982": {
+        "anime": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+        "song": "Prover",
+        "artist": "milet"
+    },
+    "1536855031": {
+        "anime": "Welcome to the Ballroom",
+        "song": "Rise & Fall",
+        "artist": "Elizabeth Elias"
+    },
     "1538542162": {
         "anime": ".hack//The Movie",
         "song": "Link",
@@ -3379,6 +3949,11 @@
         "song": "Binks no Sake",
         "artist": "Mugiwara no Ichimi"
     },
+    "1540150124": {
+        "anime": "Appleseed Alpha",
+        "song": "Tokyo City Underground",
+        "artist": "PASSEPIED"
+    },
     "1540174276": {
         "anime": "Naruto Shippuuden",
         "song": "Michi ~to you all",
@@ -3388,6 +3963,11 @@
         "anime": "Ranma 1/2",
         "song": "Do・N・Ma・I Rairai Shounen ~Don't mind lay-lay Boy~",
         "artist": "Etsuko Nishio"
+    },
+    "1541336326": {
+        "anime": "Fight League: Gear Gadget Generators",
+        "song": "N.U.L.L. (Ver.GGG)",
+        "artist": "TeddyLoid feat. kradness"
     },
     "1541339151": {
         "anime": "D.N.Angel",
@@ -3609,6 +4189,11 @@
         "song": "Houkiboshi",
         "artist": "Younha"
     },
+    "1628246109": {
+        "anime": "Tentai Senshi Sunred",
+        "song": "FamiRes Taiyouzoku",
+        "artist": "manzo"
+    },
     "1632920723": {
         "anime": "Mushoku Tensei: Jobless Reincarnation Season 2",
         "song": "spiral",
@@ -3653,6 +4238,11 @@
         "anime": "My Hero Academia",
         "song": "Update",
         "artist": "miwa"
+    },
+    "1661035725": {
+        "anime": "Afro Samurai: Resurrection",
+        "song": "BLOODY SAMURAI",
+        "artist": "BLACK KNIGHTS, DEXTER WIGGLES & THEA VAN SEIJEN"
     },
     "1661534419": {
         "anime": "Boruto: Naruto Next Generations",
@@ -3744,6 +4334,11 @@
         "song": "BACK IN BLACK",
         "artist": "BOOM BOOM SATELLITES"
     },
+    "1696633158": {
+        "anime": "Wakusei Robo Danguard Ace",
+        "song": "Tan Tan Tamaga",
+        "artist": "Kousei Tomita & Chika Yahagi"
+    },
     "1696653657": {
         "anime": "Initial D",
         "song": "around the world",
@@ -3768,6 +4363,11 @@
         "anime": "Granblue Fantasy the Animation Season 2",
         "song": "Ao",
         "artist": "adieu"
+    },
+    "1707048498": {
+        "anime": "Mewkledreamy",
+        "song": "Yume no Hana",
+        "artist": "Ichigo Gakuen Gasshou-bu no Minasan"
     },
     "1709053599": {
         "anime": "Ranma 1/2",
@@ -3828,6 +4428,11 @@
         "anime": "Heaven's Lost Property: Forte",
         "song": "Odoriko",
         "artist": "Saori Hayami & Ayahi Takagaki"
+    },
+    "1754704750": {
+        "anime": "Star Driver the Movie",
+        "song": "Komorebi no Contact ~ version de l'apprivoiser",
+        "artist": "Saori Hayami"
     },
     "1756037975": {
         "anime": "Bleach",
@@ -3894,6 +4499,16 @@
         "song": "Wasurezaki",
         "artist": "GARNET CROW"
     },
+    "1785351873": {
+        "anime": "Nyaruko: Crawling with Love! W",
+        "song": "Blast of Fate ~Kaze no Yukue~",
+        "artist": "Ushiro kara Haiyori-tai B"
+    },
+    "1785595634": {
+        "anime": "Persona 3 the Movie: #2 Midsummer Knight's Dream",
+        "song": "Fate is In Our Hands",
+        "artist": "Lotus Juice"
+    },
     "1790440144": {
         "anime": "Attack on Titan: Crimson Arrows",
         "song": "Vogel im Käfig",
@@ -3908,6 +4523,16 @@
         "anime": "Arifureta: From Commonplace to World's Strongest",
         "song": "FLARE",
         "artist": "Void_Chords feat. LIO"
+    },
+    "1795694624": {
+        "anime": "Princess Lover!",
+        "song": "Princess Lover!",
+        "artist": "Miyuki Hashimoto"
+    },
+    "1797095270": {
+        "anime": "Kakyuusei 2",
+        "song": "Kokoro no Kakera",
+        "artist": "Ryouko Tanaka"
     },
     "1802529196": {
         "anime": "Dragon Ball Z",
@@ -4089,6 +4714,11 @@
         "song": "I Can Hear",
         "artist": "DISH//"
     },
+    "1881320914": {
+        "anime": "Fate/Extra Last Encore",
+        "song": "Bright Burning Shout",
+        "artist": "Takanori Nishikawa"
+    },
     "1885730230": {
         "anime": "Attack on Titan Season 3",
         "song": "Akatsuki no Requiem",
@@ -4119,6 +4749,11 @@
         "song": "Meteor Mission Series Theme Song",
         "artist": "Dragon Soul"
     },
+    "1896625565": {
+        "anime": "Fate/Grand Carnival",
+        "song": "Super☆Affection",
+        "artist": "Rie Takahashi, Minami Tanaka, Rumi Ookubo, Aoi Yuuki, Nao Touyama, Ayane Sakura, Saori Hayami, Ayako Kawasumi, Kana Ueda, Sakura Tange, Mai Kadowaki"
+    },
     "1897456372": {
         "anime": "Jack and the Beanstalk",
         "song": "Omae wa Minikui",
@@ -4144,6 +4779,11 @@
         "song": "Don't say \"lazy\"",
         "artist": "Sakurakou K-On-bu"
     },
+    "1905610604": {
+        "anime": "Sakura Wars the Animation",
+        "song": "Itetsuku Tamashii",
+        "artist": "Ayane Sakura, Ayaka Fukuhara"
+    },
     "1907630972": {
         "anime": "Kaguya-sama: Love is War - Ultra Romantic",
         "song": "My Nonfiction",
@@ -4154,10 +4794,20 @@
         "song": "On the Frontline",
         "artist": "hitorie"
     },
+    "1907851559": {
+        "anime": "Cyber Team in Akihabara",
+        "song": "Taiyou no Hana ~Classic version~",
+        "artist": "Masami Okui"
+    },
     "1907897015": {
         "anime": "Dragon Ball Z: Cooler's Revenge",
         "song": "The Game",
         "artist": "Disturbed"
+    },
+    "1907926768": {
+        "anime": "All Purpose Cultural Cat Girl Nuku Nuku",
+        "song": "MIN MIN MISHIMA",
+        "artist": "Tokyo Konsei Gasshou-dan"
     },
     "1913951698": {
         "anime": "A Certain Magical Index",
@@ -4194,10 +4844,20 @@
         "song": "BRAND NEW WORLD",
         "artist": "D-51"
     },
+    "1935372734": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+        "song": "moving soul",
+        "artist": "Minami Kuribayashi"
+    },
     "1937147174": {
         "anime": "My Wife is the Student Council President+!",
         "song": "Kirakira☆Explorer",
         "artist": "Rekka Katakiri"
+    },
+    "1938483586": {
+        "anime": "Idol Angel Welcome Yoko",
+        "song": "Yuuhi no Crescendo",
+        "artist": "Mika Kanai"
     },
     "1938577287": {
         "anime": "Sword Art Online: Alicization",
@@ -4259,15 +4919,30 @@
         "song": "-",
         "artist": "-"
     },
+    "1960717658": {
+        "anime": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
+        "song": "Shiroi Fuukei",
+        "artist": "ARTERY VEIN"
+    },
     "1961297407": {
         "anime": "Kill la Kill",
         "song": "Before my body is dry",
         "artist": "Mika Kobayashi & David Whitaker"
     },
+    "1961383229": {
+        "anime": "Meow Meow Japanese History",
+        "song": "Hello Again",
+        "artist": "Diana Garnet"
+    },
     "1966539145": {
         "anime": "Blood Lad",
         "song": "BLOODY HOLIC",
         "artist": "Yuuka Nanri"
+    },
+    "1967488025": {
+        "anime": "Fate/kaleid liner Prisma☆Illya",
+        "song": "Tsunagu Kizuna Tsutsumu Kodoku",
+        "artist": "StylipS"
     },
     "1968667171": {
         "anime": "Detective Conan: The Fist of Blue Sapphire",
@@ -4419,6 +5094,11 @@
         "song": "Trip -innocent of D-",
         "artist": "Larval Stage Planning"
     },
+    "2020258524": {
+        "anime": "UFO Ultramaiden Valkyrie",
+        "song": "PASSION",
+        "artist": "Saeko Chiba"
+    },
     "2020420276": {
         "anime": "Code Geass: Lelouch of the Rebellion Remake Movies",
         "song": "Mosaic Kakera",
@@ -4504,6 +5184,11 @@
         "song": "Manatsu no Tobira",
         "artist": "GLAY"
     },
+    "2053267358": {
+        "anime": "Pokémon: Diamond and Pearl",
+        "song": "Maemuki Rocket-dan!",
+        "artist": "Rocket-dan"
+    },
     "2054851538": {
         "anime": "Naruto Shippuuden",
         "song": "Yume o Daite ~Hajimari no Crissroad~",
@@ -4528,6 +5213,11 @@
         "anime": "Re:Zero: Starting Life in Another World",
         "song": "Memento",
         "artist": "nonoc"
+    },
+    "2070089290": {
+        "anime": "Heavy Object",
+        "song": "Never Gave Up",
+        "artist": "ALL OFF"
     },
     "2076105609": {
         "anime": "Naruto Shippuuden: Shippuu! \"Konoha Gakuen\" Den",
@@ -4559,6 +5249,16 @@
         "song": "Hikaru Nara",
         "artist": "Goose house"
     },
+    "2093148345": {
+        "anime": "Moonlight Mile",
+        "song": "Main Theme",
+        "artist": "Kan Sawada"
+    },
+    "2093279702": {
+        "anime": "R-15",
+        "song": "Maji Yaba Mousou Otsu",
+        "artist": "R-15 Otsu"
+    },
     "2095119431": {
         "anime": "Detective Conan",
         "song": "always",
@@ -4589,10 +5289,20 @@
         "song": "Bling-Bang-Bang-Born",
         "artist": "Creepy Nuts"
     },
+    "2109869853": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 2wei!",
+        "song": "TWO BY TWO",
+        "artist": "Yumeha Kouda"
+    },
     "2112059201": {
         "anime": "My First Girlfriend is a Gal",
         "song": "Hajimete no SEASON",
         "artist": "Junjou no Afilia"
+    },
+    "2115708961": {
+        "anime": "Hakkenden: Eight Dogs of the East",
+        "song": "God FATE",
+        "artist": "Faylan"
     },
     "2116408277": {
         "anime": "Boruto: Naruto Next Generations",
@@ -4639,6 +5349,11 @@
         "song": "Credens justitiam",
         "artist": "Eri Itou"
     },
+    "2132411446": {
+        "anime": "Legendary Idol Eriko",
+        "song": "Rolling Night",
+        "artist": "Maiko Hashimoto & Masahiko Arimachi"
+    },
     "2134793887": {
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON",
@@ -4648,6 +5363,11 @@
         "anime": "Naruto Shippuuden: The Burning Chuunin Exam! Naruto vs. Konohamaru!!",
         "song": "Future Eve",
         "artist": "OKAMOTO'S"
+    },
+    "2134947808": {
+        "anime": "Initial D: Second Stage",
+        "song": "MIKADO",
+        "artist": "DAVE MC LOUD"
     },
     "2137124984": {
         "anime": "Detective Conan",
@@ -9118,5 +9838,675 @@
         "anime": "Mewkledreamy",
         "song": "Rock! Rock! Rock!",
         "artist": "Rock, Pebble & Stones"
+    },
+    "-434929136": {
+        "anime": "Brain Powered",
+        "song": "Ai no Field",
+        "artist": "KOKIA"
+    },
+    "-1366473735": {
+        "anime": "Fullmetal Alchemist",
+        "song": "Tobira no Mukou e",
+        "artist": "YeLLOW Generation"
+    },
+    "-28365563": {
+        "anime": "BECK: Mongolian Chop Squad",
+        "song": "HIT IN THE USA",
+        "artist": "BEAT CRUSADERS"
+    },
+    "-1765567730": {
+        "anime": "Lamune",
+        "song": "Lamune-iro no Melody",
+        "artist": "Mayu"
+    },
+    "-382480739": {
+        "anime": "Hana no Asuka-gumi!",
+        "song": "Ichiban Gai no Lonely",
+        "artist": "Jun Hiroe"
+    },
+    "-2099604848": {
+        "anime": "Michiko & Hatchin",
+        "song": "Posto de gasolina",
+        "artist": "Moreno Veloso"
+    },
+    "-37514380": {
+        "anime": "Zan Sayonara Zetsubou Sensei",
+        "song": "Zetsubou Sensei Ekaki Uta",
+        "artist": "Yui Horie, Michiko Neya"
+    },
+    "-2121347589": {
+        "anime": "Zan Sayonara Zetsubou Sensei",
+        "song": "Zetsubou Sensei Ekaki Uta",
+        "artist": "Yuu Kobayashi, Yuuko Gotou"
+    },
+    "-380576603": {
+        "anime": "Nura: Rise of the Yokai Clan",
+        "song": "Brilliant☆Message",
+        "artist": "Katate☆SIZE"
+    },
+    "-1813288637": {
+        "anime": "Toriko",
+        "song": "LOVE CHASE",
+        "artist": "Tomohisa Yamashita"
+    },
+    "-1847477581": {
+        "anime": "Aikatsu!",
+        "song": "Calendar Girl",
+        "artist": "Waka・Fuuri・Sunao from STAR☆ANIS"
+    },
+    "-926976071": {
+        "anime": "Nobunagun",
+        "song": "Chiisana Hoshi ver. β",
+        "artist": "Shiori Muto, Yuu Asakawa, Sumire Uesaka, Ayumu Murase"
+    },
+    "-589656239": {
+        "anime": "Pupipo!",
+        "song": "Rinne Tenshou no Izumi M-16-2B",
+        "artist": "Hideharu Mori"
+    },
+    "-348673042": {
+        "anime": "Donyatsu",
+        "song": "NOVA Revolution",
+        "artist": "StylipS"
+    },
+    "-1543636144": {
+        "anime": "The World Is Still Beautiful",
+        "song": "Amefurashi no Uta~Beautiful Rain~",
+        "artist": "Rena Maeda"
+    },
+    "-1917391922": {
+        "anime": "Samurai Jam: Bakumatsu Rock",
+        "song": "INTERSECT (Heavens Song ver.)",
+        "artist": "Toshiyuki Morikawa & Kensho Ono"
+    },
+    "-1617481055": {
+        "anime": "If My Favorite Pop Idol Made It to the Budokan, I Would Die",
+        "song": "Zutto ChamJam",
+        "artist": "ChamJam"
+    },
+    "-474941228": {
+        "anime": "MSonic! D'Artagnyan's Rise to Fame",
+        "song": "Zenryoku Idol Sengen♡",
+        "artist": "Kaede Hondo, Kaori Ishihara, Azumi Waki, Minami Shinoda"
+    },
+    "-400784530": {
+        "anime": "Gakkou no Kaidan",
+        "song": "Sugu Soba ni ~another world~",
+        "artist": "Takahashi Lisa"
+    },
+    "-65842133": {
+        "anime": "Our Last Crusade or the Rise of a New World",
+        "song": "Against.",
+        "artist": "Kaori Ishihara"
+    },
+    "-1239729602": {
+        "anime": "Area 88",
+        "song": "LOVERS' HOLIDAY",
+        "artist": "Darek Jackson"
+    },
+    "-1238635455": {
+        "anime": "Lupin III: Part II",
+        "song": "Roukyoku Komoriuta",
+        "artist": "Hitofushi Tarou"
+    },
+    "-839210381": {
+        "anime": "Ghost Sweeper Mikami",
+        "song": "GHOST SWEEPER",
+        "artist": "Chie Harada"
+    },
+    "-512762492": {
+        "anime": "Pikachu's Rescue Adventure",
+        "song": "Comin' To The Rescue",
+        "artist": "O-Town"
+    },
+    "-675631651": {
+        "anime": "Paradise Kiss",
+        "song": "Star Luster",
+        "artist": "THE BABYS"
+    },
+    "-918656270": {
+        "anime": "Angel Heart",
+        "song": "Angel tears",
+        "artist": "Tohko"
+    },
+    "-978846689": {
+        "anime": "Les Misérables: Shoujo Cosette",
+        "song": "ma maman(Watashi no Okaa-san)",
+        "artist": "Yuki Saito"
+    },
+    "-1201818207": {
+        "anime": "The Prince of Tennis: The National Tournament Semifinals",
+        "song": "Thank you!!",
+        "artist": "Cap to Bin"
+    },
+    "-38024047": {
+        "anime": "Soreike! Anpanman: Dokin-chan no Dokidoki Calendar",
+        "song": "Anpanman Taisou",
+        "artist": "CHA-CHA"
+    },
+    "-1183316120": {
+        "anime": "Antique Bakery",
+        "song": "Life goes on ~side K~",
+        "artist": "CHEMISTRY"
+    },
+    "-1895591790": {
+        "anime": "Winter Sonata",
+        "song": "Saisho kara Ima made",
+        "artist": "RYU"
+    },
+    "-357064244": {
+        "anime": "High School of the Dead",
+        "song": "The place of hope",
+        "artist": "Maon Kurosaki"
+    },
+    "-1419036713": {
+        "anime": "SKET Dance",
+        "song": "Sekai wa Okujou de Miwataseta",
+        "artist": "SKET×Sketch"
+    },
+    "-90442288": {
+        "anime": "Maken-Ki! Battling Venus",
+        "song": "Baby! Baby!",
+        "artist": "Sayuri Yahagi & Misuzu Togashi"
+    },
+    "-1880476402": {
+        "anime": "Infinite Stratos 2",
+        "song": "BEAUTIFUL SKY",
+        "artist": "Yoko Hikasa, Yukana, Asami Shimoda, Kana Hanazawa, Marina Inoue, Suzuko Mimori, Chiwa Saito"
+    },
+    "-621096320": {
+        "anime": "Nisekoi",
+        "song": "Souzou Diary",
+        "artist": "Nao Touyama, Kana Hanazawa, Mikako Komatsu, Kana Asumi"
+    },
+    "-975505773": {
+        "anime": "Aikatsu!",
+        "song": "Otona Mode",
+        "artist": "Risuko・Mona from STAR☆ANIS"
+    },
+    "-2026848113": {
+        "anime": "Ace of the Diamond Second Season",
+        "song": "Perfect HERO",
+        "artist": "Tom-H@ck featuring Masayoshi Ooishi"
+    },
+    "-1243753976": {
+        "anime": "Eiga Precure All Stars: Minna de Utau♪ Kiseki no Mahou!",
+        "song": "Kangaete Mite",
+        "artist": "Rie Takahashi・Yui Horie・Seiko Niizuma"
+    },
+    "-36868387": {
+        "anime": "Tiger Mask W",
+        "song": "KING OF THE WILD",
+        "artist": "Shonan no Kaze"
+    },
+    "-1130262881": {
+        "anime": "Mewkledreamy",
+        "song": "Tokimeki Collector",
+        "artist": "Maria Sawada"
+    },
+    "-21650853": {
+        "anime": "Obsolete",
+        "song": "ORB-SOLUTION #2 confusion",
+        "artist": "TECHNOBOYS PULCRAFT GREEN-FUND"
+    },
+    "-779699257": {
+        "anime": "Shaman King",
+        "song": "BOB LOVE",
+        "artist": "BOB"
+    },
+    "-1585961198": {
+        "anime": "Nadia: The Secret of Blue Water",
+        "song": "Ai no Sannin-gumi",
+        "artist": "Kumiko Takizawa, Kenyuu Horiuchi, Toshiharu Sakurai"
+    },
+    "-450051444": {
+        "anime": "Project A-Ko",
+        "song": "Follow your Dream",
+        "artist": "VALERIE STEVENSON"
+    },
+    "-1049984826": {
+        "anime": "City Hunter",
+        "song": "FOOT STEPS",
+        "artist": "Momoko Kitadai"
+    },
+    "-395963933": {
+        "anime": "Fables of the Green Forest",
+        "song": "Haraheri no Tango",
+        "artist": "Micchi to Chatterers"
+    },
+    "-629523687": {
+        "anime": "Cat's Eye",
+        "song": "Monroe Walk",
+        "artist": "Yoshitaka Minami"
+    },
+    "-1815914682": {
+        "anime": "Wee Wendy",
+        "song": "Memole no Asobi Uta",
+        "artist": "Satoko Yamano, Naoko Watanabe, Kazuko Sawada"
+    },
+    "-1399528145": {
+        "anime": "Great Mazinger",
+        "song": "Great Mazinger",
+        "artist": "Ichiro Mizuki & Columbia Yurikago-kai"
+    },
+    "-2034640915": {
+        "anime": "Tsuide ni Tonchinkan",
+        "song": "Mugiwara de Dance",
+        "artist": "Akiko Ikuina"
+    },
+    "-1347218649": {
+        "anime": "Absolute Boy",
+        "song": "Kitty",
+        "artist": "Kenichi Suzumura"
+    },
+    "-288053847": {
+        "anime": "Angel Heart",
+        "song": "More Than You Know",
+        "artist": "TOKU"
+    },
+    "-146034469": {
+        "anime": "Kirarin☆Revolution",
+        "song": "Ramutara",
+        "artist": "Koharu Kusumi"
+    },
+    "-662813639": {
+        "anime": "Tweeny Witches The Adventures",
+        "song": "Arusu ~Main Theme~",
+        "artist": "Tamiya Terashima (Rentrak Japan)"
+    },
+    "-673497780": {
+        "anime": "Shugo Chara!! Doki",
+        "song": "Taiyou ga Niau yo",
+        "artist": "Nana Mizuki"
+    },
+    "-824907011": {
+        "anime": "Robot Girls Z",
+        "song": "Chika Teikoku Sanka♡",
+        "artist": "Hibiku Yamamura"
+    },
+    "-766694787": {
+        "anime": "Chou Bakuretsu Ijigen Menko Battle Gigant Shooter Tsukasa",
+        "song": "Gigant Shooter Dacchuu no!",
+        "artist": "Psychic Lover"
+    },
+    "-1746199594": {
+        "anime": "Cross Ange: Rondo of Angel and Dragon",
+        "song": "Sekai no Chouritsu-sha",
+        "artist": "Taiki Shima"
+    },
+    "-524886354": {
+        "anime": "Gintama°",
+        "song": "DESTINY",
+        "artist": "NEGOTO"
+    },
+    "-426887926": {
+        "anime": "Wooser's Hand-to-Mouth Life: Phantasmagoric Arc",
+        "song": "Love Me Gimme",
+        "artist": "Tia"
+    },
+    "-632761636": {
+        "anime": "Aria the Avvenire",
+        "song": "Euphoria",
+        "artist": "Yui Makino"
+    },
+    "-1549411595": {
+        "anime": "Drifters",
+        "song": "Rurou no Zakuro",
+        "artist": "Yasushi Ishii"
+    },
+    "-1215045345": {
+        "anime": "Hand Shakers",
+        "song": "Koichu Letter No.1",
+        "artist": "Mikako Komatsu"
+    },
+    "-1331722304": {
+        "anime": "Kiteretsu Daihyakka",
+        "song": "Korosuke ROCK",
+        "artist": "Junko Uchida"
+    },
+    "-885790325": {
+        "anime": "Legend of Himiko",
+        "song": "PURE SNOW",
+        "artist": "Yuko Sasaki"
+    },
+    "-1180985590": {
+        "anime": "Lupin III: The Legend of the Gold of Babylon",
+        "song": "SONG OF BABYLON",
+        "artist": "Naoko Kawai"
+    },
+    "-1786350432": {
+        "anime": "Lupin III",
+        "song": "Tooku wa Narete Komoriuta",
+        "artist": "Nami Shirakawa"
+    },
+    "-212973090": {
+        "anime": "Initial D: Battle Stage",
+        "song": "DOCTOR LOVE",
+        "artist": "DR.LOVE"
+    },
+    "-951189704": {
+        "anime": "Yawara! A Fashionable Judo Girl",
+        "song": "YOU AND I",
+        "artist": "Mariko Nagai"
+    },
+    "-585988956": {
+        "anime": "Thumbelina: A Magical Story",
+        "song": "Kuchibue no Oka",
+        "artist": "Yuki Matsuura"
+    },
+    "-2098580890": {
+        "anime": "Reideen the Brave",
+        "song": "Ore wa Akira da",
+        "artist": "Masato Shimon & Columbia Yurikago-kai"
+    },
+    "-1244476546": {
+        "anime": "Tokyo Pig",
+        "song": "Karette Tokidoki Buta",
+        "artist": "TSUNAMI"
+    },
+    "-822813397": {
+        "anime": "Gambler Densetsu Tetsuya",
+        "song": "All Last",
+        "artist": "Shigeru Matsuzaki"
+    },
+    "-952932274": {
+        "anime": "Di Gi Charat Nyo",
+        "song": "Miracle☆Wonderland",
+        "artist": "Asami Sanada, Miyuki Sawashiro, Kyoko Hikami"
+    },
+    "-2128520582": {
+        "anime": "Hell Girl",
+        "song": "Karinui",
+        "artist": "Mamiko Noto"
+    },
+    "-600376717": {
+        "anime": "Kirara",
+        "song": "Natsu ga Owaru yo",
+        "artist": "elika"
+    },
+    "-1853935227": {
+        "anime": "Soul Link",
+        "song": "screaming",
+        "artist": "Miyuki Hashimoto"
+    },
+    "-1245286310": {
+        "anime": "KimiKiss Pure Rouge",
+        "song": "U - don't leave me alone!",
+        "artist": "Kaori Mizuhashi & Sakura Nogawa"
+    },
+    "-1496580519": {
+        "anime": "White Album",
+        "song": "SOUND OF DESTINY",
+        "artist": "Nana Mizuki"
+    },
+    "-1861816365": {
+        "anime": "Star Driver the Movie",
+        "song": "Innocent Blue",
+        "artist": "Rina Hidaka"
+    },
+    "-1756738110": {
+        "anime": "Mobile Suit Gundam AGE: Memory of Eden",
+        "song": "Mirai no Moyou",
+        "artist": "Aira Yuuki"
+    },
+    "-954171136": {
+        "anime": "Mushibugyou",
+        "song": "GO STRAIGHT -Oharu Ver.-",
+        "artist": "Satomi Akesaka"
+    },
+    "-994232221": {
+        "anime": "Dance with Devils",
+        "song": "Kimi dake no Exorcist",
+        "artist": "Wataru Hatano"
+    },
+    "-9147343": {
+        "anime": "Aikatsu!",
+        "song": "Egao no Suncatcher",
+        "artist": "Risuko・Mona from STAR☆ANIS"
+    },
+    "-1255551324": {
+        "anime": "Marginal #4 the Animation",
+        "song": "Tamashii no Nonstop Lover",
+        "artist": "Toshiki Masuda"
+    },
+    "-1635854724": {
+        "anime": "RErideD: Derrida, who leaps through time",
+        "song": "[monochrome]~Our memories flux",
+        "artist": "Yoshiko Uchikawa"
+    },
+    "-394730699": {
+        "anime": "Pretty Guardian Sailor Moon Eternal The Movie",
+        "song": "Moon Effect",
+        "artist": "Kotono Mitsuishi, Hisako Kanemoto, Rina Satou, Ami Koshimizu, Shizuka Itou, Junko Minagawa, Sayaka Ohara, Ai Maeda, Yukiyo Fujii, Misato Fukuen"
+    },
+    "-843743812": {
+        "anime": "MAN WITH A MISSION The Animation",
+        "song": "DON'T LOSE YOURSELF",
+        "artist": "MAN WITH A MISSION"
+    },
+    "-2070780096": {
+        "anime": "Ikki Tousen",
+        "song": "FATE",
+        "artist": "Masumi Asano"
+    },
+    "-1436978975": {
+        "anime": "Fate/stay night",
+        "song": "La Sola",
+        "artist": "Hisako Sasaki"
+    },
+    "-1540721481": {
+        "anime": "Broken Blade",
+        "song": "Fate",
+        "artist": "KOKIA"
+    },
+    "-2144351021": {
+        "anime": "Togainu no Chi",
+        "song": "crossing fate",
+        "artist": "OLDCODEX"
+    },
+    "-932612193": {
+        "anime": "Sengoku Basara: Samurai Kings Two",
+        "song": "FATE",
+        "artist": "Angelo"
+    },
+    "-1110162615": {
+        "anime": "Fate/Zero",
+        "song": "MEMORIA",
+        "artist": "Eir Aoi"
+    },
+    "-480439478": {
+        "anime": "Fate/Zero",
+        "song": "to the beginning",
+        "artist": "Kalafina"
+    },
+    "-1217936675": {
+        "anime": "Fate/Zero",
+        "song": "the sword of promised victory ~Fate/Zero ver.",
+        "artist": "Eri Itou"
+    },
+    "-751486605": {
+        "anime": "The iDOLM@STER Movie: Beyond the Brilliant Future!",
+        "song": "Fate of the World",
+        "artist": "Eriko Nakamura, Akiko Hasegawa, Asami Imai"
+    },
+    "-746092724": {
+        "anime": "Fate/kaleid liner Prisma☆Illya",
+        "song": "kagami",
+        "artist": "ChouCho"
+    },
+    "-1847807864": {
+        "anime": "Fate/stay night TV Reproduction",
+        "song": "With...",
+        "artist": "Jyukai feat. Sachi Tainaka"
+    },
+    "-437212019": {
+        "anime": "Fate/stay night TV Reproduction",
+        "song": "Kumo no Kakera",
+        "artist": "Sachi Tainaka feat. Jyukai"
+    },
+    "-1958846483": {
+        "anime": "Bayonetta: Bloody Fate",
+        "song": "Night, I stand",
+        "artist": "Mai"
+    },
+    "-1338316477": {
+        "anime": "Bayonetta: Bloody Fate",
+        "song": "Theme Of Bayonetta -Mysterious Destiny <Bloody Fate ver.>",
+        "artist": "Helena Noguerra"
+    },
+    "-1559875765": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 2wei!",
+        "song": "TWO BY TWO",
+        "artist": "Yumeha Kouda"
+    },
+    "-599327178": {
+        "anime": "Riddle Story of Devil",
+        "song": "ACROSS THE FATE",
+        "artist": "Haruka Yoshimura"
+    },
+    "-1763063823": {
+        "anime": "Marvel Disk Wars: The Avengers",
+        "song": "Thread of fate",
+        "artist": "T.M.Revolution"
+    },
+    "-1052172046": {
+        "anime": "Fate/stay night: Unlimited Blade Works",
+        "song": "ideal white",
+        "artist": "Mashiro Ayano"
+    },
+    "-703477197": {
+        "anime": "Fate/stay night: Unlimited Blade Works",
+        "song": "THIS ILLUSION",
+        "artist": "LiSA"
+    },
+    "-72896228": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+        "song": "Happening☆Diary",
+        "artist": "Yumeha Kouda"
+    },
+    "-1187327624": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+        "song": "starlog",
+        "artist": "ChouCho"
+    },
+    "-595714391": {
+        "anime": "Fate/stay night: Unlimited Blade Works",
+        "song": "Brave Shine",
+        "artist": "Aimer"
+    },
+    "-295157863": {
+        "anime": "Fate/stay night: Unlimited Blade Works",
+        "song": "ring your bell",
+        "artist": "Kalafina"
+    },
+    "-2112082659": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+        "song": "Asterism",
+        "artist": "ChouCho"
+    },
+    "-464974439": {
+        "anime": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+        "song": "cuddle",
+        "artist": "ChouCho"
+    },
+    "-2117664902": {
+        "anime": "Fate/Apocrypha",
+        "song": "Eiyuu Unmei no Uta",
+        "artist": "EGOIST"
+    },
+    "-1596855558": {
+        "anime": "Fate/Apocrypha",
+        "song": "ASH",
+        "artist": "LiSA"
+    },
+    "-749923225": {
+        "anime": "Fate/Apocrypha",
+        "song": "Désir",
+        "artist": "GARNiDELiA"
+    },
+    "-873489558": {
+        "anime": "Fate/kaleid liner Prisma☆Illya: Vow in the Snow",
+        "song": "Usubeni no Tsuki",
+        "artist": "ChouCho"
+    },
+    "-1991476372": {
+        "anime": "Kengan Ashura",
+        "song": "MEGABULLETS",
+        "artist": "FATE GEAR"
+    },
+    "-698318774": {
+        "anime": "Persona 5 the Animation",
+        "song": "The Whims of Fate",
+        "artist": "Lyn"
+    },
+    "-2047649304": {
+        "anime": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+        "song": "Phantom Joke",
+        "artist": "UNISON SQUARE GARDEN"
+    },
+    "-1608209794": {
+        "anime": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+        "song": "Hoshi ga Furu Yume",
+        "artist": "Eir Aoi"
+    },
+    "-623618837": {
+        "anime": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+        "song": "Tell me",
+        "artist": "milet"
+    },
+    "-372702744": {
+        "anime": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+        "song": "After School Route",
+        "artist": "Mai Kadowaki, Kaori Nazuka, Chiwa Saito"
+    },
+    "-334813300": {
+        "anime": "Manga de Wakaru! Fate/Grand Order",
+        "song": "Mawaseba Wakaru! FGO",
+        "artist": "Tomoko Kaneda"
+    },
+    "-466877235": {
+        "anime": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+        "song": "Shikisai",
+        "artist": "Maaya Sakamoto"
+    },
+    "-1846344959": {
+        "anime": "Gekijouban Fate/kaleid liner Prisma Illya: Licht - Namae no Nai Shoujo",
+        "song": "Just the truth",
+        "artist": "Minami Kuribayashi"
+    },
+    "-457734633": {
+        "anime": "Fate/Grand Carnival",
+        "song": "Wonderful Carnival",
+        "artist": "Masaaki Endoh"
+    },
+    "-537485241": {
+        "anime": "Cardfight!! Vanguard overDress",
+        "song": "Fateful...",
+        "artist": "Morfonica"
+    },
+    "-2051057773": {
+        "anime": "Reign of the Seven Spellblades",
+        "song": "Beyond fate",
+        "artist": "Mion Yano"
+    },
+    "-1787097483": {
+        "anime": "Fate/strange Fake: Whispers of Dawn",
+        "song": "THE COIL",
+        "artist": "mpi & Benjamin"
+    },
+    "-1464578325": {
+        "anime": "Fate/strange Fake: Whispers of Dawn",
+        "song": "BITE DOWN",
+        "artist": "mpi & Benjamin"
+    },
+    "-2035346802": {
+        "anime": "Kizuna no Allele",
+        "song": "Mikansei Fate",
+        "artist": "Ayumi Hinohara & Hina Natsume"
+    },
+    "-309833503": {
+        "anime": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai - Dai Bounen Otanoshimikai 2023",
+        "song": "Big Bang☆Song",
+        "artist": "Ayako Kawasumi, Sakura Tange, Rumi Ookubo"
     }
 }
