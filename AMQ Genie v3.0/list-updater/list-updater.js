@@ -69,6 +69,12 @@ async function main() {
         const songsData = await readJSONFile('list-updater/list.json');
 
         for (const song of songsData) {
+            // Se l'audio non è presente nel JSON lo segnala e skippa la entry
+            if (song.audio === null) {
+                console.error(`No audio property: ${song.animeENName}, ${song.songName}`); 
+                continue
+            };
+
             const uniqueID = await getHash(song.audio);
             
             // Rileggi database.json ad ogni iterazione
