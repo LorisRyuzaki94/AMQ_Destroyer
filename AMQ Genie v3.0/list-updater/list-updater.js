@@ -22,7 +22,7 @@ function readJSONFile(filename) {
 // Funzione per scrivere un file JSON
 function writeJSONFile(filename, data) {
     return new Promise((resolve, reject) => {
-        fs.writeFile(filename, JSON.stringify(data, null, 2), 'utf8', (err) => {
+        fs.writeFile(filename, JSON.stringify(data, null, 4), 'utf8', (err) => {
             if (err) {
                 reject(err);
                 return;
@@ -67,22 +67,35 @@ async function getHash(url) {
 async function main() {
     try {
         const songsData = await readJSONFile('list-updater/list.json');
-        const targetData = await readJSONFile('database.json');
 
-        const promises = songsData.map(async (song) => {
-            const uniqueID = await getHash(song.audio);
-            targetData[uniqueID] = {
-                "anime": song.animeENName,
-                "song": song.songName,
-                "artist": song.songArtist
+        for (const song of songsData) {
+            // Se l'audio non è presente nel JSON lo segnala e skippa la entry
+            if (song.audio === null) {
+                console.error(`No audio property: ${song.animeENName}, ${song.songName}`); 
+                continue
             };
-        });
 
-        // Aspetta che tutte le promesse siano risolte
-        await Promise.all(promises);
+            const uniqueID = await getHash(song.audio);
+            
+            // Rileggi database.json ad ogni iterazione
+            let targetData = await readJSONFile('database.json');
+            
+            // Controlla se l'entry esiste già
+            if (!targetData.hasOwnProperty(uniqueID)) {
+                targetData[uniqueID] = {
+                    "anime": song.animeENName,
+                    "song": song.songName,
+                    "artist": song.songArtist
+                };
 
-        await writeJSONFile('database.json', targetData);
-        console.log('I dati sono stati aggiunti con successo al target.json');
+                await writeJSONFile('database.json', targetData);
+                console.log(`Aggiunto: ${targetData[uniqueID]["song"]}`);
+            } else {
+                console.log(`Esiste già: ${targetData[uniqueID]["song"]}`);
+            }
+        }
+
+        console.log('I dati sono stati aggiunti con successo al database');
     } catch (err) {
         console.error('Errore:', err);
     }

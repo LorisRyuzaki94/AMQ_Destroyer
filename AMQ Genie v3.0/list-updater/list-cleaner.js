@@ -21,7 +21,7 @@ fs.readFile('list-updater/list.json', 'utf8', (err, data) => {
     });
 
     // Scrivi il nuovo JSON in un file
-    fs.writeFile('list-updater/list.json', JSON.stringify(jsonData, null, 2), 'utf8', err => {
+    fs.writeFile('list-updater/list.json', JSON.stringify(jsonData, null, 4), 'utf8', err => {
         if (err) {
             console.error('Errore nella scrittura del file:', err);
             return;

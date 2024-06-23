@@ -17,7 +17,7 @@ app.post("/record", (req, res) => {
     var myObj = JSON.parse(data);
     myObj[req.body.hash] = {anime: req.body.anime, song: req.body.song, artist: req.body.artist};
 
-    var newData = JSON.stringify(myObj);
+    var newData = JSON.stringify(myObj, null, 4);
     fs.writeFile('database.json', newData, err => {
         if(err) throw err;
         console.log("added " + req.body.hash + " - " + req.body.anime + " - " + req.body.song);
