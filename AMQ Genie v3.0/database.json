@@ -89,6 +89,11 @@
         "song": "Junsui na Fujunbutsu",
         "artist": "StylipS"
     },
+    "40063425": {
+        "anime": "Gintama.",
+        "song": "Hankou Seimei",
+        "artist": "Ayumikurikamaki"
+    },
     "40728805": {
         "anime": "A Certain Scientific Railgun T",
         "song": "nameless story",
@@ -314,6 +319,16 @@
         "song": "Voice ~Tadoritsuku Basho~",
         "artist": "Sachi Tainaka"
     },
+    "117869325": {
+        "anime": "Gintama",
+        "song": "Fuusen Gum",
+        "artist": "Captain Straydum"
+    },
+    "119154755": {
+        "anime": "Gintama",
+        "song": "Kato Ken Samba!",
+        "artist": "Kazunari Tanaka"
+    },
     "126399780": {
         "anime": "Fairy Tail",
         "song": "5-moji no Koi no Yukue",
@@ -443,6 +458,11 @@
         "anime": "One Piece",
         "song": "Memories",
         "artist": "Maki Otsuki"
+    },
+    "163686777": {
+        "anime": "Gintama",
+        "song": "This world is yours",
+        "artist": "Plingmin"
     },
     "164882773": {
         "anime": "A Certain Magical Index the Movie: The Miracle of Endymion",
@@ -639,6 +659,11 @@
         "song": "Hajimari no Uta",
         "artist": "REIJINGSIGNAL"
     },
+    "220110001": {
+        "anime": "Gintama",
+        "song": "Kaze no Gotoku",
+        "artist": "Joe Inoue"
+    },
     "222279895": {
         "anime": "Detective Conan: Kid in Trap Island",
         "song": "Hello Mr.my yesterday",
@@ -724,6 +749,11 @@
         "song": "Hototogisu",
         "artist": "Houko Kuwashima"
     },
+    "276136948": {
+        "anime": "Gintama",
+        "song": "Anata MAGIC",
+        "artist": "monobright"
+    },
     "279131184": {
         "anime": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
         "song": "rise",
@@ -743,6 +773,11 @@
         "anime": "Detective Conan",
         "song": "Kumo ni Notte",
         "artist": "U-ka saegusa IN db"
+    },
+    "282183848": {
+        "anime": "Gintama",
+        "song": "Sen no Kaze ni Natte",
+        "artist": "Tomokazu Sugita"
     },
     "282572801": {
         "anime": "Detective Conan",
@@ -808,6 +843,11 @@
         "anime": "Attack on Titan Season 3",
         "song": "Name of Love",
         "artist": "cinema staff"
+    },
+    "302872414": {
+        "anime": "Gintama°",
+        "song": "Beautiful Days",
+        "artist": "OKAMOTO'S"
     },
     "308028929": {
         "anime": "One Piece",
@@ -999,6 +1039,11 @@
         "song": "Kimi ni Tsutaetai",
         "artist": "Chihiro Yonekura"
     },
+    "386639122": {
+        "anime": "Gintama.",
+        "song": "VS",
+        "artist": "BLUE ENCOUNT"
+    },
     "388191899": {
         "anime": "Fairy Tail",
         "song": "We're the stars",
@@ -1153,6 +1198,11 @@
         "anime": "The Apothecary Diaries",
         "song": "Aikotoba",
         "artist": "AiNA THE END"
+    },
+    "435635570": {
+        "anime": "Gintama'",
+        "song": "Anagura",
+        "artist": "Kuroneko Chelsea"
     },
     "435846477": {
         "anime": "Fairy Tail",
@@ -1384,6 +1434,11 @@
         "song": "in the land of twilight, under the moon",
         "artist": "Emily Bindiger"
     },
+    "536623199": {
+        "anime": "Gintama: The Very Final",
+        "song": "CHA-LA HEAD-CHA-LA",
+        "artist": "Hironobu Kageyama"
+    },
     "536735285": {
         "anime": "Bleach",
         "song": "HARUKAZE",
@@ -1423,6 +1478,11 @@
         "anime": "Naruto Shippuuden",
         "song": "Silhouette",
         "artist": "KANA-BOON"
+    },
+    "546137545": {
+        "anime": "Gintama",
+        "song": "Pray",
+        "artist": "Tommy heavenly⁶"
     },
     "547198322": {
         "anime": "Detective Conan",
@@ -1563,6 +1623,11 @@
         "anime": "Ranma 1/2",
         "song": "Hinageshi",
         "artist": "Michiyo Nakajima"
+    },
+    "596165757": {
+        "anime": "Gintama",
+        "song": "Shura",
+        "artist": "DOES"
     },
     "596420339": {
         "anime": "BECK: Mongolian Chop Squad",
@@ -1718,6 +1783,16 @@
         "anime": "Fate/stay night: Heaven's Feel III. Spring Song",
         "song": "Haru wa Yuku",
         "artist": "Aimer"
+    },
+    "646899736": {
+        "anime": "Gintama",
+        "song": "Kagayaita",
+        "artist": "Shigi"
+    },
+    "648804202": {
+        "anime": "Gintama",
+        "song": "sanagi",
+        "artist": "POSSIBILITY"
     },
     "649279675": {
         "anime": "Mayo Chiki!",
@@ -1974,6 +2049,11 @@
         "song": "Satanic Surfer",
         "artist": "M・A・O & Emi Nitta"
     },
+    "741417305": {
+        "anime": "Gintama",
+        "song": "Asa ANSWER",
+        "artist": "PENGIN"
+    },
     "745765561": {
         "anime": "Attack on Titan Final Season",
         "song": "Akuma no Ko",
@@ -2049,6 +2129,11 @@
         "song": "L.L.L.",
         "artist": "MYTH & ROID"
     },
+    "779063347": {
+        "anime": "Gintama'",
+        "song": "Nakama ~Acoustic Version~",
+        "artist": "Good Coming"
+    },
     "779167931": {
         "anime": "Shounen Hollywood: Holly Stage for 49",
         "song": "Hello Sekai Popcorn ver.",
@@ -2073,6 +2158,11 @@
         "anime": "Neon Genesis Evangelion",
         "song": "FLY ME TO THE MOON -4 BEAT OFF VOCAL VERSION-",
         "artist": "Toshiyuki Omori"
+    },
+    "785265727": {
+        "anime": "Gintama",
+        "song": "Kimi o Nosete",
+        "artist": "Azumi Inoue"
     },
     "785741551": {
         "anime": "The World God Only Knows: Goddesses Arc",
@@ -2149,6 +2239,11 @@
         "song": "shizuku",
         "artist": "Yuuka Nanri"
     },
+    "806957645": {
+        "anime": "Gintama",
+        "song": "Sakurane",
+        "artist": "Piko"
+    },
     "810749170": {
         "anime": "Sword Art Online: Extra Edition",
         "song": "INNOCENCE",
@@ -2193,6 +2288,11 @@
         "anime": "Fate/kaleid liner Prisma☆Illya",
         "song": "Prism Sympathy",
         "artist": "StylipS"
+    },
+    "820729539": {
+        "anime": "Gintama",
+        "song": "Katoniago",
+        "artist": "FLiP"
     },
     "821591622": {
         "anime": "Dragon Ball Z: The History Of Trunks",
@@ -2364,6 +2464,11 @@
         "song": "Mou Kimi dake o Hanashitari wa Shinai",
         "artist": "Aya Kamiki"
     },
+    "883854119": {
+        "anime": "Gintama°",
+        "song": "Acchi Muite",
+        "artist": "Swimy"
+    },
     "886116316": {
         "anime": "Samurai Flamenco",
         "song": "Flamenco Girls Tonight ~Flamenco Girls no Theme~",
@@ -2393,6 +2498,11 @@
         "anime": "Detective Conan",
         "song": "Growing of my heart",
         "artist": "Mai Kuraki"
+    },
+    "910848647": {
+        "anime": "Gintama",
+        "song": "Housou Code ga Nanbo no Monjai!",
+        "artist": "Mikako Takahashi"
     },
     "916731797": {
         "anime": "Ranma 1/2: One Grew Over the Kuno's Nest",
@@ -2594,6 +2704,11 @@
         "song": "Scar",
         "artist": "Tatsuya Kitani"
     },
+    "969999903": {
+        "anime": "Gintama",
+        "song": "Gin-iro no Sora",
+        "artist": "redballoon"
+    },
     "975359552": {
         "anime": ".hack//Sign",
         "song": "das wandern",
@@ -2613,6 +2728,11 @@
         "anime": "Zan Sayonara Zetsubou Sensei",
         "song": "Zetsubou Sensei Ekaki Uta",
         "artist": "Yuu Kobayashi, Kenji Ohtsuki"
+    },
+    "985431706": {
+        "anime": "Gintama°",
+        "song": "Saigo made II",
+        "artist": "Aqua Timez"
     },
     "988831447": {
         "anime": "Case Closed: Countdown to Heaven",
@@ -2684,6 +2804,11 @@
         "song": "Kokoro no Kagi",
         "artist": "May J."
     },
+    "1003300646": {
+        "anime": "Gintama. Silver Soul Arc",
+        "song": "I Wanna Be...",
+        "artist": "SPYAIR"
+    },
     "1007866383": {
         "anime": "Bleach",
         "song": "MASK",
@@ -2739,6 +2864,11 @@
         "song": "YESTERDAY LOVE",
         "artist": "Mai Kuraki"
     },
+    "1028045705": {
+        "anime": "Gintama",
+        "song": "Wo Ai Ni",
+        "artist": "Hitomi Takahashi×BEAT CRUSADERS"
+    },
     "1028395368": {
         "anime": "El Cazador de la Bruja",
         "song": "Maxwell's witch",
@@ -2753,6 +2883,11 @@
         "anime": "Detective Conan",
         "song": "Unmei no Roulette Mawashite",
         "artist": "ZARD"
+    },
+    "1041427511": {
+        "anime": "Gintama",
+        "song": "Kasanaru Kage",
+        "artist": "Hearts Grow"
     },
     "1043347286": {
         "anime": "The Future Diary",
@@ -2808,6 +2943,11 @@
         "anime": "We Never Learn!: BOKUBEN Season 2",
         "song": "Kankei≧Houteishiki",
         "artist": "Study"
+    },
+    "1063998243": {
+        "anime": "Gintama: The Movie",
+        "song": "Bakuchi Dancer",
+        "artist": "DOES"
     },
     "1064979569": {
         "anime": "Attack on Titan Final Season",
@@ -2878,6 +3018,11 @@
         "anime": "Demon Slayer: Kimetsu no Yaiba",
         "song": "Gurenge",
         "artist": "LiSA"
+    },
+    "1087244050": {
+        "anime": "Gintama°",
+        "song": "Pride Kakumei",
+        "artist": "CHiCO with HoneyWorks"
     },
     "1087357325": {
         "anime": "One Piece Episode of Merry: Mou Hitori no Nakama no Monogatari",
@@ -2969,6 +3114,11 @@
         "song": "YouSeeBIGGIRL/T:T",
         "artist": "Gemie"
     },
+    "1116958605": {
+        "anime": "Gintama",
+        "song": "Chome Kou Nanza Kuso Kurae!",
+        "artist": "Mikako Takahashi"
+    },
     "1126720077": {
         "anime": "The Rolling Girls",
         "song": "TRAIN-TRAIN",
@@ -3023,6 +3173,11 @@
         "anime": "Code Geass: Lelouch of the Rebellion R2 Special Edition 'Zero Requiem'",
         "song": "Boku wa, Tori ni Naru.",
         "artist": "Hitomi"
+    },
+    "1139457708": {
+        "anime": "Gintama",
+        "song": "Light Infection",
+        "artist": "Prague"
     },
     "1139825919": {
         "anime": "The Apothecary Diaries",
@@ -3129,6 +3284,11 @@
         "song": "Shura-iro no Senshi",
         "artist": "Kouji Kaya"
     },
+    "1179051883": {
+        "anime": "Gintama",
+        "song": "Kiseki",
+        "artist": "Snowkel"
+    },
     "1180822727": {
         "anime": "Fate/stay night: Unlimited Blade Works",
         "song": "LAST STARDUST",
@@ -3138,6 +3298,11 @@
         "anime": "Detective Conan",
         "song": "Kamikaze Express",
         "artist": "Takuto×Miyakawa-kun"
+    },
+    "1181019368": {
+        "anime": "Gintama: The Semi-Final",
+        "song": "Wadachi",
+        "artist": "SPYAIR"
     },
     "1186072436": {
         "anime": "Detective Conan",
@@ -3329,6 +3494,11 @@
         "song": "Call your name <Gv>",
         "artist": "Gemie"
     },
+    "1250504839": {
+        "anime": "Gintama°",
+        "song": "DAY×DAY",
+        "artist": "BLUE ENCOUNT"
+    },
     "1251625925": {
         "anime": "Keitai Shoujo",
         "song": "Mirai Angel",
@@ -3423,6 +3593,11 @@
         "anime": "Dragon Ball GT: A Hero's Legacy",
         "song": "DAN DAN Kokoro Hikareteku",
         "artist": "FIELD OF VIEW"
+    },
+    "1275343398": {
+        "anime": "Gintama. Silver Soul Arc",
+        "song": "Hikari Shoumeiron",
+        "artist": "CHiCO with HoneyWorks"
     },
     "1277552667": {
         "anime": "Detective Conan",
@@ -3719,6 +3894,11 @@
         "song": "Call of Silence",
         "artist": "Gemie"
     },
+    "1394498707": {
+        "anime": "Gintama°",
+        "song": "Glorious Days",
+        "artist": "THREE LIGHTS DOWN KINGS"
+    },
     "1396667768": {
         "anime": "Fate/kaleid liner Prisma☆Illya",
         "song": "Prism Sympathy",
@@ -3844,6 +4024,11 @@
         "song": "Kaze no Yukue (Child Ver.)",
         "artist": "Ado"
     },
+    "1438754247": {
+        "anime": "Gintama'",
+        "song": "Dilemma",
+        "artist": "ecosystem"
+    },
     "1446511179": {
         "anime": "Naruto Shippuuden",
         "song": "Mayonaka no Orchestra",
@@ -3888,6 +4073,11 @@
         "anime": "Overlord II",
         "song": "HYDRA",
         "artist": "MYTH & ROID"
+    },
+    "1467776736": {
+        "anime": "Gintama",
+        "song": "Dynamite Saikai ~Hirusagari no Sengyoushufu~",
+        "artist": "Mikako Takahashi & Erika Sudou"
     },
     "1468063814": {
         "anime": "Attack on Titan: The Roar of Awakening",
@@ -3968,6 +4158,11 @@
         "anime": "Daphne in the Brilliant Blue",
         "song": "Nana-iro no Kotoba",
         "artist": "Mai Nakahara"
+    },
+    "1498900718": {
+        "anime": "Gintama'",
+        "song": "Wonderland",
+        "artist": "FLiP"
     },
     "1499183183": {
         "anime": "Haikyu!! Movie Sainou to Sense",
@@ -4139,10 +4334,20 @@
         "song": "Shouchi no Suke",
         "artist": "Suitei Shoujo"
     },
+    "1551569085": {
+        "anime": "Gintama",
+        "song": "Omae to ×-chan Nonda Kure",
+        "artist": "Mikako Takahashi"
+    },
     "1553276212": {
         "anime": "Attack on Titan",
         "song": "ətˈæk 0N tάɪtn",
         "artist": "Mika Kobayashi"
+    },
+    "1553873086": {
+        "anime": "Gintama",
+        "song": "Kyou mo Sakura Mau Akatsuki ni",
+        "artist": "CHiCO with HoneyWorks"
     },
     "1556332727": {
         "anime": "Dragon Ball Super",
@@ -4294,6 +4499,11 @@
         "song": "Ichido dake no Koi Nara",
         "artist": "Walküre"
     },
+    "1608846403": {
+        "anime": "Gintama°",
+        "song": "Nagaresagyou de Takeoff",
+        "artist": "Kabukichou Gasshou-dan"
+    },
     "1610264361": {
         "anime": "Dragon Ball Z Kai",
         "song": "Oh Yeah!!!!!!!",
@@ -4339,6 +4549,11 @@
         "song": "Houkiboshi",
         "artist": "Younha"
     },
+    "1628040313": {
+        "anime": "Gintama'",
+        "song": "Yuke! Kaien",
+        "artist": "singman"
+    },
     "1628246109": {
         "anime": "Tentai Senshi Sunred",
         "song": "FamiRes Taiyouzoku",
@@ -4353,6 +4568,11 @@
         "anime": "Code Geass: Akito the Exiled",
         "song": "More Than Words",
         "artist": "Maaya Sakamoto"
+    },
+    "1638466297": {
+        "anime": "Gintama'",
+        "song": "Ring a Ding Dong",
+        "artist": "Saeko Suzuki"
     },
     "1642271399": {
         "anime": "Naruto Shippuuden",
@@ -4379,6 +4599,11 @@
         "song": "great escape",
         "artist": "cinema staff"
     },
+    "1655248274": {
+        "anime": "Gintama.",
+        "song": "Kagerou",
+        "artist": "ЯeaL"
+    },
     "1655535253": {
         "anime": "Fairy Tail",
         "song": "Fairy Tail ~Yakusoku no Hi~",
@@ -4388,6 +4613,11 @@
         "anime": "Naruto Shippuuden",
         "song": "LINE",
         "artist": "Sukima Switch"
+    },
+    "1657522272": {
+        "anime": "Gintama'",
+        "song": "Sakura Mitsutsuki",
+        "artist": "SPYAIR"
     },
     "1658285206": {
         "anime": "My Hero Academia",
@@ -4403,6 +4633,11 @@
         "anime": "Boruto: Naruto Next Generations",
         "song": "Sayonara Moon Town",
         "artist": "Scenarioart"
+    },
+    "1663373639": {
+        "anime": "Gintama",
+        "song": "Omae no Tou-chan××",
+        "artist": "Mikako Takahashi"
     },
     "1664168499": {
         "anime": "Darling in the FranXX",
@@ -4433,6 +4668,11 @@
         "anime": "Detective Conan",
         "song": "You & I",
         "artist": "Mai Kuraki"
+    },
+    "1686487020": {
+        "anime": "Gintama'",
+        "song": "Nakama",
+        "artist": "Good Coming"
     },
     "1687509943": {
         "anime": "Classroom of the Elite Season 2",
@@ -4558,6 +4798,11 @@
         "anime": "The Seven Deadly Sins: Signs of Holy War",
         "song": "CLASSIC",
         "artist": "MUCC"
+    },
+    "1726156540": {
+        "anime": "Gintama: The Very Final",
+        "song": "Wadachi",
+        "artist": "SPYAIR"
     },
     "1730923591": {
         "anime": "Naruto",
@@ -4703,6 +4948,11 @@
         "anime": "Dragon Ball Z",
         "song": "Fly high",
         "artist": "Hironobu Kageyama & BROADWAY"
+    },
+    "1804277617": {
+        "anime": "Gintama'",
+        "song": "LET'S GO OUT",
+        "artist": "AMOYAMO"
     },
     "1804962126": {
         "anime": "Detective Conan",
@@ -4863,6 +5113,11 @@
         "anime": "Attack on Titan Final Season",
         "song": "K21",
         "artist": "David Whitaker"
+    },
+    "1866302342": {
+        "anime": "Gintama'",
+        "song": "Balance Doll",
+        "artist": "Prague"
     },
     "1867435439": {
         "anime": "Detective Conan",
@@ -5189,6 +5444,11 @@
         "song": "Mezame no Uta",
         "artist": "Yuiko Ohara"
     },
+    "1990366656": {
+        "anime": "Gintama",
+        "song": "Kabukichou Aika",
+        "artist": "Hashio Hideo"
+    },
     "1992053241": {
         "anime": "Haikyu!!",
         "song": "Ah Yeah!!",
@@ -5334,10 +5594,20 @@
         "song": "We Are!",
         "artist": "Kota Shinzato"
     },
+    "2036951224": {
+        "anime": "Gintama",
+        "song": "Candy Line",
+        "artist": "Hitomi Takahashi"
+    },
     "2037406801": {
         "anime": "Aikatsu!",
         "song": "stranger alien",
         "artist": "Fuuri from STAR☆ANIS"
+    },
+    "2039794313": {
+        "anime": "Gintama",
+        "song": "IN MY LIFE",
+        "artist": "AZU"
     },
     "2041130635": {
         "anime": "Land of the Lustrous",
@@ -5483,6 +5753,11 @@
         "anime": "Mashle: Magic and Muscles - The Divine Visionary Candidate Exam Arc",
         "song": "Bling-Bang-Bang-Born",
         "artist": "Creepy Nuts"
+    },
+    "2105959143": {
+        "anime": "Gintama: The Movie",
+        "song": "Boku-tachi no Kisetsu",
+        "artist": "DOES"
     },
     "2109869853": {
         "anime": "Fate/kaleid liner Prisma☆Illya 2wei!",
@@ -10843,5 +11118,230 @@
         "anime": "Fairy Tail: Final Season",
         "song": "Boku to Kimi no Lullaby",
         "artist": "Miyuna"
+    },
+    "-1026677064": {
+        "anime": "Gintama",
+        "song": "Omae no Kaa-chan××Da!",
+        "artist": "kazmy with Necromancers"
+    },
+    "-1207204784": {
+        "anime": "Gintama",
+        "song": "Donten",
+        "artist": "DOES"
+    },
+    "-851751455": {
+        "anime": "Gintama",
+        "song": "Stairway Generation",
+        "artist": "Base Ball Bear"
+    },
+    "-1280400288": {
+        "anime": "Gintama",
+        "song": "Mr. Raindrop",
+        "artist": "amplified"
+    },
+    "-1659777094": {
+        "anime": "Gintama",
+        "song": "SIGNAL",
+        "artist": "KELUN"
+    },
+    "-731451013": {
+        "anime": "Gintama",
+        "song": "Speed of flow",
+        "artist": "THE RODEO CARBURETTOR"
+    },
+    "-334179317": {
+        "anime": "Gintama",
+        "song": "I, Ai, Ai",
+        "artist": "ghostnote"
+    },
+    "-832433858": {
+        "anime": "Gintama",
+        "song": "Wonderful Days",
+        "artist": "ONE☆DRAFT"
+    },
+    "-891296616": {
+        "anime": "Gintama",
+        "song": "Sayonara no Sora",
+        "artist": "Qwai"
+    },
+    "-55116623": {
+        "anime": "Gintama",
+        "song": "Yorozuya Blues",
+        "artist": "Hashio Hideo"
+    },
+    "-1316478841": {
+        "anime": "Gintama",
+        "song": "Dondake! Gintaman",
+        "artist": "Ko-saku"
+    },
+    "-1308675098": {
+        "anime": "Gintama",
+        "song": "Omae no Nii-chan×××××",
+        "artist": "Mikako Takahashi"
+    },
+    "-1353528703": {
+        "anime": "Gintama",
+        "song": "Tooi Nioi Indians Version",
+        "artist": "YO-KING"
+    },
+    "-1123286634": {
+        "anime": "Gintama",
+        "song": "Omae no Kaa-chan××Da!",
+        "artist": "Mikako Takahashi"
+    },
+    "-209588183": {
+        "anime": "Gintama",
+        "song": "Omae no Baa-chan Omae no Basshu Haiteta",
+        "artist": "Mikako Takahashi"
+    },
+    "-2114227533": {
+        "anime": "Gintama",
+        "song": "Bakuchi Dancer",
+        "artist": "DOES"
+    },
+    "-1148850661": {
+        "anime": "Gintama",
+        "song": "Boku-tachi no Kisetsu",
+        "artist": "DOES"
+    },
+    "-1826862708": {
+        "anime": "Gintama",
+        "song": "WAVE",
+        "artist": "Vijandeux"
+    },
+    "-1556999614": {
+        "anime": "Gintama",
+        "song": "Kanousei Girl",
+        "artist": "Chiaki Kuriyama"
+    },
+    "-487207633": {
+        "anime": "Gintama",
+        "song": "We Gotta Fight",
+        "artist": "XY"
+    },
+    "-1898224108": {
+        "anime": "Gintama",
+        "song": "Tooi Nioi",
+        "artist": "YO-KING"
+    },
+    "-1259421965": {
+        "anime": "Gintama",
+        "song": "Yuki no Tsubasa",
+        "artist": "redballoon"
+    },
+    "-1022052552": {
+        "anime": "Gintama'",
+        "song": "Danbooru no Kamisama",
+        "artist": "Fumihiko Tachiki"
+    },
+    "-1155256770": {
+        "anime": "Gintama'",
+        "song": "Jugemu",
+        "artist": "ENA"
+    },
+    "-1439061043": {
+        "anime": "Gintama'",
+        "song": "Genjou Destruction",
+        "artist": "SPYAIR"
+    },
+    "-613306603": {
+        "anime": "Gintama'",
+        "song": "Tobe! Gundam",
+        "artist": "Kou Ikeda"
+    },
+    "-1841884353": {
+        "anime": "Gintama'",
+        "song": "Samurai Heart (Some Like It Hot!!)",
+        "artist": "SPYAIR"
+    },
+    "-668431368": {
+        "anime": "Gintama'",
+        "song": "Tougenkyou Alien",
+        "artist": "serial TV drama"
+    },
+    "-306121813": {
+        "anime": "Gintama: The Final Chapter - Be Forever Yorozuya",
+        "song": "Pray",
+        "artist": "Tommy heavenly⁶"
+    },
+    "-649597281": {
+        "anime": "Gintama: The Final Chapter - Be Forever Yorozuya",
+        "song": "Genjou Destruction",
+        "artist": "SPYAIR"
+    },
+    "-1482189811": {
+        "anime": "Gintama'",
+        "song": "Mantama",
+        "artist": "Mikako Takahashi"
+    },
+    "-13599492": {
+        "anime": "Gintama'",
+        "song": "Moonwalk",
+        "artist": "MONOBRIGHT"
+    },
+    "-1443972619": {
+        "anime": "Gintama'",
+        "song": "Expect",
+        "artist": "PAGE"
+    },
+    "-1204874819": {
+        "anime": "Gintama°",
+        "song": "KNOW KNOW KNOW",
+        "artist": "DOES"
+    },
+    "-1952898": {
+        "anime": "Gintama°",
+        "song": "Eien Blue",
+        "artist": "MAKE-UP"
+    },
+    "-1005351575": {
+        "anime": "Gintama.",
+        "song": "SILVER",
+        "artist": "RIZE"
+    },
+    "-1943735441": {
+        "anime": "Gintama.",
+        "song": "Yorozuya Blues",
+        "artist": "Hashio Hideo"
+    },
+    "-1423785490": {
+        "anime": "Gintama.",
+        "song": "Idol no Kunshou",
+        "artist": "Mikako Takahashi"
+    },
+    "-1194825241": {
+        "anime": "Gintama. Silver Soul Arc",
+        "song": "Katte ni MY SOUL",
+        "artist": "DISH//"
+    },
+    "-1013230259": {
+        "anime": "Gintama. Silver Soul Arc",
+        "song": "Hana Ichi Monme",
+        "artist": "BURNOUT SYNDROMES"
+    },
+    "-586099880": {
+        "anime": "Gintama: Shiroyasha Koutan",
+        "song": "Donten",
+        "artist": "DOES"
+    },
+    "-992989142": {
+        "anime": "Gintama: Shiroyasha Koutan",
+        "song": "We Are!",
+        "artist": "Hiroshi Kitadani"
+    },
+    "-1296936452": {
+        "anime": "Gintama: Shiroyasha Koutan",
+        "song": "Dondake! Konishi Man",
+        "artist": "Ko-saku"
+    },
+    "-247668280": {
+        "anime": "Gintama: The Very Final",
+        "song": "Douraku Shinjou",
+        "artist": "DOES"
+    },
+    "-554515238": {
+        "anime": "Gintama: The Very Final",
+        "song": "Breakdown",
+        "artist": "DOES"
     }
 }
