@@ -13,10 +13,6 @@ chrome.tabs.query({ active: true }, function (tabs) {
                     id = "qpMoePlayer-0_html5_api";
                 }
 
-                let node = document.createElement("div");
-                node.innerHTML = '<div id="qpSongInfoContainer" class="container qpSideContainer floatingContainer cheatTestHide">aaaaaaaaaaaaaaaaa</div>'
-                document.getElementById("qpSongInfoContainer").after(node)
-
                 var url = document.getElementById(id).src; // Cerca l'elemento contrassegnato dall'id univoco e ottiene il campo src (link del video)
                 
                 chrome.runtime.sendMessage({action: "check-code", url: url}, function(response) { // Invia un messaggio di tipo "check-code" con l'url al listener in background.js
