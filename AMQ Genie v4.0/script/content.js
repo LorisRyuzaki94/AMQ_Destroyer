@@ -49,15 +49,40 @@ class ControlWindow {
         }
     }
 
+    async autofill() {
+        try {
+            const data = await this.guess();
+            const inputField = document.querySelectorAll("#qpAnswerInput");
+            if (inputField.length > 1) {
+                inputField[1].value = data.song; // Ottiene la risposta
+                inputField[2].value = data.artist; // Ottiene la risposta
+            }
+            inputField[0].value = data.anime; // Ottiene la risposta da background.js e la imposta come valore del campo input
+        } catch (error) {
+            console.error("Failed to autofill", error);
+        }
+    }
+
     async guess() {
-        return new Promise(resolve => {
-            setTimeout(() => {
-                resolve({
-                    anime: "Sword Art Online",
-                    song: "IGNITE",
-                    artist: "Eir Aoi"
-                });
-            }, 1000);
+        let id;
+        if (document.getElementById("qpMoePlayer-0").classList.contains("vjs-paused")) {
+            id = "qpMoePlayer-1_html5_api";
+        } else {
+            id = "qpMoePlayer-0_html5_api";
+        }
+
+        const url = document.getElementById(id).src;
+
+        const hash = await getHash(url);
+
+        return new Promise((resolve, reject) => {
+            chrome.runtime.sendMessage({ action: "getDatabaseEntry", hash: hash }, (response) => {
+                if (chrome.runtime.lastError) {
+                    reject(chrome.runtime.lastError);
+                } else {
+                    resolve(response);
+                }
+            });
         });
     }
 
@@ -82,7 +107,8 @@ class ControlWindow {
             borderRadius: "10px",
             boxShadow: "0 4px 8px rgba(0, 0, 0, 0.3)",
             fontFamily: "Arial, sans-serif",
-            textAlign: "center"
+            textAlign: "center",
+            zIndex: "9999"  // Ensure the container is on top of other elements
         });
     }
 
@@ -121,7 +147,9 @@ class ControlWindow {
             { icon: "👍", action: async () => {
                 await this.loadData();
             }},
-            { icon: "🚩", action: () => alert("Reported!") },
+            { icon: "📝", action: async () => {
+                await this.autofill();
+            }},
             { icon: "👎", action: () => alert("Disliked!") }
         ];
 
@@ -239,6 +267,34 @@ class ControlWindow {
             this.title.style.cursor = "grab";
         });
     }
+}
+
+const blobToData = async (blob) => {
+    const buffer = await blob.arrayBuffer();
+    const view = new Int8Array(buffer);
+    return [...view].map((n) => n.toString()).join("");
+};
+
+String.prototype.hashCode = function () {
+    var hash = 0, i, chr;
+    if (this.length === 0) return hash;
+    for (i = 0; i < this.length; i++) {
+        chr = this.charCodeAt(i);
+        hash = ((hash << 5) - hash) + chr;
+        hash |= 0; // Convert to 32bit integer
+    }
+    return hash;
+}
+
+async function getHash(url) {
+    return fetch(`https://cors-anywhere.herokuapp.com/${url}`, {
+        headers: {
+            'x-requested-with': 'XMLHttpRequest'  // Replace with your origin value
+        }
+    })
+    .then(res => res.blob()) // Gets the response and returns it as a blob
+    .then(blob => blobToData(blob))
+    .then(blob => blob.hashCode());
 }
 
 new ControlWindow();

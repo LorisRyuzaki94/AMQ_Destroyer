@@ -20,5 +20,14 @@
 			],
 			"run_at": "document_idle"
 		}
-	]
+	],
+	"background": {
+		"service_worker": "script/background.js"
+	},
+    "web_accessible_resources": [
+        {
+            "resources": ["database/database.json"],
+            "matches": ["<all_urls>"]
+        }
+    ]
 }
