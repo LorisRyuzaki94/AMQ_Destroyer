@@ -3,11 +3,11 @@ class ControlWindow {
         this.container = document.createElement("div");
         this.title = document.createElement("h3");
         this.separator = document.createElement("hr");
-        this.errorSection = this.createErrorSection("Error", "Attivare CORS-Anywhere", "https://cors-anywhere.herokuapp.com/corsdemo");
         this.animeName = this.createTextElement("Anime Name", "-");
         this.songName = this.createTextElement("Song Name", "-");
         this.artistName = this.createTextElement("Artist Name", "-");
         this.buttonContainer = document.createElement("div");
+        this.errorSection = this.createErrorSection();
         this.init();
     }
 
@@ -31,10 +31,8 @@ class ControlWindow {
         this.makeDraggable();
 
         const corsCheck = await this.checkCorsAnywhere();
-        if (corsCheck) {
-            console.log("CORS-Anywhere attivato con successo.");
-        } else {
-            this.errorSection.style.display = "block"; // Show error section if CORS check fails
+        if (!corsCheck) {
+            this.showErrorSection("Attivare CORS-Anywhere", "https://cors-anywhere.herokuapp.com/corsdemo");
         }
     }
 
@@ -46,43 +44,67 @@ class ControlWindow {
             this.artistName.innerHTML = `<strong>Artist Name</strong><br>${data.artist}`;
         } catch (error) {
             console.error("Failed to load data", error);
+            this.resetFields();
+            if (error.message.includes("429")) {
+                this.showErrorSection("Troppi tentativi. Per favore, riprova più tardi.");
+            } else {
+                this.showErrorSection("Nessuna corrispondenza trovata nel database.");
+            }
         }
     }
 
-    async autofill() {
+    autofill() {
         try {
-            const data = await this.guess();
+            const anime = this.animeName.innerText.split("\n")[1];
+            const song = this.songName.innerText.split("\n")[1];
+            const artist = this.artistName.innerText.split("\n")[1];
+
             const inputField = document.querySelectorAll("#qpAnswerInput");
             if (inputField.length > 1) {
-                inputField[1].value = data.song; // Ottiene la risposta
-                inputField[2].value = data.artist; // Ottiene la risposta
+                inputField[1].value = song; // Ottiene la risposta
+                inputField[2].value = artist; // Ottiene la risposta
             }
-            inputField[0].value = data.anime; // Ottiene la risposta da background.js e la imposta come valore del campo input
+            inputField[0].value = anime; // Ottiene la risposta da background.js e la imposta come valore del campo input
         } catch (error) {
             console.error("Failed to autofill", error);
+            this.showErrorSection("Errore durante l'autofill.");
         }
     }
 
     async guess() {
-        let id;
-        if (document.getElementById("qpMoePlayer-0").classList.contains("vjs-paused")) {
-            id = "qpMoePlayer-1_html5_api";
-        } else {
-            id = "qpMoePlayer-0_html5_api";
-        }
-
-        const url = document.getElementById(id).src;
-
-        const hash = await getHash(url);
-
         return new Promise((resolve, reject) => {
-            chrome.runtime.sendMessage({ action: "getDatabaseEntry", hash: hash }, (response) => {
-                if (chrome.runtime.lastError) {
-                    reject(chrome.runtime.lastError);
+            try {
+                let id;
+                if (document.getElementById("qpMoePlayer-0").classList.contains("vjs-paused")) {
+                    id = "qpMoePlayer-1_html5_api";
                 } else {
-                    resolve(response);
+                    id = "qpMoePlayer-0_html5_api";
                 }
-            });
+
+                const url = document.getElementById(id).src;
+                getHash(url).then(hash => {
+                    chrome.runtime.sendMessage({ action: "getDatabaseEntry", hash: hash }, (response) => {
+                        if (chrome.runtime.lastError) {
+                            reject(new Error(chrome.runtime.lastError));
+                        } else if (!response || (response.anime === '-' && response.song === '-' && response.artist === '-')) {
+                            reject(new Error("Nessuna corrispondenza trovata nel database."));
+                        } else {
+                            this.hideErrorSection();
+                            resolve(response);
+                        }
+                    });
+                }).catch(error => {
+                    if (error.message.includes("429")) {
+                        this.showErrorSection("Troppi tentativi. Per favore, riprova più tardi.");
+                    } else {
+                        this.showErrorSection("Nessuna corrispondenza trovata nel database.");
+                    }
+                    reject(error);
+                });
+            } catch (error) {
+                this.showErrorSection("Nessuna corrispondenza trovata nel database.");
+                reject(error);
+            }
         });
     }
 
@@ -93,6 +115,22 @@ class ControlWindow {
             }
         });
         return response.ok;
+    }
+
+    showErrorSection(text, href = "") {
+        this.errorSection.innerHTML = this.createErrorSectionContent(text, href);
+        this.errorSection.style.display = "block";
+        this.addCloseEventListener();
+    }
+
+    hideErrorSection() {
+        this.errorSection.style.display = "none";
+    }
+
+    resetFields() {
+        this.animeName.innerHTML = `<strong>Anime Name</strong><br>-`;
+        this.songName.innerHTML = `<strong>Song Name</strong><br>-`;
+        this.artistName.innerHTML = `<strong>Artist Name</strong><br>-`;
     }
 
     setupContainer() {
@@ -147,8 +185,8 @@ class ControlWindow {
             { icon: "👍", action: async () => {
                 await this.loadData();
             }},
-            { icon: "📝", action: async () => {
-                await this.autofill();
+            { icon: "📝", action: () => {
+                this.autofill();
             }},
             { icon: "👎", action: () => alert("Disliked!") }
         ];
@@ -165,7 +203,20 @@ class ControlWindow {
                 cursor: "pointer",
                 fontSize: "16px",
                 flex: "1",
-                margin: "0 2px"
+                margin: "0 2px",
+                transition: "background-color 0.2s"
+            });
+            button.addEventListener("mouseover", () => {
+                button.style.backgroundColor = "#555";
+            });
+            button.addEventListener("mouseout", () => {
+                button.style.backgroundColor = "#444";
+            });
+            button.addEventListener("mousedown", () => {
+                button.style.backgroundColor = "#333";
+            });
+            button.addEventListener("mouseup", () => {
+                button.style.backgroundColor = "#555";
             });
             button.addEventListener("click", btn.action);
             this.buttonContainer.appendChild(button);
@@ -190,16 +241,9 @@ class ControlWindow {
         return element;
     }
     
-    createErrorSection(label, text, href) {
-        const element = document.createElement("p");
-        const link = document.createElement("a");
-        link.href = href;
-        link.textContent = text;
-        link.target = "_blank";
-        link.style.color = "white";
-        link.style.textDecoration = "underline";
-        element.innerHTML = label ? `<strong>${label}</strong><br>` : "";
-        element.appendChild(link);
+    createErrorSection() {
+        const element = document.createElement("div");
+        element.style.display = "none"; // Hide initially
         Object.assign(element.style, {
             backgroundColor: "rgba(255, 0, 0, 0.25)",
             color: "white",
@@ -209,27 +253,21 @@ class ControlWindow {
             marginBottom: "0px",
             position: "relative"
         });
-
-        const closeButton = document.createElement("span");
-        closeButton.textContent = "✖";
-        Object.assign(closeButton.style, {
-            position: "absolute",
-            top: "5px",
-            right: "10px",
-            cursor: "pointer"
-        });
-
-        closeButton.addEventListener("click", () => {
-            element.style.transition = "opacity 0.5s";
-            element.style.opacity = "0";
-            setTimeout(() => {
-                element.style.display = "none";
-            }, 500);
-        });
-
-        element.appendChild(closeButton);
-
         return element;
+    }
+
+    createErrorSectionContent(text, href = "") {
+        const link = href ? `<a href="${href}" target="_blank" style="color: white; text-decoration: underline;">${text}</a>` : text;
+        return `<strong>Error</strong><br>${link}<span style="position: absolute; top: 5px; right: 10px; cursor: pointer;" id="closeError">✖</span>`;
+    }
+
+    addCloseEventListener() {
+        const closeButton = this.errorSection.querySelector("#closeError");
+        if (closeButton) {
+            closeButton.addEventListener("click", () => {
+                this.hideErrorSection();
+            });
+        }
     }
 
     makeDraggable() {
