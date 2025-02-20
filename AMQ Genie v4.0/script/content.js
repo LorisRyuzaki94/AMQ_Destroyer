@@ -27,6 +27,8 @@ class ControlWindow {
 
         document.body.appendChild(this.container);
 
+        this.makeDraggable();
+
         await this.loadData();
     }
 
@@ -65,7 +67,7 @@ class ControlWindow {
             borderRadius: "10px",
             boxShadow: "0 4px 8px rgba(0, 0, 0, 0.3)",
             fontFamily: "Arial, sans-serif",
-            textAlign: "center"
+            textAlign: "center",
         });
     }
 
@@ -73,6 +75,7 @@ class ControlWindow {
         this.title.textContent = "Song Info";
         this.title.style.margin = "0";
         this.title.style.fontSize = "18px";
+		this.title.style.cursor = "grab";
     }
 
     setupSeparator() {
@@ -140,6 +143,42 @@ class ControlWindow {
         element.innerHTML = label ? `<strong>${label}</strong><br>` : "";
         element.appendChild(link);
         return element;
+    }
+
+    makeDraggable() {
+        let offsetX, offsetY, isDragging = false;
+
+        this.title.addEventListener("mousedown", (e) => {
+            e.preventDefault();
+            isDragging = true;
+            offsetX = e.clientX - this.container.getBoundingClientRect().left;
+            offsetY = e.clientY - this.container.getBoundingClientRect().top;
+            this.title.style.cursor = "grabbing";
+        });
+
+        document.addEventListener("mousemove", (e) => {
+            if (isDragging) {
+                let newX = e.clientX - offsetX;
+                let newY = e.clientY - offsetY;
+
+                // Limit within screen boundaries
+                const maxX = window.innerWidth - this.container.offsetWidth;
+                const maxY = window.innerHeight - this.container.offsetHeight;
+
+                if (newX < 0) newX = 0;
+                if (newY < 0) newY = 0;
+                if (newX > maxX) newX = maxX;
+                if (newY > maxY) newY = maxY;
+
+                this.container.style.left = `${newX}px`;
+                this.container.style.top = `${newY}px`;
+            }
+        });
+
+        document.addEventListener("mouseup", () => {
+            isDragging = false;
+            this.title.style.cursor = "grab";
+        });
     }
 }
 
