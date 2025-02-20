@@ -3,6 +3,7 @@ class ControlWindow {
         this.container = document.createElement("div");
         this.title = document.createElement("h3");
         this.separator = document.createElement("hr");
+        this.errorSection = this.createErrorSection("Error", "Attivare CORS-Anywhere", "https://cors-anywhere.herokuapp.com/corsdemo");
         this.songName = this.createTextElement("Song Name", "");
         this.artist = this.createLinkElement("Artist", "", "#");
         this.type = this.createTextElement("Type", "");
@@ -24,12 +25,19 @@ class ControlWindow {
         this.container.appendChild(this.type);
         this.container.appendChild(this.videoLink);
         this.container.appendChild(this.buttonContainer);
+        this.container.appendChild(this.errorSection);
+        this.errorSection.style.display = "none"; // Hide error section initially
 
         document.body.appendChild(this.container);
 
         this.makeDraggable();
 
-        await this.loadData();
+        const corsCheck = await this.checkCorsAnywhere();
+        if (corsCheck) {
+            await this.loadData();
+        } else {
+            this.errorSection.style.display = "block"; // Show error section if CORS check fails
+        }
     }
 
     async loadData() {
@@ -55,6 +63,15 @@ class ControlWindow {
         });
     }
 
+    async checkCorsAnywhere() {
+        const response = await fetch(`https://cors-anywhere.herokuapp.com/google.com`, {
+            headers: {
+                'x-requested-with': 'XMLHttpRequest'  // Replace with your origin value
+            }
+        });
+        return response.ok;
+    }
+
     setupContainer() {
         Object.assign(this.container.style, {
             position: "fixed",
@@ -67,7 +84,7 @@ class ControlWindow {
             borderRadius: "10px",
             boxShadow: "0 4px 8px rgba(0, 0, 0, 0.3)",
             fontFamily: "Arial, sans-serif",
-            textAlign: "center",
+            textAlign: "center"
         });
     }
 
@@ -75,7 +92,7 @@ class ControlWindow {
         this.title.textContent = "Song Info";
         this.title.style.margin = "0";
         this.title.style.fontSize = "18px";
-		this.title.style.cursor = "grab";
+        this.title.style.cursor = "grab";
     }
 
     setupSeparator() {
@@ -142,6 +159,48 @@ class ControlWindow {
         link.style.textDecoration = "none";
         element.innerHTML = label ? `<strong>${label}</strong><br>` : "";
         element.appendChild(link);
+        return element;
+    }
+    
+    createErrorSection(label, text, href) {
+        const element = document.createElement("p");
+        const link = document.createElement("a");
+        link.href = href;
+        link.textContent = text;
+        link.target = "_blank";
+        link.style.color = "white";
+        link.style.textDecoration = "underline";
+        element.innerHTML = label ? `<strong>${label}</strong><br>` : "";
+        element.appendChild(link);
+        Object.assign(element.style, {
+            backgroundColor: "rgba(255, 0, 0, 0.25)",
+            color: "white",
+            padding: "10px",
+            borderRadius: "5px",
+            marginTop: "15px",
+            marginBottom: "0px",
+            position: "relative"
+        });
+
+        const closeButton = document.createElement("span");
+        closeButton.textContent = "✖";
+        Object.assign(closeButton.style, {
+            position: "absolute",
+            top: "5px",
+            right: "10px",
+            cursor: "pointer"
+        });
+
+        closeButton.addEventListener("click", () => {
+            element.style.transition = "opacity 0.5s";
+            element.style.opacity = "0";
+            setTimeout(() => {
+                element.style.display = "none";
+            }, 500);
+        });
+
+        element.appendChild(closeButton);
+
         return element;
     }
 
