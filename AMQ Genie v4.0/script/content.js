@@ -4,10 +4,9 @@ class ControlWindow {
         this.title = document.createElement("h3");
         this.separator = document.createElement("hr");
         this.errorSection = this.createErrorSection("Error", "Attivare CORS-Anywhere", "https://cors-anywhere.herokuapp.com/corsdemo");
-        this.songName = this.createTextElement("Song Name", "");
-        this.artist = this.createLinkElement("Artist", "", "#");
-        this.type = this.createTextElement("Type", "");
-        this.videoLink = this.createLinkElement("", "Video - Anime", "#");
+        this.animeName = this.createTextElement("Anime Name", "-");
+        this.songName = this.createTextElement("Song Name", "-");
+        this.artistName = this.createTextElement("Artist Name", "-");
         this.buttonContainer = document.createElement("div");
         this.init();
     }
@@ -20,10 +19,9 @@ class ControlWindow {
 
         this.container.appendChild(this.title);
         this.container.appendChild(this.separator);
+        this.container.appendChild(this.animeName);
         this.container.appendChild(this.songName);
-        this.container.appendChild(this.artist);
-        this.container.appendChild(this.type);
-        this.container.appendChild(this.videoLink);
+        this.container.appendChild(this.artistName);
         this.container.appendChild(this.buttonContainer);
         this.container.appendChild(this.errorSection);
         this.errorSection.style.display = "none"; // Hide error section initially
@@ -34,7 +32,7 @@ class ControlWindow {
 
         const corsCheck = await this.checkCorsAnywhere();
         if (corsCheck) {
-            await this.loadData();
+            console.log("CORS-Anywhere attivato con successo.");
         } else {
             this.errorSection.style.display = "block"; // Show error section if CORS check fails
         }
@@ -43,9 +41,9 @@ class ControlWindow {
     async loadData() {
         try {
             const data = await this.guess();
+            this.animeName.innerHTML = `<strong>Anime Name</strong><br>${data.anime}`;
             this.songName.innerHTML = `<strong>Song Name</strong><br>${data.song}`;
-            this.artist.innerHTML = `<strong>Artist</strong><br><a href="#" style="color: #69c; text-decoration: none;">${data.artist}</a>`;
-            this.type.innerHTML = `<strong>Type</strong><br>${data.type}`;
+            this.artistName.innerHTML = `<strong>Artist Name</strong><br>${data.artist}`;
         } catch (error) {
             console.error("Failed to load data", error);
         }
@@ -55,9 +53,9 @@ class ControlWindow {
         return new Promise(resolve => {
             setTimeout(() => {
                 resolve({
+                    anime: "Sword Art Online",
                     song: "IGNITE",
-                    artist: "Eir Aoi",
-                    type: "Opening 1"
+                    artist: "Eir Aoi"
                 });
             }, 1000);
         });
@@ -120,7 +118,9 @@ class ControlWindow {
         });
 
         const buttons = [
-            { icon: "👍", action: () => alert("Liked!") },
+            { icon: "👍", action: async () => {
+                await this.loadData();
+            }},
             { icon: "🚩", action: () => alert("Reported!") },
             { icon: "👎", action: () => alert("Disliked!") }
         ];
