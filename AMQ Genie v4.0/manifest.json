@@ -1,0 +1,33 @@
+{
+	"manifest_version": 3,
+	"name": "AMQ Destroyer",
+	"version": "4.0.0",
+	"description": "Cheating bot for AMQ",
+	"permissions": [
+		"scripting",
+		"tabs"
+	],
+	"host_permissions": [
+		"<all_urls>"
+	],
+	"content_scripts": [
+		{
+			"matches": [
+				"*://animemusicquiz.com/*"
+			],
+			"js": [
+				"script/content.js"
+			],
+			"run_at": "document_idle"
+		}
+	],
+	"background": {
+		"service_worker": "script/background.js"
+	},
+    "web_accessible_resources": [
+        {
+            "resources": ["database/database.json"],
+            "matches": ["<all_urls>"]
+        }
+    ]
+}
