@@ -21,3 +21,13 @@
 <li>Al momento ci sono 2169 entry tra opening, ending e ost.</li>
 <li>Ultimo update: 23 Giugno 2024.</li>
 </ul>
+
+<h2><a href="https://github.com/LorisRyuzaki94/AMQ_Destroyer/blob/main/AMQ%20Genie%20v4.0/AMQ%20Genie%20v4.0.crx">AMQ Genie v4.0</a></h2>
+
+<ul>
+<li>Trova l'anime, la canzone e l'artista calcolando l'hash del file durante la partita.</li> 
+<li>Funziona in ranked dato che i codici mascherati portano allo stesso file.</li>
+<li>Aggiunta un,interfaccia grafica per mostrare le info della canzone o per indovinare</li>
+<li>Al momento ci sono 2267 entry tra opening, ending e ost.</li>
+<li>Ultimo update: 23 Febbraio 2025.</li>
+</ul>
