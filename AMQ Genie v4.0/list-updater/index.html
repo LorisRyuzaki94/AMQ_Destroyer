@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>List Updater</title>
+	<style>
+		table {
+			width: 100%;
+			border-collapse: collapse;
+		}
+		th, td {
+			border: 1px solid black;
+			padding: 8px;
+			text-align: left;
+		}
+		th {
+			background-color: #f2f2f2;
+		}
+		.table-container {
+			max-height: 400px;
+			overflow-y: auto;
+			margin-top: 20px;
+		}
+		.tooltip {
+			position: relative;
+		}
+		.tooltip .tooltiptext {
+			visibility: hidden;
+			width: 120px;
+			background-color: #555;
+			color: #fff;
+			text-align: center;
+			border-radius: 5px;
+			padding: 5px 0;
+			position: absolute;
+			z-index: 1;
+			bottom: 125%; /* Position the tooltip above the text */
+			left: 50%;
+			margin-left: -60px; /* Use half of the width to center align the tooltip */
+			opacity: 0;
+			transition: opacity 0.3s;
+		}
+		.tooltip:hover .tooltiptext {
+			visibility: visible;
+			opacity: 1;
+		}
+	</style>
+</head>
+<body>
+	<input type="text" id="anime-name" placeholder="Enter anime name">
+	<button onclick="fetchAnime('anime', true)">FETCH</button>
+	<br>
+	<input type="file" id="file-selector">
+	<button onclick="updateDatabase()">Update Database</button>
+	<br>
+	<a id="download-link" style="display:none"></a>
+	<br>
+	<p id="cors-status"></p>
+	<br>
+	<div class="table-container">
+		<table>
+			<thead>
+				<tr>
+					<th>Anime Name</th>
+					<th>Song Name</th>
+					<th>Status</th>
+					<th>Hash</th>
+				</tr>
+			</thead>
+			<tbody id="song-table-body">
+			</tbody>
+		</table>
+	</div>
+
+	<script>
+		let bigJsonFile = {};
+		let corsAvailable = false;
+
+		/**
+		 * Fetch anime data based on the provided mode and partial match setting.
+		 * @param {string} mode - The mode for fetching data (anime, artist, song, composer).
+		 * @param {boolean} partial - Whether to allow partial matches.
+		 */
+		function fetchAnime(mode, partial) {
+			if (!corsAvailable) {
+				alert("CORS Anywhere is not available. Please try again later.");
+				return;
+			}
+
+			let json = {};
+			const query = document.getElementById("anime-name").value;
+
+			if (!query) {
+				alert("Please enter an anime name.");
+				return;
+			}
+
+			json.and_logic = false;
+			json.ignore_duplicate = false;
+			json.opening_filter = true;
+			json.ending_filter = true;
+			json.insert_filter = true;
+
+			switch (mode) {
+				case "anime":
+					json.anime_search_filter = { search: query, partial_match: partial };
+					break;
+				case "artist":
+					json.artist_search_filter = { search: query, partial_match: partial, group_granularity: 0, max_other_artist: 99 };
+					break;
+				case "song":
+					json.song_name_search_filter = { search: query, partial_match: partial };
+					break;
+				case "composer":
+					json.composer_search_filter = { search: query, partial_match: partial, arrangement: false };
+					break;
+				default:
+					alert("Invalid mode selected.");
+					return;
+			}
+
+			fetch("https://anisongdb.com/api/search_request", {
+				method: "POST",
+				headers: { "Accept": "application/json", "Content-Type": "application/json" },
+				body: JSON.stringify(json)
+			})
+			.then(res => res.json())
+			.then(json => {
+				if (json.length === 0) {
+					console.error("No results found:", json);
+					alert("No results found.");
+				} else {
+					populateTable(json);
+					processResultsInBatches(json);
+				}
+			})
+			.catch(err => {
+				console.error("Fetch error:", err);
+				alert("An error occurred while fetching data.");
+			});
+		}
+
+		/**
+		 * Populate the table with initial data.
+		 * @param {Array} results - The results from the fetch request.
+		 */
+		function populateTable(results) {
+			const tableBody = document.getElementById("song-table-body");
+
+			results.forEach((song) => {
+				const row = document.createElement('tr');
+				const animeCell = document.createElement('td');
+				const songCell = document.createElement('td');
+				const statusCell = document.createElement('td');
+				const hashCell = document.createElement('td');
+
+				animeCell.textContent = song.animeENName;
+				songCell.textContent = song.songName;
+				statusCell.textContent = song.audio ? 'Waiting' : 'Error';
+				statusCell.classList.add('tooltip');
+				if (!song.audio) {
+					statusCell.innerHTML += '<span class="tooltiptext">Null audio property</span>';
+				}
+				hashCell.textContent = '';
+
+				row.appendChild(animeCell);
+				row.appendChild(songCell);
+				row.appendChild(statusCell);
+				row.appendChild(hashCell);
+				tableBody.appendChild(row);
+
+				song.row = row;
+				song.statusCell = statusCell;
+				song.hashCell = hashCell;
+			});
+		}
+
+		/**
+		 * Process the results from the fetch request in batches.
+		 * @param {Array} results - The results from the fetch request.
+		 */
+		async function processResultsInBatches(results) {
+			const validResults = results.filter(song => song.audio);
+
+			// Divide the results into batches of 5
+			const batches = [];
+			for (let i = 0; i < validResults.length; i += 5) {
+				batches.push(validResults.slice(i, i + 5));
+			}
+
+			for (const batch of batches) {
+				await processBatch(batch);
+			}
+		}
+
+		/**
+		 * Process a batch of songs and update the table.
+		 * @param {Array} batch - The batch of songs to process.
+		 */
+		async function processBatch(batch) {
+			const promises = batch.map(async (song) => {
+				song.statusCell.textContent = 'Calculating...';
+
+				try {
+					const hash = await getHash(song.audio);
+					let json = { [hash]: { "anime": song.animeENName, "song": song.songName, "artist": song.songArtist } };
+					bigJsonFile = { ...bigJsonFile, ...json };
+
+					song.statusCell.textContent = 'Complete';
+					song.hashCell.textContent = hash;
+				} catch (err) {
+					if (err.message === "Too many requests (429)") {
+						console.warn("Too many requests, stopping further processing.");
+						song.statusCell.innerHTML = 'Error<span class="tooltiptext">Too many requests</span>';
+						return;
+					}
+					console.error("Error processing song:", err);
+					song.statusCell.innerHTML = `Error<span class="tooltiptext">${err.message}</span>`;
+				}
+			});
+
+			await Promise.all(promises);
+		}
+
+		/**
+		 * Convert a blob to a data string.
+		 * @param {Blob} blob - The blob to convert.
+		 * @returns {Promise<string>} - The data string.
+		 */
+		const blobToData = async (blob) => {
+			const buffer = await blob.arrayBuffer();
+			const view = new Int8Array(buffer);
+			return [...view].map((n) => n.toString()).join("");
+		};
+
+		/**
+		 * Generate a hash code from a string.
+		 * @returns {number} - The hash code.
+		 */
+		String.prototype.hashCode = function () {
+			var hash = 0, i, chr;
+			if (this.length === 0) return hash;
+			for (i = 0; i < this.length; i++) {
+				chr = this.charCodeAt(i);
+				hash = ((hash << 5) - hash) + chr;
+				hash |= 0; // Convert to 32bit integer
+			}
+			return hash;
+		}
+
+		/**
+		 * Get the hash of a file from a URL.
+		 * @param {string} url - The URL of the file.
+		 * @returns {Promise<number>} - The hash code of the file.
+		 */
+		async function getHash(url) {
+			return fetch(`https://cors-anywhere.herokuapp.com/https://nawdist.animemusicquiz.com/${url}`, {
+				headers: {
+					'x-requested-with': 'XMLHttpRequest'
+				}
+			})
+			.then(res => {
+				if (res.status === 429) {
+					throw new Error("Too many requests (429)");
+				}
+				return res.blob();
+			})
+			.then(blob => blobToData(blob))
+			.then(blob => blob.hashCode());
+		}
+
+		/**
+		 * Check if CORS Anywhere is working.
+		 * @returns {Promise<boolean>} - Whether CORS Anywhere is working.
+		 */
+		async function checkCorsAnywhere() {
+			const response = await fetch(`https://cors-anywhere.herokuapp.com/google.com`, {
+				headers: {
+					'x-requested-with': 'XMLHttpRequest'
+				}
+			});
+			return response.ok;
+		}
+
+		/**
+		 * Update the database with the fetched data.
+		 */
+		function updateDatabase() {
+			const fileSelector = document.getElementById('file-selector');
+			const file = fileSelector.files[0];
+			if (!file) {
+				alert("Please select a file.");
+				return;
+			}
+
+			const reader = new FileReader();
+			reader.onload = function(event) {
+				const content = event.target.result;
+				let database;
+				try {
+					database = JSON.parse(content);
+				} catch (err) {
+					console.error("Error parsing JSON file:", err);
+					alert("Error parsing JSON file.");
+					return;
+				}
+
+				const updatedDatabase = { ...database, ...bigJsonFile };
+				const updatedDatabaseStr = JSON.stringify(updatedDatabase, null, 2);
+
+				const blob = new Blob([updatedDatabaseStr], { type: "application/json" });
+				const url = URL.createObjectURL(blob);
+
+				const downloadLink = document.getElementById('download-link');
+				downloadLink.href = url;
+				downloadLink.download = 'database.json';
+				downloadLink.style.display = 'block';
+				downloadLink.textContent = 'Download updated database.json';
+			};
+			reader.readAsText(file);
+		}
+
+		/**
+		 * Check CORS Anywhere availability on page load and update the status.
+		 */
+		window.onload = async function() {
+			const statusElement = document.getElementById('cors-status');
+			corsAvailable = await checkCorsAnywhere();
+			if (corsAvailable) {
+				statusElement.textContent = "CORS Anywhere is available.";
+				statusElement.style.color = "green";
+			} else {
+				statusElement.textContent = "CORS Anywhere is not available.";
+				statusElement.style.color = "red";
+			}
+		};
+	</script>
+</body>
+</html>
