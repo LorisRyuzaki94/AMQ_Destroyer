@@ -182,7 +182,7 @@ class ControlWindow {
         });
 
         const buttons = [
-            { icon: "👍", action: async () => {
+            { icon: "🔎", action: async () => {
                 await this.loadData();
             }},
             { icon: "📝", action: () => {
