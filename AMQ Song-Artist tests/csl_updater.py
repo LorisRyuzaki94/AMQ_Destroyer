@@ -31,7 +31,6 @@ def process_json_elements(input_file, output_file):
             data = [data]  # Ensure we're working with a list
 
         new_data = []
-        missing_songs = []
         
         for element in data:
             # Initialize all filters as False
@@ -65,7 +64,7 @@ def process_json_elements(input_file, output_file):
                 **filters,  # Spread the filters into the body
                 "normal_broadcast": True,
                 "dub": False,
-                "rebroadcast": False,
+                "rebroadcast": True,
                 "standard": True,
                 "instrumental": False,
                 "chanting": False,
@@ -117,11 +116,6 @@ def process_json_elements(input_file, output_file):
                 length = len(response_data)
                 
                 if length == 0 or length > 1:
-                    song = {
-                        "songName": element["songName"],
-                        "songArtist": element["songArtist"]
-                    }
-                    missing_songs.append(song)
                     continue
                 
                 # Log response details
@@ -136,14 +130,8 @@ def process_json_elements(input_file, output_file):
                 for item in response_data:
                     if item['songName'] == element['songName']:
                         new_data.append(item)
-                    else:
-                        song = {
-                            "songName": element["songName"],
-                            "songArtist": element["songArtist"]
-                        }
-                        missing_songs.append(song)
                         
-                sleep(0.1)
+                sleep(0.2)
 
             except requests.exceptions.RequestException as e:
                     error_entry = {
@@ -154,15 +142,11 @@ def process_json_elements(input_file, output_file):
                         "element_id": element.get('annId')
                     }
                     logger.error(json.dumps(error_entry))
-                    element['api_error'] = error_entry
 
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(new_data, f, indent=4)
 
         print(f"Processed {len(new_data)} elements. Output saved to {output_file}")
-        print("The following songs are missing:")
-        for songs in missing_songs:
-            print(songs)
 
     except FileNotFoundError:
         logger.error(json.dumps({
@@ -180,4 +164,39 @@ def process_json_elements(input_file, output_file):
             "error": f"Critical error: {str(e)}"
         }))
 
-process_json_elements('CSLsongs.json', 'CSLsongs2.json')
+def compare_csl(file1, file2):
+    # Function to load song names from a JSON file
+    def load_song_names(filename):
+        with open(filename, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        # Extract "songName" from each element, assuming each element is a dict
+        return [item.get('songName') for item in data if 'songName' in item]
+
+    songs1 = load_song_names(file1)
+    songs2 = load_song_names(file2)
+
+    # Convert lists to sets for easier comparison
+    set1 = set(songs1)
+    set2 = set(songs2)
+
+    # Songs only in file1
+    only_in_file1 = set1 - set2
+
+    # Songs only in file2
+    only_in_file2 = set2 - set1
+
+    print(f"Songs only in {file1}:")
+    for song in only_in_file1:
+        print(song)
+
+    print(f"\nSongs only in {file2}:")
+    for song in only_in_file2:
+        print(song)
+      
+        
+# main
+file1 = 'CSLsongs.json'
+file2 = 'CSLsongs2.json'
+
+process_json_elements(file1, file2)
+compare_csl(file1, file2)

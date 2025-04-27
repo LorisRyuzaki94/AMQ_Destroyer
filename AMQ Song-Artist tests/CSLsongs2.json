@@ -272,6 +272,73 @@
     },
     {
         "annId": 23089,
+        "annSongId": 34279,
+        "animeENName": "86 Eighty-Six",
+        "animeJPName": "86 Eighty-Six",
+        "animeAltName": null,
+        "animeVintage": "Spring 2021",
+        "linked_ids": {
+            "myanimelist": 49235,
+            "anidb": 15441,
+            "anilist": null,
+            "kitsu": 44788
+        },
+        "animeType": "TV",
+        "animeCategory": "Season 1",
+        "songType": "Ending 3",
+        "songName": "Voices of the Chord",
+        "songArtist": "Gemie",
+        "songComposer": "Hiroyuki Sawano",
+        "songArranger": "Hiroyuki Sawano",
+        "songDifficulty": 58.0,
+        "songCategory": "Standard",
+        "songLength": 177.792,
+        "isDub": false,
+        "isRebroadcast": true,
+        "HQ": "u39ain.webm",
+        "MQ": null,
+        "audio": "6ma3h7.mp3",
+        "artists": [
+            {
+                "id": 6279,
+                "names": [
+                    "Gemie",
+                    "R!N"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "composers": [
+            {
+                "id": 6063,
+                "names": [
+                    "Hiroyuki Sawano",
+                    "SawanoHiroyuki[nZk]",
+                    "Hiroyuki SAWANO"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 6063,
+                "names": [
+                    "Hiroyuki Sawano",
+                    "SawanoHiroyuki[nZk]",
+                    "Hiroyuki SAWANO"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ]
+    },
+    {
+        "annId": 23089,
         "annSongId": 33386,
         "animeENName": "86 Eighty-Six",
         "animeJPName": "86 Eighty-Six",
@@ -2301,7 +2368,7 @@
         "songArtist": "Amae-tai!!",
         "songComposer": "Toshiaki Yamada",
         "songArranger": "Hiroshi Ueno & Toshiaki Yamada",
-        "songDifficulty": 19.0,
+        "songDifficulty": 21.0,
         "songCategory": "Standard",
         "songLength": 87.087,
         "isDub": false,
@@ -3475,7 +3542,7 @@
         "songArtist": "nomico",
         "songComposer": "TECHNOBOYS PULCRAFT GREEN-FUND",
         "songArranger": "TECHNOBOYS PULCRAFT GREEN-FUND",
-        "songDifficulty": 27.0,
+        "songDifficulty": 29.0,
         "songCategory": "Standard",
         "songLength": 89.13,
         "isDub": false,
@@ -8987,7 +9054,7 @@
         "songArtist": "milktub feat. Baka Test All Stars",
         "songComposer": "Ichibanboshi\u2606Hikaru",
         "songArranger": "Kyouichi Miyazaki",
-        "songDifficulty": 36.0,
+        "songDifficulty": 37.0,
         "songCategory": "Standard",
         "songLength": 87.528,
         "isDub": false,
@@ -11108,7 +11175,7 @@
         "songArtist": "Group Tamashii",
         "songComposer": "Taku Tomizawa",
         "songArranger": "Taku Tomizawa",
-        "songDifficulty": 48.0,
+        "songDifficulty": 49.0,
         "songCategory": "Standard",
         "songLength": 86.592,
         "isDub": false,
@@ -16727,7 +16794,7 @@
         "songArtist": "Kessoku Band",
         "songComposer": "Masafumi Goto",
         "songArranger": "Ritsuo Mitsui",
-        "songDifficulty": 46.0,
+        "songDifficulty": 47.0,
         "songCategory": "Standard",
         "songLength": 209.664,
         "isDub": false,
@@ -22530,7 +22597,7 @@
         "songArtist": "Kanako Itou",
         "songComposer": "Chiyomaru Shikura",
         "songArranger": "Toshimichi Isoe",
-        "songDifficulty": 46.0,
+        "songDifficulty": 47.0,
         "songCategory": "Standard",
         "songLength": 88.368,
         "isDub": false,
@@ -23636,7 +23703,7 @@
         "songArtist": "access",
         "songComposer": "Daisuke Asakura",
         "songArranger": "Daisuke Asakura",
-        "songDifficulty": 55.0,
+        "songDifficulty": 54.0,
         "songCategory": "Standard",
         "songLength": 89.952,
         "isDub": false,
@@ -25777,7 +25844,7 @@
         "songArtist": "Sou",
         "songComposer": "Kirai Hiiragi",
         "songArranger": "Kirai Hiiragi",
-        "songDifficulty": 41.0,
+        "songDifficulty": 42.0,
         "songCategory": "Standard",
         "songLength": 87.96,
         "isDub": false,
@@ -29266,7 +29333,7 @@
         "songArtist": "Daichi Miura",
         "songComposer": "Nao'ymt",
         "songArranger": "Nao'ymt",
-        "songDifficulty": 41.0,
+        "songDifficulty": 42.0,
         "songCategory": "Standard",
         "songLength": 219.552,
         "isDub": false,
@@ -30933,7 +31000,7 @@
         "songArtist": "ChouCho",
         "songComposer": "Shin Kawamoto",
         "songArranger": "Shin Kawamoto",
-        "songDifficulty": 52.0,
+        "songDifficulty": 51.0,
         "songCategory": "Standard",
         "songLength": 89.544,
         "isDub": false,
@@ -36288,6 +36355,80 @@
         ]
     },
     {
+        "annId": 6236,
+        "annSongId": 32402,
+        "animeENName": "Gintama",
+        "animeJPName": "Gintama",
+        "animeAltName": null,
+        "animeVintage": "Spring 2006",
+        "linked_ids": {
+            "myanimelist": 918,
+            "anidb": 3468,
+            "anilist": 918,
+            "kitsu": 818
+        },
+        "animeType": "TV",
+        "animeCategory": "Season 1",
+        "songType": "Ending 1",
+        "songName": "We Gotta Fight",
+        "songArtist": "XY",
+        "songComposer": "Takeshi",
+        "songArranger": "Takeshi",
+        "songDifficulty": 13.0,
+        "songCategory": "Standard",
+        "songLength": 89.976,
+        "isDub": false,
+        "isRebroadcast": true,
+        "HQ": "g56x4a.webm",
+        "MQ": null,
+        "audio": "651g87.mp3",
+        "artists": [
+            {
+                "id": 3924,
+                "names": [
+                    "XY"
+                ],
+                "line_up_id": 0,
+                "groups": null,
+                "members": [
+                    {
+                        "id": 17387,
+                        "names": [
+                            "Ikura"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ]
+            }
+        ],
+        "composers": [
+            {
+                "id": 17388,
+                "names": [
+                    "Takeshi",
+                    "Takeshi (XY)"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 17388,
+                "names": [
+                    "Takeshi",
+                    "Takeshi (XY)"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ]
+    },
+    {
         "annId": 23828,
         "annSongId": 34471,
         "animeENName": "Gintama: The Very Final",
@@ -38119,7 +38260,7 @@
         "songArtist": "yozuca*",
         "songComposer": "Tororo",
         "songArranger": "Angel Note",
-        "songDifficulty": 19.0,
+        "songDifficulty": 20.0,
         "songCategory": "Standard",
         "songLength": 90.819,
         "isDub": false,
@@ -39563,14 +39704,14 @@
         "songArtist": "THE SIXTH LIE",
         "songComposer": "Reiji",
         "songArranger": "Reiji & Tsuyoshi Sato",
-        "songDifficulty": 39.0,
+        "songDifficulty": 40.0,
         "songCategory": "Standard",
         "songLength": 89.678,
         "isDub": false,
         "isRebroadcast": false,
         "HQ": "u0u4mz.webm",
         "MQ": null,
-        "audio": null,
+        "audio": "1yg2gg.mp3",
         "artists": [
             {
                 "id": 7302,
@@ -39645,7 +39786,7 @@
         "songArtist": "THE SIXTH LIE",
         "songComposer": "Reiji",
         "songArranger": "Reiji & Tsuyoshi Sato",
-        "songDifficulty": 36.0,
+        "songDifficulty": 37.0,
         "songCategory": "Standard",
         "songLength": 88.416,
         "isDub": false,
@@ -39871,7 +40012,7 @@
         "songArtist": "yoshiki*lisa",
         "songComposer": "Gou Sakabe",
         "songArranger": "Gou Sakabe",
-        "songDifficulty": 48.0,
+        "songDifficulty": 49.0,
         "songCategory": "Standard",
         "songLength": 89.04,
         "isDub": false,
@@ -40239,7 +40380,7 @@
         "songArtist": "L'Arc~en~Ciel",
         "songComposer": "tetsu",
         "songArranger": "L'Arc~en~Ciel & Hajime Okano",
-        "songDifficulty": 53.0,
+        "songDifficulty": 54.0,
         "songCategory": "Standard",
         "songLength": 97.536,
         "isDub": false,
@@ -44832,7 +44973,7 @@
         "songArtist": "batta",
         "songComposer": "Tatsu Hoshino",
         "songArranger": "batta",
-        "songDifficulty": 58.0,
+        "songDifficulty": 59.0,
         "songCategory": "Standard",
         "songLength": 71.712,
         "isDub": false,
@@ -46901,7 +47042,7 @@
         "songArtist": "Masayuki Suzuki feat. Rikka Ihara",
         "songComposer": "Yoshiki Mizuno",
         "songArranger": "Akimitsu Honma",
-        "songDifficulty": 85.0,
+        "songDifficulty": 84.0,
         "songCategory": "Standard",
         "songLength": 91.248,
         "isDub": false,
@@ -47805,7 +47946,7 @@
         "songArtist": "Rin Kurusu",
         "songComposer": "Junxix.",
         "songArranger": "kazuboy.",
-        "songDifficulty": 38.0,
+        "songDifficulty": 39.0,
         "songCategory": "Standard",
         "songLength": 89.424,
         "isDub": false,
@@ -49248,6 +49389,72 @@
     },
     {
         "annId": 20144,
+        "annSongId": 32482,
+        "animeENName": "Legend of the Galactic Heroes: Die Neue These",
+        "animeJPName": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou",
+        "animeAltName": null,
+        "animeVintage": "Spring 2018",
+        "linked_ids": {
+            "myanimelist": 31433,
+            "anidb": 11495,
+            "anilist": 20628,
+            "kitsu": 11331
+        },
+        "animeType": "TV",
+        "animeCategory": "TV 2019",
+        "songType": "Opening 1",
+        "songName": "CRY",
+        "songArtist": "SawanoHiroyuki[nZk]:mizuki",
+        "songComposer": "Hiroyuki Sawano",
+        "songArranger": "Hiroyuki Sawano",
+        "songDifficulty": 24.0,
+        "songCategory": "Standard",
+        "songLength": 85.248,
+        "isDub": false,
+        "isRebroadcast": true,
+        "HQ": "ut4khb.webm",
+        "MQ": null,
+        "audio": "mbsjxz.mp3",
+        "artists": [
+            {
+                "id": 6064,
+                "names": [
+                    "mizuki"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "composers": [
+            {
+                "id": 6063,
+                "names": [
+                    "Hiroyuki Sawano",
+                    "SawanoHiroyuki[nZk]",
+                    "Hiroyuki SAWANO"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 6063,
+                "names": [
+                    "Hiroyuki Sawano",
+                    "SawanoHiroyuki[nZk]",
+                    "Hiroyuki SAWANO"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ]
+    },
+    {
+        "annId": 20144,
         "annSongId": 18926,
         "animeENName": "Legend of the Galactic Heroes: Die Neue These",
         "animeJPName": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou",
@@ -49449,7 +49656,7 @@
         "songArtist": "MAN WITH A MISSION feat. TAKUMA (10-FEET)",
         "songComposer": "Kamikaze Boy",
         "songArranger": "MAN WITH A MISSION & Kousuke Ooshima",
-        "songDifficulty": 81.0,
+        "songDifficulty": 80.0,
         "songCategory": "Standard",
         "songLength": 90.024,
         "isDub": false,
@@ -50351,7 +50558,7 @@
         "songArtist": "Frederic",
         "songComposer": "Kouji Mihara",
         "songArranger": "Frederic",
-        "songDifficulty": 75.0,
+        "songDifficulty": 74.0,
         "songCategory": "Standard",
         "songLength": 89.04,
         "isDub": false,
@@ -50571,7 +50778,7 @@
         "songArtist": "Black Raison d'\u00eatre",
         "songComposer": "ZAQ",
         "songArranger": "ZAQ",
-        "songDifficulty": 50.0,
+        "songDifficulty": 49.0,
         "songCategory": "Standard",
         "songLength": 88.896,
         "isDub": false,
@@ -51534,7 +51741,7 @@
         "songArtist": "Kevin Penkin ft.Raj Ramayya",
         "songComposer": "Kevin Penkin",
         "songArranger": "Kevin Penkin",
-        "songDifficulty": 70.0,
+        "songDifficulty": 69.0,
         "songCategory": "Standard",
         "songLength": 109.008,
         "isDub": false,
@@ -54040,7 +54247,7 @@
         "songArtist": "AiNA THE END",
         "songComposer": "TK",
         "songArranger": "TK",
-        "songDifficulty": 47.0,
+        "songDifficulty": 48.0,
         "songCategory": "Standard",
         "songLength": 87.432,
         "isDub": false,
@@ -54904,7 +55111,7 @@
         "songArtist": "LONGMAN",
         "songComposer": "HIROYA HIRAI",
         "songArranger": "LONGMAN & Naoki Itai",
-        "songDifficulty": 51.0,
+        "songDifficulty": 52.0,
         "songCategory": "Standard",
         "songLength": 89.616,
         "isDub": false,
@@ -58330,7 +58537,7 @@
         "songArtist": "SawanoHiroyuki[nZk]:Jean-Ken Johnny",
         "songComposer": "Hiroyuki Sawano",
         "songArranger": "Hiroyuki Sawano",
-        "songDifficulty": 31.0,
+        "songDifficulty": 32.0,
         "songCategory": "Standard",
         "songLength": 87.24,
         "isDub": false,
@@ -58926,7 +59133,7 @@
         "songArtist": "Ado",
         "songComposer": "Yasutaka Nakata",
         "songArranger": "Yasutaka Nakata",
-        "songDifficulty": 62.0,
+        "songDifficulty": 63.0,
         "songCategory": "Standard",
         "songLength": 221.544,
         "isDub": false,
@@ -60237,6 +60444,68 @@
                         "members": null
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "annId": 12870,
+        "annSongId": 11682,
+        "animeENName": "Persona 4 the Animation",
+        "animeJPName": "Persona 4 the Animation",
+        "animeAltName": null,
+        "animeVintage": "Fall 2011",
+        "linked_ids": {
+            "myanimelist": 13587,
+            "anidb": 8378,
+            "anilist": 13587,
+            "kitsu": 6997
+        },
+        "animeType": "TV",
+        "animeCategory": "TV 2",
+        "songType": "Opening 1",
+        "songName": "Pursuing My True Self",
+        "songArtist": "Shihoko Hirata",
+        "songComposer": "Shouji Meguro",
+        "songArranger": "Shouji Meguro",
+        "songDifficulty": 58.0,
+        "songCategory": "Standard",
+        "songLength": 82.584,
+        "isDub": false,
+        "isRebroadcast": true,
+        "HQ": "8w00ij.webm",
+        "MQ": null,
+        "audio": "58g8ke.mp3",
+        "artists": [
+            {
+                "id": 5297,
+                "names": [
+                    "Shihoko Hirata"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "composers": [
+            {
+                "id": 7379,
+                "names": [
+                    "Shouji Meguro"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 7379,
+                "names": [
+                    "Shouji Meguro"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
             }
         ]
     },
@@ -62980,7 +63249,7 @@
         "songArtist": "Mayu Maeshima",
         "songComposer": "R\u30fbO\u30fbN",
         "songArranger": "R\u30fbO\u30fbN",
-        "songDifficulty": 67.0,
+        "songDifficulty": 68.0,
         "songCategory": "Standard",
         "songLength": 89.544,
         "isDub": false,
@@ -66559,7 +66828,7 @@
         "songArtist": "SawanoHiroyuki[nZk]:Yosh",
         "songComposer": "Hiroyuki Sawano",
         "songArranger": "Hiroyuki Sawano",
-        "songDifficulty": 44.0,
+        "songDifficulty": 45.0,
         "songCategory": "Standard",
         "songLength": 88.944,
         "isDub": false,
@@ -66812,7 +67081,7 @@
         "songArtist": "Mami Kawada",
         "songComposer": "Tomoyuki Nakazawa",
         "songArranger": "Tomoyuki Nakazawa & Takeshi Ozaki",
-        "songDifficulty": 33.0,
+        "songDifficulty": 34.0,
         "songCategory": "Standard",
         "songLength": 94.848,
         "isDub": false,
@@ -67881,7 +68150,7 @@
         "songArtist": "Ado",
         "songComposer": "meiyo",
         "songArranger": "Yoko Kanno \u00d7 SEATBELTS",
-        "songDifficulty": 61.0,
+        "songDifficulty": 62.0,
         "songCategory": "Standard",
         "songLength": 89.895,
         "isDub": false,
@@ -68486,7 +68755,7 @@
         "songArtist": "Anna Yano",
         "songComposer": "kz",
         "songArranger": "kz",
-        "songDifficulty": 21.0,
+        "songDifficulty": 22.0,
         "songCategory": "Standard",
         "songLength": 90.024,
         "isDub": false,
@@ -79393,7 +79662,7 @@
         "songArtist": "MAISONdes feat. asmi, Surii",
         "songComposer": "Surii",
         "songArranger": "Surii",
-        "songDifficulty": 47.0,
+        "songDifficulty": 48.0,
         "songCategory": "Standard",
         "songLength": 90.048,
         "isDub": false,
@@ -81146,7 +81415,7 @@
         "songArtist": "KIMERU",
         "songComposer": "Yocke",
         "songArranger": "Yocke",
-        "songDifficulty": 19.0,
+        "songDifficulty": 20.0,
         "songCategory": "Standard",
         "songLength": 88.752,
         "isDub": false,
@@ -81446,7 +81715,7 @@
         "songArtist": "KANA-BOON",
         "songComposer": "Maguro Taniguchi",
         "songArranger": "KANA-BOON",
-        "songDifficulty": 64.0,
+        "songDifficulty": 65.0,
         "songCategory": "Standard",
         "songLength": 87.809,
         "isDub": false,
@@ -83319,98 +83588,6 @@
         ]
     },
     {
-        "annId": 29893,
-        "annSongId": 44411,
-        "animeENName": "Ave Mujica: The Die is Cast",
-        "animeJPName": "BanG Dream! Ave Mujica",
-        "animeAltName": null,
-        "animeVintage": "Winter 2025",
-        "linked_ids": {
-            "myanimelist": 56653,
-            "anidb": null,
-            "anilist": 169295,
-            "kitsu": 47943
-        },
-        "animeType": "TV",
-        "animeCategory": "Season 6",
-        "songType": "Opening 1",
-        "songName": "KiLLKiSS",
-        "songArtist": "Ave Mujica",
-        "songComposer": "Daisuke Hasegawa & Diggy-MO'",
-        "songArranger": "Daisuke Hasegawa",
-        "songDifficulty": 61.0,
-        "songCategory": "Standard",
-        "songLength": null,
-        "isDub": false,
-        "isRebroadcast": false,
-        "HQ": "3237tn.webm",
-        "MQ": null,
-        "audio": "0tzknw.mp3",
-        "artists": [
-            {
-                "id": 19088,
-                "names": [
-                    "Ave Mujica"
-                ],
-                "line_up_id": 0,
-                "groups": null,
-                "members": [
-                    {
-                        "id": 5735,
-                        "names": [
-                            "Rico Sasaki",
-                            "Rico"
-                        ],
-                        "line_up_id": null,
-                        "groups": null,
-                        "members": null
-                    }
-                ]
-            }
-        ],
-        "composers": [
-            {
-                "id": 3435,
-                "names": [
-                    "Diggy-MO'"
-                ],
-                "line_up_id": -1,
-                "groups": [
-                    {
-                        "id": 3520,
-                        "names": [
-                            "SOUL'd OUT"
-                        ],
-                        "line_up_id": null,
-                        "groups": null,
-                        "members": null
-                    }
-                ],
-                "members": null
-            },
-            {
-                "id": 22503,
-                "names": [
-                    "Daisuke Hasegawa"
-                ],
-                "line_up_id": -1,
-                "groups": null,
-                "members": null
-            }
-        ],
-        "arrangers": [
-            {
-                "id": 22503,
-                "names": [
-                    "Daisuke Hasegawa"
-                ],
-                "line_up_id": -1,
-                "groups": null,
-                "members": null
-            }
-        ]
-    },
-    {
         "annId": 32539,
         "annSongId": 44466,
         "animeENName": "Zenshu",
@@ -83730,6 +83907,774 @@
                 "id": 15798,
                 "names": [
                     "Chaki Zulu"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ]
+    },
+    {
+        "annId": 29893,
+        "annSongId": 44411,
+        "animeENName": "Ave Mujica: The Die is Cast",
+        "animeJPName": "BanG Dream! Ave Mujica",
+        "animeAltName": null,
+        "animeVintage": "Winter 2025",
+        "linked_ids": {
+            "myanimelist": 56653,
+            "anidb": null,
+            "anilist": 169295,
+            "kitsu": 47943
+        },
+        "animeType": "TV",
+        "animeCategory": "Season 6",
+        "songType": "Opening 1",
+        "songName": "KiLLKiSS",
+        "songArtist": "Ave Mujica",
+        "songComposer": "Daisuke Hasegawa & Diggy-MO'",
+        "songArranger": "Daisuke Hasegawa",
+        "songDifficulty": 61.0,
+        "songCategory": "Standard",
+        "songLength": null,
+        "isDub": false,
+        "isRebroadcast": false,
+        "HQ": "3237tn.webm",
+        "MQ": null,
+        "audio": "0tzknw.mp3",
+        "artists": [
+            {
+                "id": 19088,
+                "names": [
+                    "Ave Mujica"
+                ],
+                "line_up_id": 0,
+                "groups": null,
+                "members": [
+                    {
+                        "id": 5735,
+                        "names": [
+                            "Rico Sasaki",
+                            "Rico"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ]
+            }
+        ],
+        "composers": [
+            {
+                "id": 3435,
+                "names": [
+                    "Diggy-MO'"
+                ],
+                "line_up_id": -1,
+                "groups": [
+                    {
+                        "id": 3520,
+                        "names": [
+                            "SOUL'd OUT"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ],
+                "members": null
+            },
+            {
+                "id": 22503,
+                "names": [
+                    "Daisuke Hasegawa"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 22503,
+                "names": [
+                    "Daisuke Hasegawa"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ]
+    },
+    {
+        "annId": 29893,
+        "annSongId": 44456,
+        "animeENName": "Ave Mujica: The Die is Cast",
+        "animeJPName": "BanG Dream! Ave Mujica",
+        "animeAltName": null,
+        "animeVintage": "Winter 2025",
+        "linked_ids": {
+            "myanimelist": 56653,
+            "anidb": null,
+            "anilist": 169295,
+            "kitsu": 47943
+        },
+        "animeType": "TV",
+        "animeCategory": "Season 6",
+        "songType": "Ending 1",
+        "songName": "Georgette Me, Georgette You",
+        "songArtist": "Ave Mujica",
+        "songComposer": "Koji Matsuzaka",
+        "songArranger": "Koji Matsuzaka",
+        "songDifficulty": 0.0,
+        "songCategory": "Standard",
+        "songLength": null,
+        "isDub": false,
+        "isRebroadcast": false,
+        "HQ": "n920so.webm",
+        "MQ": null,
+        "audio": null,
+        "artists": [
+            {
+                "id": 19088,
+                "names": [
+                    "Ave Mujica"
+                ],
+                "line_up_id": 0,
+                "groups": null,
+                "members": [
+                    {
+                        "id": 5735,
+                        "names": [
+                            "Rico Sasaki",
+                            "Rico"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ]
+            }
+        ],
+        "composers": [
+            {
+                "id": 15558,
+                "names": [
+                    "Koji Matsuzaka"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 15558,
+                "names": [
+                    "Koji Matsuzaka"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ]
+    },
+    {
+        "annId": 29893,
+        "annSongId": 44740,
+        "animeENName": "Ave Mujica: The Die is Cast",
+        "animeJPName": "BanG Dream! Ave Mujica",
+        "animeAltName": null,
+        "animeVintage": "Winter 2025",
+        "linked_ids": {
+            "myanimelist": 56653,
+            "anidb": null,
+            "anilist": 169295,
+            "kitsu": 47943
+        },
+        "animeType": "TV",
+        "animeCategory": "Season 6",
+        "songType": "Ending 2",
+        "songName": "Crucifix X",
+        "songArtist": "Ave Mujica",
+        "songComposer": "Takata Fuyuhiko",
+        "songArranger": "Takata Fuyuhiko",
+        "songDifficulty": 50.0,
+        "songCategory": "Standard",
+        "songLength": null,
+        "isDub": false,
+        "isRebroadcast": false,
+        "HQ": "iwlopu.webm",
+        "MQ": null,
+        "audio": null,
+        "artists": [
+            {
+                "id": 19088,
+                "names": [
+                    "Ave Mujica"
+                ],
+                "line_up_id": 0,
+                "groups": null,
+                "members": [
+                    {
+                        "id": 5735,
+                        "names": [
+                            "Rico Sasaki",
+                            "Rico"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ]
+            }
+        ],
+        "composers": [
+            {
+                "id": 22121,
+                "names": [
+                    "Takata Fuyuhiko"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 22121,
+                "names": [
+                    "Takata Fuyuhiko"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ]
+    },
+    {
+        "annId": 29893,
+        "annSongId": 44739,
+        "animeENName": "Ave Mujica: The Die is Cast",
+        "animeJPName": "BanG Dream! Ave Mujica",
+        "animeAltName": null,
+        "animeVintage": "Winter 2025",
+        "linked_ids": {
+            "myanimelist": 56653,
+            "anidb": null,
+            "anilist": 169295,
+            "kitsu": 47943
+        },
+        "animeType": "TV",
+        "animeCategory": "Season 6",
+        "songType": "Insert Song",
+        "songName": "Imprisoned XII",
+        "songArtist": "Ave Mujica",
+        "songComposer": "Koji Matsuzaka",
+        "songArranger": "Koji Matsuzaka",
+        "songDifficulty": 46.0,
+        "songCategory": "Standard",
+        "songLength": null,
+        "isDub": false,
+        "isRebroadcast": false,
+        "HQ": "8fbxzn.webm",
+        "MQ": null,
+        "audio": "7970zn.mp3",
+        "artists": [
+            {
+                "id": 19088,
+                "names": [
+                    "Ave Mujica"
+                ],
+                "line_up_id": 0,
+                "groups": null,
+                "members": [
+                    {
+                        "id": 5735,
+                        "names": [
+                            "Rico Sasaki",
+                            "Rico"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ]
+            }
+        ],
+        "composers": [
+            {
+                "id": 15558,
+                "names": [
+                    "Koji Matsuzaka"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 15558,
+                "names": [
+                    "Koji Matsuzaka"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ]
+    },
+    {
+        "annId": 18693,
+        "annSongId": 16215,
+        "animeENName": "BanG Dream!",
+        "animeJPName": "BanG Dream!",
+        "animeAltName": null,
+        "animeVintage": "Winter 2017",
+        "linked_ids": {
+            "myanimelist": 33573,
+            "anidb": 12262,
+            "anilist": 87435,
+            "kitsu": 12330
+        },
+        "animeType": "TV",
+        "animeCategory": "Season 1",
+        "songType": "Opening 1",
+        "songName": "Tokimeki Experience!",
+        "songArtist": "Poppin'Party",
+        "songComposer": "Noriyasu Agematsu",
+        "songArranger": "Hitoshi Fujima",
+        "songDifficulty": 52.0,
+        "songCategory": "Standard",
+        "songLength": 89.496,
+        "isDub": false,
+        "isRebroadcast": false,
+        "HQ": "x7cq1w.webm",
+        "MQ": "ecdpu3.webm",
+        "audio": "r4179y.mp3",
+        "artists": [
+            {
+                "id": 6878,
+                "names": [
+                    "Poppin'Party"
+                ],
+                "line_up_id": 0,
+                "groups": [
+                    {
+                        "id": 8750,
+                        "names": [
+                            "CiRCLE THANKS PARTY! Special Band"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ],
+                "members": [
+                    {
+                        "id": 3294,
+                        "names": [
+                            "Aimi",
+                            "KYOKO"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    },
+                    {
+                        "id": 5781,
+                        "names": [
+                            "Ayaka Ohashi",
+                            "Mirai from BEST FRIENDS!"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    },
+                    {
+                        "id": 7519,
+                        "names": [
+                            "Ayasa Ito"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    },
+                    {
+                        "id": 7608,
+                        "names": [
+                            "Sae Otsuka"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    },
+                    {
+                        "id": 8997,
+                        "names": [
+                            "Rimi Nishimoto"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ]
+            }
+        ],
+        "composers": [
+            {
+                "id": 10500,
+                "names": [
+                    "Noriyasu Agematsu"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 10498,
+                "names": [
+                    "Hitoshi Fujima"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ]
+    },
+    {
+        "annId": 21289,
+        "annSongId": 21622,
+        "animeENName": "BanG Dream! 2nd Season",
+        "animeJPName": "BanG Dream! 2nd Season",
+        "animeAltName": null,
+        "animeVintage": "Winter 2019",
+        "linked_ids": {
+            "myanimelist": 37869,
+            "anidb": 14075,
+            "anilist": 101633,
+            "kitsu": 41289
+        },
+        "animeType": "TV",
+        "animeCategory": "Season 2",
+        "songType": "Opening 1",
+        "songName": "Kizuna Music\u266a",
+        "songArtist": "Poppin'Party",
+        "songComposer": "Ryuutarou Fujinaga",
+        "songArranger": "Ryuutarou Fujinaga",
+        "songDifficulty": 47.0,
+        "songCategory": "Standard",
+        "songLength": 89.04,
+        "isDub": false,
+        "isRebroadcast": false,
+        "HQ": "6hk1m3.webm",
+        "MQ": "obotm6.webm",
+        "audio": "fmm2fc.mp3",
+        "artists": [
+            {
+                "id": 6878,
+                "names": [
+                    "Poppin'Party"
+                ],
+                "line_up_id": 0,
+                "groups": [
+                    {
+                        "id": 8750,
+                        "names": [
+                            "CiRCLE THANKS PARTY! Special Band"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ],
+                "members": [
+                    {
+                        "id": 3294,
+                        "names": [
+                            "Aimi",
+                            "KYOKO"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    },
+                    {
+                        "id": 5781,
+                        "names": [
+                            "Ayaka Ohashi",
+                            "Mirai from BEST FRIENDS!"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    },
+                    {
+                        "id": 7519,
+                        "names": [
+                            "Ayasa Ito"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    },
+                    {
+                        "id": 7608,
+                        "names": [
+                            "Sae Otsuka"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    },
+                    {
+                        "id": 8997,
+                        "names": [
+                            "Rimi Nishimoto"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ]
+            }
+        ],
+        "composers": [
+            {
+                "id": 10505,
+                "names": [
+                    "Ryuutarou Fujinaga"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 10505,
+                "names": [
+                    "Ryuutarou Fujinaga"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ]
+    },
+    {
+        "annId": 27861,
+        "annSongId": 40527,
+        "animeENName": "BanG Dream! It's MyGO!!!!!",
+        "animeJPName": "BanG Dream! It's MyGO!!!!!",
+        "animeAltName": null,
+        "animeVintage": "Summer 2023",
+        "linked_ids": {
+            "myanimelist": 54959,
+            "anidb": 17981,
+            "anilist": 163571,
+            "kitsu": 47291
+        },
+        "animeType": "TV",
+        "animeCategory": "Season 5",
+        "songType": "Insert Song",
+        "songName": "Haruhikage",
+        "songArtist": "CRYCHIC",
+        "songComposer": "Junpei Fujita",
+        "songArranger": "Junpei Fujita",
+        "songDifficulty": 45.0,
+        "songCategory": "Standard",
+        "songLength": 115.392,
+        "isDub": false,
+        "isRebroadcast": false,
+        "HQ": "5trsxr.webm",
+        "MQ": null,
+        "audio": "fddwq3.mp3",
+        "artists": [
+            {
+                "id": 18795,
+                "names": [
+                    "CRYCHIC"
+                ],
+                "line_up_id": 0,
+                "groups": null,
+                "members": [
+                    {
+                        "id": 8806,
+                        "names": [
+                            "Hina Youmiya"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ]
+            }
+        ],
+        "composers": [
+            {
+                "id": 10495,
+                "names": [
+                    "Junpei Fujita"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 10495,
+                "names": [
+                    "Junpei Fujita"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ]
+    },
+    {
+        "annId": 27861,
+        "annSongId": 41312,
+        "animeENName": "BanG Dream! It's MyGO!!!!!",
+        "animeJPName": "BanG Dream! It's MyGO!!!!!",
+        "animeAltName": null,
+        "animeVintage": "Summer 2023",
+        "linked_ids": {
+            "myanimelist": 54959,
+            "anidb": 17981,
+            "anilist": 163571,
+            "kitsu": 47291
+        },
+        "animeType": "TV",
+        "animeCategory": "Season 5",
+        "songType": "Insert Song",
+        "songName": "Ave Mujica",
+        "songArtist": "Ave Mujica",
+        "songComposer": "Noriyasu Agematsu",
+        "songArranger": "Hitoshi Fujima",
+        "songDifficulty": 49.0,
+        "songCategory": "Standard",
+        "songLength": 248.784,
+        "isDub": false,
+        "isRebroadcast": false,
+        "HQ": "qzvtj3.webm",
+        "MQ": null,
+        "audio": "6a2p7k.mp3",
+        "artists": [
+            {
+                "id": 19088,
+                "names": [
+                    "Ave Mujica"
+                ],
+                "line_up_id": 0,
+                "groups": null,
+                "members": [
+                    {
+                        "id": 5735,
+                        "names": [
+                            "Rico Sasaki",
+                            "Rico"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ]
+            }
+        ],
+        "composers": [
+            {
+                "id": 10500,
+                "names": [
+                    "Noriyasu Agematsu"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 10498,
+                "names": [
+                    "Hitoshi Fujima"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ]
+    },
+    {
+        "annId": 27861,
+        "annSongId": 40483,
+        "animeENName": "BanG Dream! It's MyGO!!!!!",
+        "animeJPName": "BanG Dream! It's MyGO!!!!!",
+        "animeAltName": null,
+        "animeVintage": "Summer 2023",
+        "linked_ids": {
+            "myanimelist": 54959,
+            "anidb": 17981,
+            "anilist": 163571,
+            "kitsu": 47291
+        },
+        "animeType": "TV",
+        "animeCategory": "Season 5",
+        "songType": "Opening 1",
+        "songName": "Hitoshizuku",
+        "songArtist": "MyGO!!!!!",
+        "songComposer": "hisakuni",
+        "songArranger": "hisakuni",
+        "songDifficulty": 44.0,
+        "songCategory": "Standard",
+        "songLength": 89.28,
+        "isDub": false,
+        "isRebroadcast": false,
+        "HQ": "978mmw.webm",
+        "MQ": null,
+        "audio": null,
+        "artists": [
+            {
+                "id": 18770,
+                "names": [
+                    "MyGO!!!!!"
+                ],
+                "line_up_id": 0,
+                "groups": null,
+                "members": [
+                    {
+                        "id": 8806,
+                        "names": [
+                            "Hina Youmiya"
+                        ],
+                        "line_up_id": null,
+                        "groups": null,
+                        "members": null
+                    }
+                ]
+            }
+        ],
+        "composers": [
+            {
+                "id": 15313,
+                "names": [
+                    "hisakuni"
+                ],
+                "line_up_id": -1,
+                "groups": null,
+                "members": null
+            }
+        ],
+        "arrangers": [
+            {
+                "id": 15313,
+                "names": [
+                    "hisakuni"
                 ],
                 "line_up_id": -1,
                 "groups": null,
