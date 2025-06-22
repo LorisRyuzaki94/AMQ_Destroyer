@@ -125,7 +125,14 @@ def process_json_elements(input_file, output_file):
                     "response": response_data
                 }))
                 
-                if length == 0 or length > 1:
+                if length == 0:
+                    logger.info(json.dumps({
+                        "timestamp": datetime.now().isoformat(),
+                        "response": "no song found"
+                    }))
+                    continue
+                elif length > 1:
+                    response_data = [response_data[0]]
                     continue
 
                 for item in response_data:
