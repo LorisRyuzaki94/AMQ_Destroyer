@@ -1,5 +1,6 @@
 import json
 import requests
+import re
 from time import sleep
 import logging
 from datetime import datetime
@@ -64,7 +65,7 @@ def process_json_elements(input_file, output_file):
                 **filters,  # Spread the filters into the body
                 "normal_broadcast": True,
                 "dub": False,
-                "rebroadcast": True,
+                "rebroadcast": False,
                 "standard": True,
                 "instrumental": False,
                 "chanting": False,
@@ -115,9 +116,6 @@ def process_json_elements(input_file, output_file):
                 response_data = response.json()
                 length = len(response_data)
                 
-                if length == 0 or length > 1:
-                    continue
-                
                 # Log response details
                 logger.info(json.dumps({
                     "timestamp": datetime.now().isoformat(),
@@ -126,10 +124,59 @@ def process_json_elements(input_file, output_file):
                     "length": length,
                     "response": response_data
                 }))
+                
+                if length == 0 or length > 1:
+                    continue
 
                 for item in response_data:
                     if item['songName'] == element['songName']:
-                        new_data.append(item)
+                        # Set the appropriate type number based on songType
+                        song_type = item.get("songType")
+                        song_type_number = None
+                        if "Opening" in song_type:
+                            match = re.search(r"Opening\s*(\d+)", song_type, re.IGNORECASE)
+                            if match:
+                                song_type_number = int(match.group(1))
+                            song_type = 1
+                        elif "Ending" in song_type:
+                            match = re.search(r"Ending\s*(\d+)", song_type, re.IGNORECASE)
+                            if match:
+                                song_type_number = int(match.group(1))
+                            song_type = 2
+                        elif "Insert" in song_type:
+                            song_type = 3
+                        
+                        transformed_item = {
+                            "animeRomajiName": item.get("animeJPName"),
+                            "animeEnglishName": item.get("animeENName"),
+                            "altAnimeNames": item.get("animeAltName"),
+                            "altAnimeNamesAnswers": [],
+                            "songArtist": item.get("songArtist"),
+                            "songArranger": item.get("songArranger"),
+                            "songComposer": item.get("songComposer"),
+                            "songName": item.get("songName"),
+                            "songType": song_type,
+                            "songTypeNumber": song_type_number,
+                            "songDifficulty": item.get("songDifficulty"),
+                            "animeType": item.get("animeType"),
+                            "animeVintage": item.get("animeVintage"),
+                            "annId": item.get("annId"),
+                            "malId": item.get("linked_ids", {}).get("myanimelist"),
+                            "kitsuId": item.get("linked_ids", {}).get("kitsu"),
+                            "aniListId": item.get("linked_ids", {}).get("anilist"),
+                            "animeTags": [],
+                            "animeGenre": [],
+                            "rebroadcast": item.get("isRebroadcast"),
+                            "dub": item.get("isDub"),
+                            "startPoint": None,
+                            "annSongId": item.get("annSongId"),
+                            "audio": item.get("audio"),
+                            "video480": item.get("MQ"),
+                            "video720": item.get("HQ"),
+                            "correctGuess": None,
+                            "incorrectGuess": None
+                        }
+                        new_data.append(transformed_item)
                         
                 sleep(0.2)
 
@@ -194,9 +241,12 @@ def compare_csl(file1, file2):
         print(song)
       
         
-# main
-file1 = 'CSLsongs.json'
-file2 = 'CSLsongs2.json'
+def main():
+    file1 = 'AMQ Song-Artist tests\CSLsongs.json'
+    file2 = 'AMQ Song-Artist tests\CSLsongs2.json'
 
-process_json_elements(file1, file2)
-compare_csl(file1, file2)
+    process_json_elements(file1, file2)
+    compare_csl(file1, file2)
+
+if __name__ == "__main__":
+    main()
