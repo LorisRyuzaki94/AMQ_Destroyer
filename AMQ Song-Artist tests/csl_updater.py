@@ -13,7 +13,7 @@ def configure_logging(input_file):
     
     logging.basicConfig(
         level=logging.INFO,
-        format='%(message)s',
+        format="%(message)s",
         handlers=[
             logging.FileHandler(log_filename),
             logging.StreamHandler()
@@ -25,11 +25,11 @@ def process_json_elements(input_file, output_file):
     logger = configure_logging(input_file)
     
     try:
-        with open(input_file, 'r', encoding='utf-8') as f:
+        with open(input_file, "r", encoding="utf-8") as f:
             data = json.load(f)
 
         if not isinstance(data, list):
-            data = [data]  # Ensure we're working with a list
+            data = [data]  # Ensure we"re working with a list
 
         new_data = []
         
@@ -65,34 +65,44 @@ def process_json_elements(input_file, output_file):
                 **filters,  # Spread the filters into the body
                 "normal_broadcast": True,
                 "dub": False,
-                "rebroadcast": False,
+                "rebroadcast": True,
                 "standard": True,
-                "instrumental": False,
-                "chanting": False,
-                "character": False
+                "instrumental": True,
+                "chanting": True,
+                "character": True
                 }
 
             # Add conditional filters
-            if 'animeEnglishName' in element:
-                body["anime_search_filter"] = {
-                    "search": element['animeEnglishName'],
-                    "partial_match": False
-                }
-            elif 'animeENName' in element:
-                body["anime_search_filter"] = {
-                    "search": element['animeENName'],
-                    "partial_match": False
-                }
+            if "animeEnglishName" in element:
+                anime_name = element["animeEnglishName"]
+            elif "animeENName" in element:
+                anime_name = element["animeENName"]
+            else:
+                anime_name = element["animeRomajiName"]
+                
+            if " - Kaikou" in anime_name:
+                anime_name = anime_name.replace(" - Kaikou","")
             
-            if 'songName' in element:
+            body["anime_search_filter"] = {
+                "search": anime_name,
+                "partial_match": False
+            }
+            
+            if "songName" in element:
+                song_name = element["songName"]
                 body["song_name_search_filter"] = {
-                    "search": element['songName'],
+                    "search": song_name,
                     "partial_match": False
                 }
             
-            if 'songArtist' in element:
+            if "songArtist" in element:
+                artist = element["songArtist"]
+                if "Gabriel DropOut" in anime_name:
+                    artist = artist.split(",", 1)[0]
+                if "GRAIN" in song_name:
+                    artist = ""
                 body["artist_search_filter"] = {
-                    "search": element['songArtist'],
+                    "search": artist,
                     "partial_match": False
                 }
 
@@ -104,9 +114,9 @@ def process_json_elements(input_file, output_file):
 
             # Make API call
             try:
-                headers = {'Content-Type': 'application/json'}
+                headers = {"Content-Type": "application/json"}
                 response = requests.post(
-                    'https://anisongdb.com/api/search_request',
+                    "https://anisongdb.com/api/search_request",
                     json=body,
                     headers=headers,
                     timeout=10
@@ -133,10 +143,9 @@ def process_json_elements(input_file, output_file):
                     continue
                 elif length > 1:
                     response_data = [response_data[0]]
-                    continue
 
                 for item in response_data:
-                    if item['songName'] == element['songName']:
+                    if item["songName"] == element["songName"]:
                         # Set the appropriate type number based on songType
                         song_type = item.get("songType")
                         song_type_number = None
@@ -193,11 +202,11 @@ def process_json_elements(input_file, output_file):
                         "type": "error",
                         "error_type": str(type(e).__name__),
                         "message": str(e),
-                        "element_id": element.get('annId')
+                        "element_id": element.get("annId")
                     }
                     logger.error(json.dumps(error_entry))
 
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(output_file, "w", encoding="utf-8") as f:
             json.dump(new_data, f, indent=4)
 
         print(f"Processed {len(new_data)} elements. Output saved to {output_file}")
@@ -221,10 +230,10 @@ def process_json_elements(input_file, output_file):
 def compare_csl(file1, file2):
     # Function to load song names from a JSON file
     def load_song_names(filename):
-        with open(filename, 'r', encoding='utf-8') as f:
+        with open(filename, "r", encoding="utf-8") as f:
             data = json.load(f)
         # Extract "songName" from each element, assuming each element is a dict
-        return [item.get('songName') for item in data if 'songName' in item]
+        return [item.get("songName") for item in data if "songName" in item]
 
     songs1 = load_song_names(file1)
     songs2 = load_song_names(file2)
@@ -236,21 +245,14 @@ def compare_csl(file1, file2):
     # Songs only in file1
     only_in_file1 = set1 - set2
 
-    # Songs only in file2
-    only_in_file2 = set2 - set1
-
     print(f"Songs only in {file1}:")
     for song in only_in_file1:
-        print(song)
-
-    print(f"\nSongs only in {file2}:")
-    for song in only_in_file2:
         print(song)
       
         
 def main():
-    file1 = 'AMQ Song-Artist tests\CSLsongs.json'
-    file2 = 'AMQ Song-Artist tests\CSLsongs2.json'
+    file1 = "AMQ Song-Artist tests\CSLsongs.json"
+    file2 = "AMQ Song-Artist tests\CSLsongs2.json"
 
     process_json_elements(file1, file2)
     compare_csl(file1, file2)
